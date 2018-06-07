@@ -15,6 +15,9 @@
   * mozo
   * software-boutique
   * ubuntu-mate
+  
+* Added in status
+  * nm-signal 
 
 # v13.1
 
