@@ -1,3 +1,21 @@
+# v13.2
+Added Icons: MATE
+compton
+eom
+fcitx
+gtkhash
+gtk-select-color
+lightdm-settings
+mate-eiciel
+mate-panel
+mate-preferences-desktop-display
+mate-session-properties
+mate
+mate-system-log
+mozo
+software-boutique
+ubuntu-mate
+
 # v13.1
 
 * Due to @paullinuxthemer's suggestions, I and @magog64 decided to separate the GTK, icons themes and wallpapers for the new repositories for facilitating the users who wish to download only the icons themes. Besides, the desktop and cursor theme will be maintained in the Suru++.
