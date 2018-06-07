@@ -1,20 +1,20 @@
 # v13.2
-Added Icons: MATE
-compton
-eom
-fcitx
-gtkhash
-gtk-select-color
-lightdm-settings
-mate-eiciel
-mate-panel
-mate-preferences-desktop-display
-mate-session-properties
-mate
-mate-system-log
-mozo
-software-boutique
-ubuntu-mate
+* Added Icons: MATE
+  * compton
+  * eom
+  * fcitx
+  * gtkhash
+  * gtk-select-color
+  * lightdm-settings
+  * mate-eiciel
+  * mate-panel
+  * mate-preferences-desktop-display
+  * mate-session-properties
+  * mate
+  * mate-system-log
+  * mozo
+  * software-boutique
+  * ubuntu-mate
 
 # v13.1
 
