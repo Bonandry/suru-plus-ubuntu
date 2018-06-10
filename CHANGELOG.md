@@ -1,23 +1,63 @@
-# v13.2
-* Added Icons: MATE
-  * compton
-  * eom
-  * fcitx
-  * gtkhash
-  * gtk-select-color
-  * lightdm-settings
-  * mate-eiciel
-  * mate-panel
-  * mate-preferences-desktop-display
-  * mate-session-properties
-  * mate
-  * mate-system-log
-  * mozo
-  * software-boutique
-  * ubuntu-mate
-  
-* Added in status
-  * nm-signal 
+# 13.4
+
+Icons designed by @gusbemacbe:
+
+* Added icon:
+  * LyX
+
+# 13.3
+
+Icons designed by @gusbemacbe:
+
+* Added GNUstep apps icons:
+  * ACLock
+  * GNUstep Address Manager
+  * GNUstep Calculator
+  * GNUstep Camera
+  * GNUstep Charmap
+  * GNUstep DictionaryReader
+  * GNUstep GNUMail
+  * GNUstep Grr
+
+* Added icons:
+  * Application Finder
+  * EdenMath
+  * Evince Previewer
+  * Midnight Commander
+  * Mutt
+  * Policy Kit Authentication Agent
+  * Sigil
+  * xfig
+  * xpdf
+  * Zipper
+
+* Added `places` icons:
+  * Folder Applications (similar to macOS)
+
+Icons designed by @Magog64:
+
+* Added icons
+  * Google Music Player
+  * MAME
+
+# 13.2
+
+* Improved some icons in `apps/16`, `apps/24`, `apps/scalable`, `devices` and `places`.
+ 
+* Added icons:
+  * Fcitx
+  * GNOME Shell Extensions
+  * OpenShot
+  * Software Boutique
+  * To-do App
+
+* Added MATE icns:
+  * MATE Eiciel
+  * MATE Panel
+  * MATE Session Properties
+  * MATE System Log
+  * MATE
+  * Ubuntu MATE
 
 # v13.1
 
