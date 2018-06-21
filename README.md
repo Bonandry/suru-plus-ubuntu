@@ -10,20 +10,6 @@
 
 ## Installation
 
-The good news is that, you are no longer required to depend on Sam Hewitt's and other Suru++ packs.
-
-### PPA (Ubuntu and Debian-derived)
-
-The another good news is that, you can say goodbye to non-CLI and CLI instruction, install like a Millennium Falcon. Gustavo Costa's (@gusbemacbe) official PPA is:
-
-```shell
-sudo add-apt-repository ppa:gusbemacbe/ppa
-sudo apt-get update
-sudo apt install suru-plus-pack
-```
-
-The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
-
 ### For Lubuntu users
 
 As you want 24px and 26px icons to be colourful in the panel, and want the dark theme, please visit:
@@ -40,10 +26,6 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 
 * [For users of old Ubuntu versions, Ubuntu 16.04 and any Debian-derived distributions.](instructions_with_cli1.md)
 * [For users of Ubuntu 16.04.4 and above, 18.04, Kali Linux and any new Debian-derived distributions.](instructions_with_cli2.md)
-
-  ### **AUR (Arch Linux and Arch-derived), dnf (Fedora and Fedora-derived), yum (CentOS and CentOS-derived) and zypper (openSUSE)**
-
-Soon...
 
 ## Bugs and reports
 
@@ -68,18 +50,7 @@ We recommend you to back your files up when you intend to make a clean install o
 * Do you find the misused icons?
 * Did you find the errors?
 
-Report, but please provide well-detailed informations:
-
-* Distribution and version
-* Steps to reproduce
-* Expected behavior
-* Actual behavior
-* Description
-* Missed icons
-  * Apps names
-  * Missed icon names from the desktop files of `/usr/share/applications` and `yourname/.local/share/applications/`):
-  * Screenshots
-* Additional information
+Report, but please provide well-detailed informations.
 
 ## Contribution
 
@@ -96,4 +67,4 @@ The changelog is available on the release page in theme's repository.
 
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni and Gustavo Costa
+GPL3 © Suru++ by Andrea Bonanni
