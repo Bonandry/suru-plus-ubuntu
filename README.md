@@ -1,4 +1,4 @@
-<p align="center"> 
+﻿<p align="center"> 
 <img src="Title.svg" alt="Title">
 </p>
 
@@ -17,15 +17,7 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 * [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/)
 * [Suru++ Dark Lubuntu](https://github.com/gusbemacbe/suru-plus-dark-lubuntu/)
 
-### Installation without CLI
-
-* [For users of before Ubuntu 18.04 and any old and new Debian-derived distributions.](instructions_without_cli1.md)
-* [For users of Ubuntu 18.04](instructions_without_cli2.md).
-
-### Installation with CLI
-
-* [For users of old Ubuntu versions, Ubuntu 16.04 and any Debian-derived distributions.](instructions_with_cli1.md)
-* [For users of Ubuntu 16.04.4 and above, 18.04, Kali Linux and any new Debian-derived distributions.](instructions_with_cli2.md)
+* Just download, extract and move to `your_name/.icons` or `your_name/local/icons`. 
 
 ## Bugs and reports
 
