@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1037"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="text-x-readme.svg">
   <defs
      id="defs1031">
@@ -159,14 +159,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="110.22314"
+     inkscape:cx="48.844827"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1">
@@ -182,7 +182,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -229,6 +229,11 @@
        id="path931"
        inkscape:connector-curvature="0" />
     <path
+       inkscape:connector-curvature="0"
+       d="m 27.310129,262.57772 c 0.303563,0.82534 0.645251,1.49417 1.373074,0.57959 0.902338,-0.53706 3.925737,-2.89009 3.623212,-0.58524 -0.968094,4.26542 -2.146473,8.486 -3.04748,12.76468 -0.94213,2.34252 1.197261,4.46169 3.430944,2.93839 2.374259,-0.97896 4.417307,-2.57325 6.504508,-4.03573 -0.284769,-0.6983 -0.4746,-1.7017 -1.261486,-0.78834 -1.033228,0.46895 -3.289904,2.68012 -3.709154,0.85657 0.867901,-4.61883 2.475923,-9.06641 3.503796,-13.64837 0.945914,-2.1066 -0.598946,-4.76843 -2.911425,-3.02587 -2.77041,1.20676 -5.0872,3.17774 -7.505989,4.94432 z M 37.592016,247.0436 c -2.82664,-0.15027 -4.304504,4.40661 -1.618369,5.65347 2.17924,0.89377 4.552042,-1.34134 4.019664,-3.57465 -0.165218,-1.16302 -1.209308,-2.11804 -2.401295,-2.07882 z"
+       id="text3482"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10752499;marker:none;enable-background:accumulate" />
+    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;marker:none;enable-background:accumulate"
        d="m 33.690332,233.28164 v 59.26667 h 12.985253 c 9.338924,0 10.055122,-0.96217 10.298081,-10.31695 v -19.31639 -19.31639 c 0,-9.35792 -0.959157,-10.31694 -10.298081,-10.31694 z"
        id="path4231"
@@ -240,10 +245,5 @@
        d="m 10.406999,262.91497 v 19.31639 c -0.04577,9.35782 0.959155,10.31695 10.29808,10.31695 h 25.970506 c 9.338924,0 10.055122,-0.96217 10.298081,-10.31695 v -19.31639 z"
        id="path4255"
        sodipodi:nodetypes="ccssscc" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 27.310129,262.57772 c 0.303563,0.82534 0.645251,1.49417 1.373074,0.57959 0.902338,-0.53706 3.925737,-2.89009 3.623212,-0.58524 -0.968094,4.26542 -2.146473,8.486 -3.04748,12.76468 -0.94213,2.34252 1.197261,4.46169 3.430944,2.93839 2.374259,-0.97896 4.417307,-2.57325 6.504508,-4.03573 -0.284769,-0.6983 -0.4746,-1.7017 -1.261486,-0.78834 -1.033228,0.46895 -3.289904,2.68012 -3.709154,0.85657 0.867901,-4.61883 2.475923,-9.06641 3.503796,-13.64837 0.945914,-2.1066 -0.598946,-4.76843 -2.911425,-3.02587 -2.77041,1.20676 -5.0872,3.17774 -7.505989,4.94432 z M 37.592016,247.0436 c -2.82664,-0.15027 -4.304504,4.40661 -1.618369,5.65347 2.17924,0.89377 4.552042,-1.34134 4.019664,-3.57465 -0.165218,-1.16302 -1.209308,-2.11804 -2.401295,-2.07882 z"
-       id="text3482"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#7e8087;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10752499;marker:none;enable-background:accumulate" />
   </g>
 </svg>
