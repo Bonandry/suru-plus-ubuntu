@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1037"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="6.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="text-x-python.svg">
   <defs
      id="defs1031">
     <radialGradient
@@ -48,6 +48,16 @@
          style="stop-color:#444c5c;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3284">
+      <path
+         sodipodi:nodetypes="scccssscsss"
+         inkscape:connector-curvature="0"
+         id="path3286"
+         d="M 102.92162,44 C 67.624897,44 63.82701,47.625418 64,82.99353 V 156 229.00647 C 63.82701,264.37459 67.624897,268 102.92162,268 h 98.15676 C 236.3751,268 240,264.375 240,229.00647 V 156 82.99353 C 240,47.624997 236.3751,44 201.07838,44 Z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3288);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="119.09284"
@@ -129,15 +139,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="16.963856"
-     inkscape:cy="104.34234"
+     inkscape:zoom="3.2382812"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1">
