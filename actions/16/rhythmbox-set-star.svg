@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="bookmarks.svg"
-   inkscape:version="0.92.1 unknown">
+   sodipodi:docname="rhythmbox-set-star.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="789"
+     inkscape:window-width="808"
      inkscape:window-height="480"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="-4.5762712"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -55,7 +55,7 @@
   </style>
   </defs>
   <path
-     style="fill:currentColor;opacity:1"
+     style="fill:#808080;opacity:1;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 8 0.390625 L 5.8808594 5.8847656 L 0 6.2011719 L 4.5722656 9.9160156 L 3.0566406 15.607422 L 8 12.40625 L 12.943359 15.607422 L 11.427734 9.9160156 L 16 6.2011719 L 10.119141 5.8847656 L 8 0.390625 z"
      id="path5" />
