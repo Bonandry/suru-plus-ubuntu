@@ -41,7 +41,7 @@ We recommend you to back the desktop configuration files up when you intend to m
 
 ### Some icons are not applied correctly and look bad in KDE.
 
-Because of this, I will no longer offer support for KDE due to these bugs. The KDE environment itself do not apply correctly the icons. 
+Because of this, I will no longer offer support for KDE due to these bugs. The KDE environment itself does not apply correctly the icons. 
 
 ### Do you support for other distributions, as Arch Linux, Linux Mint, etc.?
 
