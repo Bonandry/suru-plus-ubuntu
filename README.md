@@ -6,6 +6,8 @@
 
 <h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
+<h3 align="center">Optimized for Ubuntu 18.04</h3>
+
 ![Screenshot](screenshot.png)
 
 ## Installation
