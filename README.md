@@ -17,26 +17,39 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 * [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/)
 * [Suru++ Dark Lubuntu](https://github.com/gusbemacbe/suru-plus-dark-lubuntu/)
 
-* Just download, extract and move to `your_name/.icons` or `your_name/local/icons`. 
+## Installation
 
-## Bugs and reports
+### With CLI
 
-### Many apps are not well displayed
+* [For users of old Ubuntu versions and Ubuntu 16.04](instructions_with_cli1.md)
+* [For users of Ubuntu 16.04.4 and above and for Ubuntu 18.04](instructions_with_cli2.md)
 
-It is not the pack's problem. It is the desktop files problem because:
-* Snap apps are very buggy and can't be open and as Gnome-Characters, Gnome-Logs, Gravit Designer and Vectr, use the different path and use the ICO/PNG extension added instead;
-* The desktop files of certain native apps as IBus and Mozc for Chinese, Japanese and Korean languages use the different relative path of an icon, use the PNG format added a SVG extension, turn the icons unrecognisable by the icons packs,
+### Without CLI
 
-We have already reported these issues:
-* CrossFTP: 
-* GitHub Desktop: [view the issue](https://github.com/shiftkey/desktop/issues/42#issuecomment-387865477)
-* Gravit Designer: [view the issue](https://discuss.gravit.io/t/linux-package-feature-requests/294/20)
-* IBus: [view the issue](https://github.com/phuang/ibus-pinyin/issues/13)
-* Mozc Setup: [view the issue](https://github.com/google/mozc/issues/440)
+* [For users of old Ubuntu versions and Ubuntu 16.04](instructions_without_cli1.md)
+* [For users of Ubuntu 16.04.4 and above and for Ubuntu 18.04](instructions_without_cli2.md)
 
-We provide desktop files (AppImage, native Debian packages, snap app and source codes) for you for being able of opening the apps and displaying well the icons. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
+## Known bugs
 
-We recommend you to back your files up when you intend to make a clean install or reinstall your distribution.
+### This icon theme do not apply correctly the apps icons
+
+Some apps, as AppImage-built, Snap-built and dpkg-installed apps do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, GitHub Desktop uses the `Icon=desktop`.  
+
+It is why my collaborator @gusbemacbe provided the [desktop configuration files](https://github.com/gusbemacbe/suru-plus/tree/master/desktop) for you. Put them in `~/.local/share/applications`. 
+
+We recommend you to back the desktop configuration files up when you intend to make a clean install or reinstall your distribution.
+
+### Some icons are not applied correctly and look bad in KDE.
+
+Because of this, I will no longer offer support for KDE due to these bugs. The KDE environment itself do not apply correctly the icons. 
+
+### Do you support for other distributions, as Arch Linux, Linux Mint, etc.?
+
+No, because if I will add everything, it will cause a lot of bugs and increase the file size. I would not like to work with bugs and to have headache. I prefer focusing only on Ubuntu distributions. 
+
+Therefore, you must consider my collaborator's alternative icon theme if you ant this support: [Suru++ [Complete]](https://github.com/gusbemacbe/suru-plus)
+
+## Report
 
 * Do you find the missed icons?
 * Do you find the misused icons?
@@ -51,7 +64,7 @@ Report, but please provide well-detailed informations.
 
 ## Contributors
 
-The contributors is on the file AUTHORS
+The contributors is on the file [AUTHORS](AUTHORS)
 
 ## Changelog
 
@@ -59,4 +72,4 @@ The changelog is available on the release page in theme's repository.
 
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni
+GPL3 © 2018 Suru++ by Andrea Bonanni and Gustavo Costa. 
