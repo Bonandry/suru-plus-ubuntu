@@ -1,3 +1,7 @@
+# 14
+
+* The icon theme package became increasingly minimal and is optimised for Ubuntu distributions. 
+
 # 13.4
 
 Icons designed by @gusbemacbe:
