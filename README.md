@@ -3,10 +3,8 @@
 </p>
 
 <h3 align="center">A third-party Suru icons for Ubuntu 18.04</h3>
-
-<h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
-
 <h3 align="center">Optimized for Ubuntu 18.04</h3>
+<h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 ![Screenshot](screenshot.png)
 
@@ -74,4 +72,4 @@ The changelog is available on the release page in theme's repository.
 
 ## License
 
-GPL3 © 2018 Suru++ by Andrea Bonanni and Gustavo Costa. 
+GPL3 © 2018 Suru++ [Minimal] by Andrea Bonanni and Gustavo Costa. 

@@ -1,3 +1,16 @@
+# 14.5
+
+With the help of @gusbemacbe,
+
+* Adding ones hundred new icons of Ubuntu apps
+* Correcting the erroneous names of icons
+* Optimising the package for Ubuntu
+* Removing all icons of dead, depreciated and discontinued apps —AIM, Copy, Emesene, UBuntu One Installer, etc.
+* Removing all icons of KDE, MATE and XFCE
+* Removing the symbolic icons from the non-symbolic icons
+
+With all them, I ended the bugs and optimised the size for Ubuntu. 
+
 # 14
 
 * The icon theme package became increasingly minimal and is optimised for Ubuntu distributions. 
