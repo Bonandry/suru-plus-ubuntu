@@ -19,7 +19,7 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 
 ### For non-Ubuntu users
 
-This repository is designed only for Ubuntu. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe) [Suru++ 20](https://github.com/gusbemacbe/suru-plus)
+This repository is designed only for Ubuntu. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe)’s [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
 
 ## Installation
 
@@ -62,16 +62,18 @@ Report, but please provide well-detailed informations.
 ## Contribution
 
 * Would you like to improve our repository?
-* Do you want to add and request the icons? Make a pull request and we will analyse and approve or not
+* Do you want to add and request the icons? Make a pull request and we will analyse and approve or not.
 
 ## Contributors
 
-The contributors is on the file [AUTHORS](AUTHORS)
+The contributors is on the file [AUTHORS](AUTHORS).
 
 ## Changelog
 
-Please visit the [CHANGELOG](CHANGELOG)
+Please visit the [CHANGELOG](CHANGELOG).
 
 ## License
+
+CC-BYSA/GPL3 © Suru Icons by Sam Hewitt.
 
 GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
