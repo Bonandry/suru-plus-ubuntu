@@ -17,6 +17,10 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 * [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/)
 * [Suru++ Dark Lubuntu](https://github.com/gusbemacbe/suru-plus-dark-lubuntu/)
 
+### For non-Ubuntu users
+
+This repository is designed only for Ubuntu. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe)’s [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
+
 ## Installation
 
 ### With CLI
@@ -35,9 +39,7 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 
 Some apps, as AppImage-built, Snap-built and dpkg-installed apps do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, GitHub Desktop uses the `Icon=desktop`.  
 
-It is why my collaborator @gusbemacbe provided the [desktop configuration files](https://github.com/gusbemacbe/suru-plus/tree/master/desktop) for you. Put them in `~/.local/share/applications`. 
-
-We recommend you to back the desktop configuration files up when you intend to make a clean install or reinstall your distribution.
+Therefore, you must modify name of icon in the desktop configuration files at `/usr/share/applications`. We recommend you to back the modified desktop files to `your_name/.local/share/applications` because with the new updates, the system will revert to the original file. 
 
 ### Some icons are not applied correctly and look bad in KDE.
 
@@ -47,7 +49,7 @@ Because of this, I will no longer offer support for KDE due to these bugs. The K
 
 No, because if I will add everything, it will cause a lot of bugs and increase the file size. I would not like to work with bugs and to have headache. I prefer focusing only on Ubuntu distributions. 
 
-Therefore, you must consider my collaborator's alternative icon theme if you ant this support: [Suru++ [Complete]](https://github.com/gusbemacbe/suru-plus)
+Therefore, you must consider my collaborator's alternative icon theme if you ant this support: [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
 
 ## Report
 
@@ -60,16 +62,18 @@ Report, but please provide well-detailed informations.
 ## Contribution
 
 * Would you like to improve our repository?
-* Do you want to add and request the icons? Make a pull request and we will analyse and approve or not
+* Do you want to add and request the icons? Make a pull request and we will analyse and approve or not.
 
 ## Contributors
 
-The contributors is on the file [AUTHORS](AUTHORS)
+The contributors is on the file [AUTHORS](AUTHORS).
 
 ## Changelog
 
-The changelog is available on the release page in theme's repository.
+Please visit the [CHANGELOG](CHANGELOG).
 
 ## License
 
-GPL3 © 2018 Suru++ [Minimal] by Andrea Bonanni and Gustavo Costa. 
+CC-BYSA/GPL3 © Suru Icons by Sam Hewitt.
+
+GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
