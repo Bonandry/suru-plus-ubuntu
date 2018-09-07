@@ -82,7 +82,7 @@ Because of this, I will no longer offer support for KDE due to these bugs. The K
 
 No, because if I will add everything, it will cause a lot of bugs and increase the file size. I would not like to work with bugs and to have headache. I prefer focusing only on Ubuntu distributions. 
 
-Therefore, you must consider my collaborator's alternative icon theme if you ant this support: [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
+Therefore, you must consider my collaborator's alternative icon theme if you want this support: [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
 
 ## Report
 
