@@ -1,5 +1,20 @@
+# Icon Theme Profile
+
+# The FreeDesktop Suru icon set is designed and developed by:
+# - Sam Hewitt <sam@snwh.org>
+
+# The original Suru icon set and concept was created by:
+# - Matthieu James
+# - Canonical Design Team
+
+# Core developers (in order of appearance):
+# - Andrea Bonanni (original author) <bonandry@gmail.com>
+# - Gustavo Costa <gusbemacbe@gmail.com>
+
 [Icon Theme]
 Name=Suru++
+
+Comment=An elegant, modern and sweet icons theme,based on Sam Hewitt's Suru Icons
 
 DisplayDepth=32
 Encoding=UTF-8
@@ -20,7 +35,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/32,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
 
 [actions/16]
 Context=Actions
@@ -73,12 +88,17 @@ MaxSize=31
 Type=Scalable
 
 [apps/16]
-Context=Actions
+Context=Applications
 Size=16
 Type=Fixed
 
 [apps/24]
-Context=Actions
+Context=Applications
+Size=24
+Type=Fixed
+
+[apps/32]
+Context=Applications
 Size=24
 Type=Fixed
 

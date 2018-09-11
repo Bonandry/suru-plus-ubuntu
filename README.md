@@ -8,6 +8,41 @@
 
 ![Screenshot](screenshot.png)
 
+<h1>Index</h1>
+
+- [What is new in the version 17.1?](#what-is-new-in-the-version-171)
+- [Installation](#installation)
+  - [For Lubuntu users](#for-lubuntu-users)
+  - [For non-Ubuntu users](#for-non-ubuntu-users)
+  - [With CLI](#with-cli)
+  - [Without CLI](#without-cli)
+- [Known bugs](#known-bugs)
+  - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
+  - [Some icons are not applied correctly and look bad in KDE.](#some-icons-are-not-applied-correctly-and-look-bad-in-kde)
+  - [Do you support for other distributions, as Arch Linux, Linux Mint, etc.?](#do-you-support-for-other-distributions-as-arch-linux-linux-mint-etc)
+- [Report](#report)
+- [Contribution](#contribution)
+- [Contributors](#contributors)
+- [Changelog](#changelog)
+- [Credit and Licences](#credit-and-licences)
+
+## What is new in the version 17.1?
+
+- Added three alternatives of Firefox that you can choose:
+
+| <img src="apps/scalable/firefox.svg" alt="Firefox Traditional" height="100px"> | <img src="apps/scalable/firefox-20.svg" alt="Firefox Suru++ 20" height="100px"> | <img src="apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="100px"> |
+| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| Traditional                                                                    | Suru++ 20                                                                       | Mozilla Unofficial                                                                 |
+| `firefox.svg`                                                                  | `firefox-20.svg`                                                                | `firefox-mozilla.svg`                                                              |
+
+**How to change the alternative of these?**
+
+1. Go to `/usr/share/applications/`;
+2. Go to the desktop file `Firefox`;
+3. Open the file with your favourite text editor;
+4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-20` or `Icon=firefox-mozilla`. Save it.
+
+
 ## Installation
 
 ### For Lubuntu users
@@ -20,8 +55,6 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 ### For non-Ubuntu users
 
 This repository is designed only for Ubuntu. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe)’s [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
-
-## Installation
 
 ### With CLI
 
@@ -49,7 +82,7 @@ Because of this, I will no longer offer support for KDE due to these bugs. The K
 
 No, because if I will add everything, it will cause a lot of bugs and increase the file size. I would not like to work with bugs and to have headache. I prefer focusing only on Ubuntu distributions. 
 
-Therefore, you must consider my collaborator's alternative icon theme if you ant this support: [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
+Therefore, you must consider my collaborator's alternative icon theme if you want this support: [Suru++ 20](https://github.com/gusbemacbe/suru-plus).
 
 ## Report
 
@@ -72,8 +105,7 @@ The contributors is on the file [AUTHORS](AUTHORS).
 
 Please visit the [CHANGELOG](CHANGELOG).
 
-## License
+## Credit and Licences
 
 CC-BYSA/GPL3 © Suru Icons by Sam Hewitt.
-
 GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
