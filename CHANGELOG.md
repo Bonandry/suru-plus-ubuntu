@@ -11,7 +11,7 @@
 
 Preview:
 
-![img](https://raw.githubusercontent.com/Magog64/SURU-PLUS/reservato/images/new-icons-v18.png[/img])
+![img](https://raw.githubusercontent.com/Magog64/SURU-PLUS/reservato/images/new-icons-v18.png)
 
 # 14.5
 
