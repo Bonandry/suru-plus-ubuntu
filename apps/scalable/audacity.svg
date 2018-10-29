@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1488"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="amazon-store.svg">
+   sodipodi:docname="audacity.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -789,19 +789,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1662"
-       x="-0.043501423"
-       width="1.0870028"
-       y="-0.053536306"
-       height="1.1070726">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.2626068"
-         id="feGaussianBlur1664" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -811,7 +798,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2382812"
-     inkscape:cx="128"
+     inkscape:cx="67.010856"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="g1624"
@@ -834,7 +821,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -884,11 +871,6 @@
       <g
          id="g1624"
          transform="translate(23.051608,-8.2193284)">
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.87133884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter1662)"
-           d="M 125.48438 55.316406 C 110.1229 55.343033 94.717726 60.114428 82.994141 69.847656 C 71.919389 79.042208 64.30253 92.790146 63.492188 110.38477 C 56.232276 111.94801 49.813321 116.68357 45.03125 123.3125 C 39.125316 131.49933 35.56836 142.62521 35.568359 154.86523 C 35.568359 167.10526 39.125316 178.22918 45.03125 186.41602 C 50.937184 194.60285 59.340514 199.9043 68.740234 199.9043 L 71.175781 199.9043 L 71.175781 197.46875 L 71.175781 154.86523 L 71.175781 109.82227 L 71.162109 109.82227 C 72.061722 94.670129 78.493647 83.506106 87.871094 75.720703 C 97.995465 67.31518 111.71944 62.973109 125.49805 62.949219 C 139.27665 62.925338 153.00621 67.220079 163.14062 75.611328 C 172.76221 83.577958 179.29988 95.129051 179.96094 110.95898 L 179.96094 154.86523 L 179.96094 197.46875 L 179.96094 199.9043 L 182.39648 199.9043 C 191.7962 199.9043 200.19953 194.60285 206.10547 186.41602 C 212.0114 178.22918 215.56836 167.10526 215.56836 154.86523 C 215.56836 142.62521 212.0114 131.49933 206.10547 123.3125 C 201.30822 116.66253 194.86447 111.91516 187.57617 110.36719 C 186.73949 92.687711 179.10066 78.915299 168.00781 69.730469 C 156.26592 60.008229 140.84583 55.28977 125.48438 55.316406 z M 168.73633 108.24609 A 3.7626108 3.7626108 0 0 0 165.03125 112.0625 L 165.03125 197.20117 A 3.762695 3.762695 0 1 0 172.55664 197.20117 L 172.55664 112.0625 A 3.7626108 3.7626108 0 0 0 168.73633 108.24609 z M 80.658203 108.77734 A 3.7626108 3.7626108 0 0 0 76.953125 112.5918 L 76.953125 197.73242 A 3.7626108 3.7626108 0 1 0 84.476562 197.73242 L 84.476562 112.5918 A 3.7626108 3.7626108 0 0 0 80.658203 108.77734 z "
-           transform="matrix(2.0393079,0,0,2.0393079,-52.606338,19.111815)"
-           id="path2790" />
         <path
            inkscape:connector-curvature="0"
            style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fff13b;stroke-width:8.15723157;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.8"
