@@ -352,32 +352,6 @@
          d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
          style="display:inline;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter3074"
-       x="-0.132"
-       width="1.2640001"
-       y="-0.11"
-       height="1.22">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.6"
-         id="feGaussianBlur3076" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter3084"
-       x="-0.0132"
-       width="1.0264"
-       y="-0.011"
-       height="1.022">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.66"
-         id="feGaussianBlur3086" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient876"
@@ -426,6 +400,19 @@
          stdDeviation="2.32"
          id="feGaussianBlur927" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter919"
+       x="-0.0528"
+       width="1.1056"
+       y="-0.044"
+       height="1.088">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.64"
+         id="feGaussianBlur921" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -435,10 +422,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6240949"
-     inkscape:cx="-95.765694"
+     inkscape:cx="-9.0454001"
      inkscape:cy="119.46996"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3204"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -512,23 +499,14 @@
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/stuart/Pictures/gnome-mahjongg.svg.png">
       <rect
-         ry="16.941177"
-         rx="16"
-         y="88.000008"
-         x="91.999977"
-         height="144"
+         style="opacity:0.3;vector-effect:none;fill:#0e0c00;fill-opacity:1;stroke:none;stroke-width:2.05798316;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter919)"
+         id="rect905"
          width="120"
-         id="rect3003-0"
-         style="display:inline;opacity:0.4;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.05798316;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3074);enable-background:new" />
-      <rect
-         ry="16.941177"
-         rx="16"
-         y="83.999985"
-         x="92.000015"
          height="144"
-         width="120"
-         id="rect3003-8"
-         style="display:inline;opacity:0.1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.05798316;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3084);enable-background:new" />
+         x="92"
+         y="84"
+         rx="16"
+         ry="16.941177" />
       <rect
          ry="16.941177"
          rx="16"

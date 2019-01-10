@@ -1,63 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   height="16"
-   width="16"
-   version="1.1"
-   sodipodi:docname="gnome-tweak-tool-symbolic.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1524"
-     inkscape:window-height="847"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='15.999999' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata20854'>
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about=''>
+        <dc:title/>
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <g
-     id="layer9"
-     transform="translate(-463 145)"
-     style="fill:#808080;fill-opacity:1">
-    <path
-       id="rect6038-5-6"
-       style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:#808080;fill-opacity:1"
-       d="m464.97-144.97c-1.0895 0-1.9688 0.87926-1.9688 1.9688v12c0 1.0895 0.87926 1.9688 1.9688 1.9688h12.062c1.0895 0 1.9688-0.87926 1.9688-1.9688v-12c0-1.0895-0.87926-1.9688-1.9688-1.9688h-12.062zm0 1h12.062c0.55278 0 0.96875 0.41597 0.96875 0.96875v11.031c0 0.55278-0.41597 0.96875-0.96875 0.96875h-12.062c-0.55278 0-0.96875-0.41597-0.96875-0.96875v-11.031c0-0.60207 0.35439-0.96875 0.96875-0.96875zm0.0312 0.96875v1h1v-1h-1zm2 0v1h1v-1h-1zm3 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm-11 2v1h1v-1h-1zm2 0v1h1v-1h-1zm3 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm-2 2v1h-1c-0.54535 0-1 0.45465-1 1v1c0 0.54535 0.45465 1 1 1h0.1875 0.8125 1 0.65625 0.34375c0.54535 0 1-0.45465 1-1v-1c0-0.54535-0.45465-1-1-1h-1v-1h-1zm-6 1c-1.6509 0-3 1.3491-3 3s1.3491 3 3 3 3-1.3491 3-3-1.3491-3-3-3zm0 1c1.1105 0 2 0.88951 2 2s-0.88951 2-2 2-2-0.88951-2-2 0.88951-2 2-2zm5 0h3v1h-3v-1zm1 3v2h1v-2h-1z" />
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient4526' osb:paint='solid'>
+      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
+      <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
+      <stop id='stop3604-6' offset='1' style='stop-color:#dbdbdb;stop-opacity:1'/>
+    </linearGradient>
+  </defs>
+  <g id='layer9' label='status' style='display:inline' transform='translate(-773.0002,67.000061)'/>
+  <g id='layer2' style='display:inline' transform='translate(-532,-299.99994)'/>
+  <g id='layer4' style='display:inline' transform='translate(-532,-299.99994)'/>
+  <g id='g1812' style='display:inline' transform='translate(-532,-299.99994)'/>
+  <g id='g6217' style='display:inline' transform='translate(-532,-299.99994)'/>
+  <g id='layer3' style='display:inline' transform='translate(-532,-299.99994)'/>
+  <g id='g1833' style='display:inline' transform='translate(-532,-299.99994)'>
+    
+    <path d='m 534,301 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 7.5,1 h 4 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -4 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z' id='rect3862-2' style='opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+    <path d='m 534,309 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0.5,1 h 4 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -4 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z' id='rect3862-7-1' style='display:inline;opacity:0.5;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
   </g>
+  <g id='layer1' style='display:inline' transform='translate(-532,-299.99994)'/>
 </svg>
