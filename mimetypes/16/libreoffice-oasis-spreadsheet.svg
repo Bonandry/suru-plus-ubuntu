@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="5.svg"
+   sodipodi:docname="libreoffice-calc-symbolic.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="g6058"
-     inkscape:cx="1.04089"
+     inkscape:cx="4.2365636"
      inkscape:cy="8"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,7 +57,7 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
@@ -123,28 +123,42 @@
        id="path6701"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none"
        sodipodi:nodetypes="ccccccccccccccccccc" />
-    <rect
-       height="3"
-       id="rect18593"
-       style="display:inline;fill:#808080;fill-opacity:1;stroke:none;enable-background:new"
-       transform="scale(-1,1)"
-       width="1.9999983"
-       x="-118"
-       y="189" />
-    <rect
-       height="2"
-       id="rect18595"
-       style="display:inline;fill:#808080;fill-opacity:1;stroke:none;enable-background:new"
-       width="2.0000017"
-       x="122"
-       y="190" />
-    <rect
-       height="5"
-       id="rect18597"
-       style="display:inline;fill:#808080;fill-opacity:1;stroke:none;enable-background:new"
-       transform="scale(-1,1)"
-       width="2"
-       x="-121"
-       y="187" />
+    <g
+       id="g840"
+       transform="translate(0.25002922)">
+      <path
+         style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6248"
+         d="m 116.25,186.25 c -0.277,0 -0.5,0.223 -0.5,0.5 v 6 c 0,0.277 0.223,0.5 0.5,0.5 h 7 c 0.277,0 0.5,-0.223 0.5,-0.5 v -6 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 0.5,1 h 6 v 5 h -6 z"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="188.25"
+         x="116.75"
+         width="6"
+         style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6253"
+         height="1" />
+      <rect
+         y="190.25"
+         x="116.75"
+         width="6"
+         style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6255"
+         height="1" />
+      <rect
+         y="187.25"
+         x="120.75"
+         width="1"
+         style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6257"
+         height="5" />
+      <rect
+         y="187.25"
+         x="118.75"
+         width="1"
+         style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6259"
+         height="5" />
+    </g>
   </g>
 </svg>
