@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1488"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="preferences-system-sharing.svg">
+   sodipodi:docname="vpn.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -744,15 +744,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1040"
+       id="filter1625"
        x="-0.049714286"
-       width="1.0994286"
-       y="-0.0464"
+       width="1.0994287"
+       y="-0.046399999"
        height="1.0928">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.73148472"
-         id="feGaussianBlur1042" />
+         stdDeviation="0.29"
+         id="feGaussianBlur1627" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -763,7 +763,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="110.08898"
+     inkscape:cx="-17.05656"
      inkscape:cy="140.33735"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -786,7 +786,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -978,28 +978,23 @@
        clip-path="url(#clipPath1082-3-367)"
        transform="matrix(0.13229167,0,0,0.13229167,-4.876802,261.66013)" />
     <g
-       transform="translate(5.3594702,-2.4172413)"
-       id="g1014"
-       style="fill:#2d2020;fill-opacity:1;filter:url(#filter1040);opacity:0.3">
+       id="g1010"
+       transform="translate(4.1259252,-2.4499313)">
       <g
-         id="g1012"
-         transform="matrix(2.5223611,0,0,2.5223611,-1182.8696,-207.27784)"
-         style="color:#000000;fill:#2d2020;fill-opacity:1">
+         id="g1030"
+         transform="matrix(1.7755104,0,0,1.7755104,-823.14772,-67.210644)"
+         style="color:#000000;opacity:0.3;fill:#140707;fill-opacity:1;filter:url(#filter1625)">
         <path
-           id="path1010"
-           style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#2d2020;fill-opacity:1"
+           id="path1028"
+           style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#140707;fill-opacity:1"
            overflow="visible"
            font-weight="400"
            d="m 487,182.5 c 0,-1.375 -1.125,-2.5 -2.5,-2.5 a 2.508,2.508 0 0 0 -2.5,2.5 c 0,1.375 1.125,2.5 2.5,2.5 1.375,0 2.5,-1.125 2.5,-2.5 z m 0,10 c 0,-1.375 -1.125,-2.5 -2.5,-2.5 a 2.508,2.508 0 0 0 -2.5,2.5 c 0,1.375 1.125,2.5 2.5,2.5 1.375,0 2.5,-1.125 2.5,-2.5 z m -1,-10 c 0,0.834 -0.666,1.5 -1.5,1.5 -0.834,0 -1.5,-0.666 -1.5,-1.5 0,-0.834 0.666,-1.5 1.5,-1.5 0.834,0 1.5,0.666 1.5,1.5 z m 0,10 c 0,0.834 -0.666,1.5 -1.5,1.5 -0.834,0 -1.5,-0.666 -1.5,-1.5 0,-0.834 0.666,-1.5 1.5,-1.5 0.834,0 1.5,0.666 1.5,1.5 z m -4.266,-7.89 a 3.495,3.495 0 0 1 -0.494,-0.872 l -3.853,2.143 A 2.487,2.487 0 0 0 475.5,185 2.508,2.508 0 0 0 473,187.5 c 0,1.375 1.125,2.5 2.5,2.5 0.755,0 1.427,-0.347 1.887,-0.88 l 3.853,2.142 c 0.122,-0.316 0.29,-0.606 0.494,-0.871 l -3.86,-2.145 c 0.074,-0.237 0.126,-0.485 0.126,-0.746 0,-0.261 -0.052,-0.509 -0.127,-0.746 z M 477,187.5 c 0,0.834 -0.666,1.5 -1.5,1.5 -0.834,0 -1.5,-0.666 -1.5,-1.5 0,-0.834 0.666,-1.5 1.5,-1.5 0.834,0 1.5,0.666 1.5,1.5 z"
            inkscape:connector-curvature="0" />
       </g>
-    </g>
-    <g
-       id="g1010"
-       transform="translate(5.3594702,-2.4172413)">
       <g
          style="color:#000000;fill:#ffffff;fill-opacity:1"
-         transform="matrix(2.5223611,0,0,2.5223611,-1182.8696,-207.27784)"
+         transform="matrix(1.7755104,0,0,1.7755104,-823.14772,-67.210644)"
          id="g1603">
         <path
            inkscape:connector-curvature="0"
