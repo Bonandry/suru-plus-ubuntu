@@ -13,8 +13,8 @@
    height="16px"
    width="16px"
    version="1.1"
-   sodipodi:docname="gnome-sudoku-symbolic.svg"
-   inkscape:version="0.92.2 (unknown)">
+   sodipodi:docname="gnome-2048.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs9" />
   <sodipodi:namedview
@@ -31,10 +31,10 @@
      id="namedview7"
      showgrid="true"
      inkscape:zoom="39.3125"
-     inkscape:cx="8"
+     inkscape:cx="3.4594595"
      inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-x="-208"
+     inkscape:window-y="372"
      inkscape:window-maximized="0"
      inkscape:current-layer="g8452">
     <inkscape:grid
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +61,7 @@
       <path
          id="rect7481-0-7"
          d="m 305.5,214.48995 c -1.0907,0 -2,0.9093 -2,2 v 11 c 0,1.0907 0.9093,1.99999 2,2 l 7.5002,5e-5 1.4998,-1.00005 h -10 v -4 h 4 v 4 h 1 v -4 h 8 v -1 h -8 v -3 h 3 v 8 h 1 v -8.00005 l 4,5e-5 v -1 l -4,-5e-5 v -3.99995 h 4 v 4 8 l 1.0002,-3.46875 -2e-4,-7.53125 c -3e-5,-1.0907 -0.9093,-2 -2,-2 z m -1,1 h 4 v 4 h -4 z m 5,0 h 3 v 4 h -3 z m -5,5 h 4 v 3 h -4 z m 14.0002,3.53125 -1.0002,3.46875 v 1 h -3 l -1.4998,1.00005 h 3.5 c 1.0907,0 2,-0.9093 2,-2 z"
-         style="color:#000000;text-indent:0;text-transform:none;fill:#bebebe"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#808080;fill-opacity:1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ssssccccccccccccccccccccccccsssccccccccccccccccccccssc" />
     </g>
