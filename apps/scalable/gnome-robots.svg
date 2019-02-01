@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1488"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Papirus-Team-Papirus-Apps-Gnome-robots.svg">
+   sodipodi:docname="gnome-robots.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -598,6 +598,62 @@
          d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
          style="display:inline;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient926"
+       id="linearGradient928"
+       x1="39.998047"
+       y1="91.998276"
+       x2="263.99805"
+       y2="91.998276"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient926">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.25877193"
+         offset="0"
+         id="stop921" />
+      <stop
+         id="stop930"
+         offset="0.49108014"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop924" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath942-3">
+      <path
+         id="path944-6"
+         d="m 39.998047,108 v 113.08203 c 0,35.29672 3.623657,38.91992 38.992187,38.91992 h 73.007816 73.00586 c 35.36853,0 38.99414,-3.6232 38.99414,-38.91992 V 108 Z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient946);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter932"
+       x="-0.035357606"
+       width="1.0707152"
+       y="-0.19798554"
+       height="1.3959711">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3000431"
+         id="feGaussianBlur934" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient926"
+       id="linearGradient1621"
+       gradientUnits="userSpaceOnUse"
+       x1="39.998047"
+       y1="91.998276"
+       x2="263.99805"
+       y2="91.998276" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -607,7 +663,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7254691"
-     inkscape:cx="85.855578"
+     inkscape:cx="20.362265"
      inkscape:cy="119.94593"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -630,7 +686,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -700,5 +756,21 @@
          cx="17.56201"
          style="fill:#ff6363;stroke-width:1.12295794" />
     </g>
+    <path
+       transform="matrix(0.27831449,0,0,0.26458333,-9.0799646,223.91867)"
+       id="path919"
+       d="M 78.990234,70.001953 C 43.622114,69.828963 39.998047,73.627098 39.998047,108.92383 V 110 H 263.99805 v -1.07617 c 0,-35.296732 -3.62603,-39.094867 -38.99414,-38.921877 h -73.00586 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:url(#linearGradient928);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter932);enable-background:accumulate"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath942-3)"
+       sodipodi:nodetypes="csccsccc" />
+    <path
+       sodipodi:nodetypes="csccsccc"
+       clip-path="url(#clipPath942-3)"
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:url(#linearGradient1621);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter932);enable-background:accumulate"
+       d="M 78.990234,70.001953 C 43.622114,69.828963 39.998047,73.627098 39.998047,108.92383 V 110 H 263.99805 v -1.07617 c 0,-35.296732 -3.62603,-39.094867 -38.99414,-38.921877 h -73.00586 z"
+       id="path1619"
+       transform="matrix(-0.27831449,0,0,-0.26458333,75.526554,303.52776)" />
   </g>
 </svg>
