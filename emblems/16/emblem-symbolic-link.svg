@@ -37,26 +37,35 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1357"
-     inkscape:window-height="851"
+     inkscape:window-width="1609"
+     inkscape:window-height="984"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-29.38983"
-     inkscape:cy="8"
-     inkscape:window-x="296"
-     inkscape:window-y="192"
+     inkscape:zoom="38.368023"
+     inkscape:cx="4.4221275"
+     inkscape:cy="9.988743"
+     inkscape:window-x="182"
+     inkscape:window-y="59"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <circle
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke-width:1.07142854"
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-width:1.07142854"
      cx="8"
      cy="8"
      r="7.5"
      id="circle2" />
-  <path
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.07142854"
-     d="M 10.34446,12.004144 8.9258271,10.372173 10.235887,9.2333694 C 11.067826,8.5101055 11.478993,7.4304706 11.314522,6.4011105 11.150041,5.3716896 10.329401,4.4276403 9.3328941,4.1214804 8.3861166,3.8321282 7.3190429,4.0498794 6.4986429,4.6998505 7.1418976,4.2376396 7.9500844,4.3501669 8.4319715,4.9046309 8.9500658,5.5006376 8.7894697,6.2706794 8.1399424,6.8222313 L 6.8298827,7.9610348 5.4240518,6.3437914 4.6497689,11.98563 Z"
-     id="path4"
-     inkscape:connector-curvature="0" />
+  <g
+     transform="matrix(-0.47971058,0.48342592,-0.48894548,-0.47429528,480.3607,54.002175)"
+     id="g5"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.9148407"
+       d="m -124.63086,-132.33789 -5.18359,0.15625 -11.40039,0.3418 -0.0234,1.98828 11.40234,-0.34375 1.45508,-0.0625 -3.58594,3.62304 -13.53711,13.94141 1.68946,1.4668 13.59765,-13.5293 3.56836,-3.42578 -0.0273,1.08789 -0.125,11.40625 0.60547,-0.0176 1.03711,-0.0312 0.3457,-0.0117 0.125,-11.40429 z"
+       transform="matrix(-0.36573986,-0.37278072,0.37278072,-0.36573986,430.46453,444.92933)"
+       id="rect4176"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g832"
+     transform="matrix(-0.03662502,2.3971823,-2.3971823,-0.03662502,1191.0121,-1125.5757)" />
 </svg>
