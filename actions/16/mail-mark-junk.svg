@@ -7,13 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
+   height="16"
+   style="enable-background:new"
    version="1.1"
+   width="16"
    id="svg8"
-   sodipodi:docname="mail-mark-junk.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="mail-mark-junk-symbolic.svg"
+   inkscape:version="0.92.2 (unknown)">
   <metadata
-     id="metadata12">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -23,6 +25,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="810"
-     inkscape:window-height="480"
+     inkscape:window-width="1432"
+     inkscape:window-height="1005"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="14.75"
@@ -43,27 +47,17 @@
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg8" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:#808080;fill-opacity:1;stroke:none"
-     d="m1 2v12h8v-1h-6.344l3.986-4.65 1.357 1.357c-.013-.024 6-6 6-6v4.293h1v-6zm1.707 1h10.586l-5.293 5.293zm-.707.707l3.934 3.934-3.934 4.59z"
-     class="ColorScheme-Text"
-     id="path4" />
-  <path
-     d="M12.5 9A2.499985 2.499985 0 0 0 10 11.5 2.499985 2.499985 0 0 0 12.5 14 2.499985 2.499985 0 0 0 15 11.5 2.499985 2.499985 0 0 0 12.5 9M12.5 10A1.5 1.5 0 0 1 13.144531 10.148438L11.148 12.145A1.5 1.5 0 0 1 11 11.5 1.5 1.5 0 0 1 12.5 10M13.851562 10.855469A1.5 1.5 0 0 1 14 11.5 1.5 1.5 0 0 1 12.5 13 1.5 1.5 0 0 1 11.855469 12.851562z"
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     class="ColorScheme-NegativeText"
-     id="path6" />
+  <title
+     id="title2">
+  Paper Symbolic Icon Theme
+ </title>
+  <g
+     transform="translate(-405.00041,-101)"
+     id="g6"
+     style="fill:#808080;fill-opacity:1">
+    <path
+       d="m 410.21895,102 -0.3125,0.28125 -3.625,3.625 -0.28125,0.3125 0,0.40625 0,4.75 0,0.40625 0.28125,0.3125 3.625,3.625 0.3125,0.28125 0.40625,0 4.75,0 0.40625,0 0.3125,-0.28125 3.625,-3.625 0.28125,-0.3125 0,-0.40625 0,-4.75 0,-0.40625 -0.28125,-0.3125 -3.625,-3.625 -0.3125,-0.28125 -0.40625,0 -4.75,0 -0.40625,0 z m 1.78125,3 2,0 0,3 -0.25,2 -1.46875,0 -0.28125,-2 0,-3 z m 1,5.75 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z"
+       style="fill:#808080;fill-opacity:1"
+       id="path4" />
+  </g>
 </svg>

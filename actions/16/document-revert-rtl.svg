@@ -1,7 +1,60 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-132 -100)'>
-        
-        <path d='M140 103l.001 5c.76-.348 1.535-.737 2.323-1.166a44.09 44.09 0 0 0 2.259-1.334c-.725-.449-1.478-.889-2.26-1.32A43.088 43.088 0 0 0 140 103z' fill='gray' overflow='visible' style='marker:none'/>
-        <path d='M136.5 105c-1.93 0-3.5 1.57-3.5 3.5s1.57 3.5 3.5 3.5H147v-1h-10.5a2.484 2.484 0 0 1-2.5-2.5c0-1.394 1.106-2.5 2.5-2.5h4.5v-1h-.5z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="document-export-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="862"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.0338983"
+     inkscape:cy="8"
+     inkscape:window-x="401"
+     inkscape:window-y="132"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14" />
+  <g
+     color="#bebebe"
+     transform="translate(-553 55)"
+     id="g14">
+    <path
+       d="M556-53s-1 0-1 1v3h1v-2.5s0-.5.5-.5h9s.5 0 .5.5v9c0 .5-.5.5-.5.5h-9s-.5 0-.5-.5V-45h-1v3c0 1 1 1 1 1h10s1 0 1-1v-10c0-1-1-1-1-1zm2.569 3.035c-.267-.013-.559.188-.567.465v1.5h-3.5a.52.52 0 0 0-.5.5v1a.489.489 0 0 0 0 .094c.044.229.267.41.5.406h3.5v1.5c.011.369.524.606.813.375l3-2.5a.522.522 0 0 0 0-.75l-3-2.5a.418.418 0 0 0-.246-.09z"
+       fill="#666"
+       overflow="visible"
+       style="marker:none;stroke:none;stroke-opacity:1;fill:#808080;fill-opacity:1"
+       id="path12" />
+  </g>
 </svg>

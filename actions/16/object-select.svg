@@ -1,9 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
- </defs>
- <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 13.138672 3.0292969 C 13.042461 3.0112201 12.942552 3.010175 12.839844 3.03125 C 12.620964 3.07855 12.419254 3.20178 12.277344 3.375 L 5.9960938 10.5625 L 3.7460938 8.3125 C 3.3697638 7.93612 2.6849937 7.93615 2.3085938 8.3125 C 1.9322437 8.68886 1.9322138 9.3736 2.3085938 9.75 L 5.3085938 12.75 L 6.0898438 13.5 L 6.7773438 12.6875 L 13.777344 4.6875 C 14.273836 4.1469863 13.812147 3.1558343 13.138672 3.0292969 z"/>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='15.999999' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='15.999999' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata20854'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:title/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient4526' osb:paint='solid'>
+      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
+      <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
+      <stop id='stop3604-6' offset='1' style='stop-color:#dbdbdb;stop-opacity:1'/>
+    </linearGradient>
+  </defs>
+  <g id='layer9' label='status' style='display:inline' transform='translate(-293.0002,-173)'/>
+  <g id='layer2' transform='translate(-52,-540)'/>
+  <g id='layer4' transform='translate(-52,-540)'/>
+  <g id='g1812' style='display:inline' transform='translate(-52,-540)'/>
+  <g id='g6217' transform='translate(-52,-540)'/>
+  <g id='layer3' style='display:inline' transform='translate(-52,-540)'/>
+  <g id='g1833' style='display:inline' transform='translate(-52,-540)'/>
+  <g id='layer1' transform='translate(-52,-540)'>
+    
+    <path d='M 65.96875,542.96875 58.5,550.4375 l -4.46875,-4.46875 -1.0625,1.0625 5.53125,5.5293 8.53125,-8.5293 z' id='path4135-7' style='color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate'/>
+  </g>
 </svg>
