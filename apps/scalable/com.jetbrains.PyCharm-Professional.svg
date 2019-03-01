@@ -454,40 +454,6 @@
     </radialGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient916"
-       id="linearGradient918"
-       x1="252.12239"
-       y1="210.69392"
-       x2="21.425104"
-       y2="210.69392"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient916">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop912" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop914" />
-    </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter920"
-       x="-0.051591698"
-       width="1.1031834"
-       y="-0.071644202"
-       height="1.1432884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.1384947"
-         id="feGaussianBlur922" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1013"
        id="linearGradient1108"
        x1="296"
@@ -753,8 +719,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="45.902637"
-     inkscape:cy="118.7165"
+     inkscape:cx="99.888947"
+     inkscape:cy="131.05385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -776,7 +742,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -809,25 +775,6 @@
        style="display:inline;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 1.473198,261.13096 v 9.80612 c 0,9.60218 0.68599,15.087 3.776514,18.17357 3.0905286,3.08658 8.580982,3.77031 18.19217,3.77031 h 19.562631 c 9.61119,0 15.101644,-0.68373 18.19217,-3.77031 3.090527,-3.08657 3.776515,-8.57139 3.776515,-18.17357 v -9.80612 z"
        id="path897" />
-    <path
-       transform="matrix(0.13762624,0,0,0.13800859,-1.475458,227.82006)"
-       sodipodi:nodetypes="ccccccccccccc"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:299.10678101px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.5;fill:url(#linearGradient918);fill-opacity:1;stroke:none;stroke-width:1.91981256;filter:url(#filter920);enable-background:new"
-       d="m 110.85775,138 -4.93526,14.80579 50.10039,20.04015 -50.10039,20.04016 4.93526,14.80578 64.45752,-27.21872 v -15.25444 z m 64.36555,90.03114 v 15.10489 h 76.69918 v -15.10489 z"
-       id="path910"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:299.10678101px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332;enable-background:new"
-       d="m 13.781475,246.58922 -0.679221,2.04333 6.895126,2.76571 -6.895126,2.76572 0.679221,2.04332 8.871047,-3.75641 v -2.10525 z m 8.858389,12.42507 v 2.11667 h 10.583333 v -2.11667 z"
-       id="path4212"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:299.10678101px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;enable-background:new"
-       d="m 13.781514,246.58922 -0.679261,2.04345 0.08091,0.0323 0.598352,-1.79977 8.870979,3.75642 v -0.27601 z m 5.871694,4.94702 -6.550955,2.62782 0.08091,0.24367 6.814113,-2.73348 z m 2.986569,7.47807 v 0.27602 h 10.58342 v -0.27602 z"
-       id="path4327"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccc" />
     <g
        id="Group"
        transform="matrix(0.4851757,0,0,0.4851757,1.2696017,231.68504)">
