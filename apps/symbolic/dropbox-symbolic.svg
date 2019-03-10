@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="dropbox.svg"
+   sodipodi:docname="folder-dropbox-symbolic.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="g6058"
-     inkscape:cx="4.9337752"
-     inkscape:cy="7.1394862"
+     inkscape:cx="8"
+     inkscape:cy="8"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -57,12 +57,12 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:zoom="58.541043">
+     inkscape:zoom="52.1875">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -112,9 +112,10 @@
      style="display:inline"
      transform="translate(-136,-140)">
     <path
-       inkscape:connector-curvature="0"
-       d="M 140.78571,141.07143 136.5,143.75 139.71429,145.89286 144,143.21429 Z m 3.21429,2.14286 4.28571,2.67857 3.21429,-2.14286 -4.28571,-2.67857 z m 4.28571,2.67857 -4.28571,2.67857 3.21429,2.14286 4.28571,-2.67858 z M 144,148.57143 l -4.28571,-2.67857 -3.21429,2.14285 4.28571,2.67858 z m 0,1.28697 -3.19545,2.1303 -1.09026,-0.6822 v 0.15486 0.9647 l 4.29408,2.57394 4.27734,-2.56557 v -0.96261 -0.16532 l -1.09026,0.6822 z"
-       id="path4577"
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07142854;stroke-opacity:1" />
+       id="path1359"
+       d="m 140.4483,140.79329 -4.43959,2.66378 3.55171,2.6499 -3.56042,2.6705 4.4483,2.67087 3.5517,-2.66377 -4.43958,-2.66377 4.43958,-2.66373 4.43958,2.6776 -4.43958,2.6499 3.5517,2.66377 4.4483,-2.68453 -3.56057,-2.64604 3.55165,-2.66373 -4.43958,-2.66377 -3.55167,2.6499 -3.55169,-2.6499 z m 3.5517,8.87921 -3.5517,2.66373 -0.88788,-0.53239 v 0.53239 L 144,155 l 4.43958,-2.66377 v -0.53587 l -0.88788,0.53587 z"
+       class="ColorScheme-Text"
+       style="color:#ffffff;display:inline;opacity:1;fill:#808080;fill-opacity:0.99500002;stroke-width:0.88791955;enable-background:new"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

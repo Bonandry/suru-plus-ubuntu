@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1488"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="gnome-mines.svg">
+   sodipodi:docname="org.gnome.Mines.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -941,10 +941,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5511362"
-     inkscape:cx="125.56799"
-     inkscape:cy="103.04"
+     inkscape:cx="75.302388"
+     inkscape:cy="125.568"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g1140"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -965,7 +965,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1048,14 +1048,6 @@
              rx="2"
              ry="2" />
         </g>
-        <path
-           inkscape:export-filename="/home/stuart/Pictures/gnome-mines.svg.png"
-           inkscape:export-ydpi="96"
-           inkscape:export-xdpi="96"
-           id="circle1245-6"
-           d="m 281.58199,167.38722 a 12.235847,12.235847 0 0 0 -10.01731,6.10597 12.235847,12.235847 0 0 0 4.47691,16.71276 12.235847,12.235847 0 0 0 16.71277,-4.47691 12.235847,12.235847 0 0 0 -4.47692,-16.71676 12.235847,12.235847 0 0 0 -6.69545,-1.62506 z m -158.48848,91.82461 a 12.235847,12.235847 0 0 0 -12.23586,12.23585 12.235847,12.235847 0 0 0 12.23586,12.23585 12.235847,12.235847 0 0 0 12.23584,-12.23585 12.235847,12.235847 0 0 0 -12.23584,-12.23585 z m 158.77924,91.84054 a 12.235847,12.235847 0 0 0 -5.83116,1.63701 12.235847,12.235847 0 0 0 -4.47691,16.71277 12.235847,12.235847 0 0 0 16.71276,4.47693 12.235847,12.235847 0 0 0 4.47692,-16.71278 12.235847,12.235847 0 0 0 -10.88161,-6.11393 z"
-           style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:6.11792374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           inkscape:connector-curvature="0" />
         <path
            transform="matrix(2.0393079,0,0,2.0393079,-27.209767,25.047821)"
            inkscape:export-filename="/home/stuart/Pictures/gnome-mines.svg.png"
