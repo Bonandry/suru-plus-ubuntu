@@ -7,22 +7,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
+   height="16"
+   width="16"
    version="1.1"
-   id="svg8"
+   id="svg4"
    sodipodi:docname="mail-signed-full.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata12">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,38 +36,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="752"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="-0.74398988"
+     inkscape:cy="3.9205713"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      .ColorScheme-PositiveText {
-        color:#27ae60;
-      }
-      </style>
-  </defs>
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+  </sodipodi:namedview>
   <path
-     style="fill:#808080;fill-opacity:1;stroke:none"
-     d="m1 2v12h7v-1h-5.344l3.986-4.65 1.357 1.357c-.013-.024 6-6 6-6v4.293h1v-6zm1.707 1h10.586l-5.293 5.293zm-.707.707l3.934 3.934-3.934 4.59z"
-     class="ColorScheme-Text"
-     id="path4" />
+     style="line-height:125%;-inkscape-font-specification:Ubuntu;text-align:center;fill:#808080;fill-opacity:1"
+     d="M 2 2 C 1.562 2 1.213875 2.0394375 0.921875 2.1484375 C 0.629875 2.2584375 0.3958125 2.4579844 0.2578125 2.7089844 C -0.0191875 3.2109844 0.01 3.8231094 0 4.6621094 L 0 11.337891 C 0.01 12.176891 -0.0191875 12.789016 0.2578125 13.291016 C 0.3958125 13.542016 0.629875 13.741563 0.921875 13.851562 C 1.213875 13.961562 1.562 14 2 14 L 9 14 L 9 13 L 2 13 C 1.62 13 1.3934375 12.961016 1.2734375 12.916016 A 0.257 0.257 0 0 1 1.1328125 12.808594 C 1.0368125 12.634594 1.01 12.191891 1 11.337891 L 1 4.6640625 C 1.01 3.8080625 1.0368125 3.3654062 1.1328125 3.1914062 A 0.257 0.257 0 0 1 1.2734375 3.0839844 C 1.3944375 3.0389844 1.621 3 2 3 L 14 3 C 14.38 3 14.605562 3.0389844 14.726562 3.0839844 C 14.809563 3.1149844 14.854141 3.1644062 14.869141 3.1914062 C 14.964141 3.3634063 14.989 3.8060625 15 4.6640625 L 15 9 L 16 9 L 16 4.6621094 C 15.99 3.8231094 16.021141 3.2109844 15.744141 2.7089844 A 1.258 1.258 0 0 0 15.078125 2.1484375 C 14.786125 2.0384375 14.438 2 14 2 L 2 2 z M 2.5371094 4.578125 L 2.2519531 5.015625 L 8.125 9.2363281 L 14 5 L 13.714844 4.578125 L 8.125 7.9511719 L 2.5371094 4.578125 z "
+     id="path2" />
   <path
-     d="m13 8l-4 4v2h2l4-4z"
-     style="fill:currentColor;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     d="m 14,10 -4,4 v 2 h 2 l 4,-4 z"
+     style="fill:#20ca00;fill-opacity:1;stroke:none"
      class="ColorScheme-PositiveText"
-     id="path6" />
+     id="path6"
+     sodipodi:nodetypes="cccccc" />
 </svg>

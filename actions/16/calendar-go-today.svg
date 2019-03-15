@@ -1,10 +1,67 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   id="svg10"
+   sodipodi:docname="calendar-go-today.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <title
+     id="title2">
   Paper Symbolic Icon Theme
  </title>
- <g transform="translate(-505.00018,39)">
-  <path d="m 507.0002,-38 c 0,0 -1,0 -1,1 l 0,4.99414 2,0.006 0,-1 0.79883,0 1.70508,-1.70703 0.70703,-0.70703 2.41406,2.41406 4.375,0 0,7 -5.33984,0 -1.44532,1.45898 -1.45898,-1.45912 -1.75586,0 0,-1.99023 -2,-0.006 0,2.99609 c 0,0 0,1.00001 1,1 l 12,0 c 1,0 1,-1 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z" style="opacity:1;fill:#5c616c;fill-opacity:1;"/>
-  <path d="m 511.21172,-33.999511 -1.38509,1.385851 1.63493,1.63476 -6.46136,-0.0211 0,2 6.46136,0.0211 -1.63493,1.63439 1.38509,1.38509 4.00086,-4.04061 z" style="opacity:1;fill:#5c616c;fill-opacity:1;"/>
- </g>
+  <g
+     transform="translate(-505.00018,39)"
+     id="g8">
+    <path
+       d="m 506.57161,-38.499851 c 0,0 -1.07143,0 -1.07143,1.071429 v 5.350864 l 2.14286,0.0064 v -1.071428 h 0.85589 l 1.82687,-1.828961 0.75753,-0.757532 2.58649,2.586493 h 4.6875 v 7.5 h -5.72125 l -1.54856,1.563193 -1.56319,-1.563343 h -1.88128 v -2.132389 l -2.14286,-0.0064 v 3.210096 c 0,0 0,1.07144 1.07143,1.071429 h 12.85714 c 1.07143,0 1.07143,-1.071429 1.07143,-1.071429 v -12.857142 c 0,0 0,-1.071429 -1.07143,-1.071429 z"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke-width:1.07142854"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 511.21172,-33.999511 -1.38509,1.385851 1.63493,1.63476 -6.46136,-0.0211 0,2 6.46136,0.0211 -1.63493,1.63439 1.38509,1.38509 4.00086,-4.04061 z"
+       style="opacity:1;fill:#808080;fill-opacity:1"
+       id="path6" />
+  </g>
 </svg>
