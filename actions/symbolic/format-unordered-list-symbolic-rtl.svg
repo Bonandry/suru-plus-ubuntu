@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg4"
-   sodipodi:docname="mail-sent-symbolic-rtl.svg"
+   sodipodi:docname="format-unordered-list-symbolic-rtl.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata10">
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,16 +41,17 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="0.30508475"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     d="m 0.69,0.666 c 7.706,2.598 14.64,6.285 14.64,6.285 l -5.584,2.79 -2.79,5.581 -0.007,0.006 -0.004,0.004 c 0,0 -3.867,-7.302 -6.275,-14.662 L 0.674,0.668 H 0.68 0.684 A 0.01,0.01 0 0 1 0.688,0.666 Z m 1.773,1.793 c 1.83,5.004 3.584,8.827 4.494,10.623 L 8.677,9.639 C 7.246,8.096 4.384,4.384 3.166,3.166 4.384,4.384 8.093,7.243 9.636,8.676 L 13.075,6.959 C 11.311,6.065 7.586,4.357 2.464,2.459 Z"
-     style="color:#000000;overflow:visible;fill:#808080;marker:none"
+     d="M 14,2 V 5 H 11 V 2 Z m -1,1 h -1 v 1 h 1 z M 10,3 V 4 H 2 V 3 Z m 4,3 V 9 H 11 V 6 Z m -1,1 h -1 v 1 h 1 z M 10,7 V 8 H 2 V 7 Z m 4,3 v 3 h -3 v -3 z m -1,1 h -1 v 1 h 1 z m -3,0 v 1 H 2 v -1 z"
+     font-weight="400"
      overflow="visible"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080"
      id="path2"
      inkscape:connector-curvature="0" />
 </svg>
