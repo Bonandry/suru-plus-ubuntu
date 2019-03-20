@@ -16,7 +16,7 @@
     - [HOME directory for GTK](#home-directory-for-gtk)
   - [For Lubuntu users](#for-lubuntu-users)
   - [For non-Ubuntu users](#for-non-ubuntu-users)
-    - [Uninstall](#uninstall)
+  - [Uninstall](#uninstall)
 - [Known bugs](#known-bugs)
   - [Snap-built apps](#snap-built-apps)
   - [AppImage-built apps](#appimage-built-apps)
@@ -76,7 +76,7 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 
 This repository is designed only for Ubuntu, from 18.04 to 19.04. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe)’s [Suru++ 25](https://github.com/gusbemacbe/suru-plus).
 
-#### Uninstall
+### Uninstall
 
 ```
 wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-ubuntu/master/install.sh | env uninstall=true sh
