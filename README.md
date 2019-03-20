@@ -8,8 +8,8 @@
 
 ![Screenshot](screenshot.png)
 
-
 <h1>Index</h1>
+
 - [What is new in the version 17.1?](#what-is-new-in-the-version-171)
 - [Installation](#installation)
   - [For Lubuntu users](#for-lubuntu-users)
