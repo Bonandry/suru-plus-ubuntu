@@ -1,36 +1,49 @@
-<<<<<<< HEAD
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" d="m 16.294294,1033.3622 -3.291358,3.293 -0.206944,0.207 0.206944,0.207 3.291358,3.293 0.70668,-0.707 -2.291856,-2.293 4.290875,0 0,-1 -4.290875,0 2.291856,-2.293 -0.70668,-0.707 z m -8.296739,3 c -1.6611889,0 -2.998536,1.338 -2.998536,3 0,1.662 1.3373471,3 2.998536,3 1.6611889,0 2.998536,-1.338 2.998536,-3 0,-1.662 -1.3373471,-3 -2.998536,-3 z m 0,7 c -2.7686682,0 -4.997555,2.23 -4.997555,5 l 0,1 9.995125,0 0,-1 c 0,-2.77 -2.228902,-5 -4.99757,-5 z m 0,1 c 2.214929,0 3.998053,1.784 3.998053,4 l -7.996091,0 c 0,-2.216 1.7831094,-4 3.998038,-4 z" id="rect4109-66" transform="translate(0,-1030.3622)" 
-     class="ColorScheme-Text"
-     />
-=======
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
- <g id="layer12" transform="translate(-201 -807)">
-  <path id="path9137-6" style="fill:#bebebe" d="m203.71 816.69c0.49379 0.47964 1.0774 0.69712 1.7883 0.69712 0.71086 0 1.2972-0.22349 1.791-0.70313 0.77657 0.27945 1.7052 0.99058 1.7063 2.2326l0.003 2.3167c0 0.42-0.31 0.76-0.7 0.76h-5.6c-0.3878 0-0.7-0.34309-0.7-0.76924v-2.3077c0-1.0667 0.77162-1.966 1.7117-2.2356z"/>
-  <circle id="path9139-7" style="color:#bebebe;fill:#bebebe" transform="scale(-1,1)" cy="814.31" cx="-205.5" r="2.3077"/>
-  <path id="path9178-5" style="fill:#bebebe" d="m210.71 812.69c0.49379 0.47964 1.0774 0.69712 1.7883 0.69712 0.71086 0 1.2972-0.22349 1.791-0.70313 0.77657 0.27945 1.7052 0.99058 1.7063 2.2326l-6.9973 0.009c0-1.0667 0.77162-1.966 1.7117-2.2356z"/>
-  <circle id="path9180-3" style="color:#bebebe;fill:#bebebe" transform="scale(-1,1)" cy="810.31" cx="-212.5" r="2.3077"/>
-  <path id="path12113-8-6" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;fill:#bebebe;font-variant-position:normal;mix-blend-mode:normal;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;font-variant-ligatures:normal;dominant-baseline:auto;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;text-orientation:mixed;isolation:auto;enable-background:new;text-transform:none" d="m215.16 821.94h0.83984v-1c0.008-1.6727 0-5 0-5h-6v0.8457c-0.0954 0.61124 0.3814 1.1616 1 1.1543h1.5859l-1.643 1.643-0.64999 0.64998c-0.65409 0.63582-0.18523 1.7437 0.72657 1.7168 0.25979-0.008 0.50637-0.11632 0.6875-0.30273l0.62788-0.62789 1.6651-1.6651v1.5859c0 0.68107 0.4492 1 1.1602 1z"/>
- </g>
->>>>>>> cc45fd1a9850bf3c9cdd82263fb45212daefd112
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#efefe7; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#8f8f8b; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path fill="#00AC98" d="M 10.465 0.533 C 15.308 0.533 16 1.224 16 6.062 L 16 9.937 C 16 14.776 15.308 15.467 10.465 15.467 L 5.535 15.467 C 0.692 15.467 0 14.776 0 9.937 L 0 6.062 C 0 1.224 0.692 0.533 5.535 0.533 L 10.465 0.533 Z"/>
+ <path fill="#ECECEC" fill-rule="evenodd" d="M 5.355 7.963 L 5.355 13.319 L 3.372 12.713 L 3.401 7.99 L 1.5 8.017 C 1.5 8.017 2.571 5.268 4.282 2.774 C 4.282 2.774 4.283 2.774 4.283 2.773 C 4.284 2.773 4.285 2.773 4.285 2.772 C 4.286 2.772 4.286 2.771 4.287 2.771 C 4.288 2.771 4.288 2.771 4.289 2.771 C 6.013 5.088 7.227 7.937 7.227 7.937 L 5.355 7.963 Z M 12.628 8.037 L 12.628 2.681 L 10.645 3.287 L 10.674 8.01 L 8.773 7.983 C 8.773 7.983 9.844 10.732 11.554 13.226 C 11.555 13.226 11.556 13.226 11.556 13.227 C 11.557 13.227 11.558 13.227 11.558 13.228 C 11.559 13.228 11.559 13.229 11.56 13.229 C 11.561 13.229 11.561 13.229 11.562 13.229 C 13.286 10.912 14.5 8.063 14.5 8.063 L 12.628 8.037 Z"/>
 </svg>

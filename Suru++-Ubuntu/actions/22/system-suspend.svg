@@ -1,24 +1,49 @@
-<<<<<<< HEAD
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 11 4 C 14.537216 4 17.438059 6.6006421 17.921875 10 L 4.078125 10 C 4.5619413 6.6006421 7.462784 4 11 4 z M 4.078125 12 L 17.921875 12 C 17.438059 15.399358 14.537216 18 11 18 C 7.462784 18 4.5619413 15.399358 4.078125 12 z " id="rect4148" 
-     class="ColorScheme-Text"
-     />
-=======
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
-  Paper Symbolic Icon Theme
- </title>
- <g transform="translate(-465.00043,-204.99664)">
-  <path d="m 473.0002,207 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -0.13281,1 l -7.73633,0 a 4,4 0 0 1 -0.13086,-1 4,4 0 0 1 4,-4 z m -2.63867,7 5.27734,0 a 4,4 0 0 1 -2.63867,1 4,4 0 0 1 -2.63867,-1 z" style="opacity:1;fill:#5c616c;fill-opacity:1;"/>
- </g>
->>>>>>> cc45fd1a9850bf3c9cdd82263fb45212daefd112
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#efefe7; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#8f8f8b; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path fill="#0896D2" d="M 10.465 0.533 C 15.308 0.533 16 1.224 16 6.063 L 16 9.938 C 16 14.776 15.308 15.467 10.465 15.467 L 5.535 15.467 C 0.692 15.467 0 14.776 0 9.938 L 0 6.063 C 0 1.224 0.692 0.533 5.535 0.533 L 10.465 0.533 Z"/>
+ <path fill="#FFFFFF" d="M 8 1.5 C 11.59 1.5 14.5 4.41 14.5 8 C 14.5 11.59 11.59 14.5 8 14.5 C 4.41 14.5 1.5 11.59 1.5 8 C 1.5 4.41 4.41 1.5 8 1.5 Z M 8 2.944 C 5.208 2.944 2.944 5.208 2.944 8 C 2.944 10.792 5.208 13.056 8 13.056 C 10.792 13.056 13.056 10.792 13.056 8 C 13.056 5.208 10.792 2.944 8 2.944 Z M 10.248 8.722 L 4.406 8.722 L 5.209 7.278 L 11.14 7.278 L 10.248 8.722 Z"/>
 </svg>
