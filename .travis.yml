@@ -5,6 +5,11 @@ language: generic
 branches:
     - beta
 
+notifications:
+  email:
+    recipients:
+      - gusbemacbe@gmail.com
+
 addons:
   apt:
     packages:
