@@ -7,7 +7,9 @@
 
 # Ignore Dolphin .directory files
 *.directory
+*/*.directory
 **/.directory
 \.icon-theme\.cache
 
 \.vscode/
+mimetypes/scalable/application-executable\.svg

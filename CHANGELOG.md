@@ -1,3 +1,18 @@
+# 18.0
+
+* The 3rd alternative of Firefox, added and redesigned by @ChrisP4. You can see how are three icons of Firefox and choose one of them:
+
+![img](https://raw.githubusercontent.com/Magog64/SURU-PLUS/reservato/images/firefox-alts.png)
+
+* New missed icons designed and added by [@ChrisP4:
+	- Qown Notes
+	- Skrooge
+	- Xournal
+
+Preview:
+
+![img](https://raw.githubusercontent.com/Magog64/SURU-PLUS/reservato/images/new-icons-v18.png)
+
 # 14.5
 
 With the help of @gusbemacbe,

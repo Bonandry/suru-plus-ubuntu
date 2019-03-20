@@ -24,12 +24,13 @@
   - [Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.](#unattractive-icons-of-bluetooth-manager-gigolo-network-wifi-etc)
   - [Unrecognised and ugly icons](#unrecognised-and-ugly-icons)
     - [Okular icon and other icons](#okular-icon-and-other-icons)
-  - [Do you support for other distributions, as Arch Linux, Linux Mint, etc.?](#do-you-support-for-other-distributions-as-arch-linux-linux-mint-etc)
+  - [Do you support non-GNOME distros?](#do-you-support-non-gnome-distros)
 - [Report](#report)
 - [Contribution](#contribution)
 - [Authors and Contributors](#authors-and-contributors)
 - [Changelog](#changelog)
 - [Credits and Licences](#credits-and-licences)
+
 
 ## What is new in the version 17.1?
 
@@ -37,7 +38,7 @@
 
 | <img src="Suru++-Ubuntu/apps/scalable/firefox.svg" alt="Firefox Traditional" height="100px"> | <img src="Suru++-Ubuntu/apps/scalable/firefox-20.svg" alt="Firefox Suru++ 20" height="100px"> | <img src="Suru++-Ubuntu/apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="100px"> |
 | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| Traditional                                                                    | Suru++ 20                                                                       | Mozilla Unofficial                                                                 |
+| Traditional                                                                    | Suru++ 25                                                                       | Mozilla Unofficial                                                                 |
 | `firefox.svg`                                                                  | `firefox-20.svg`                                                                | `firefox-mozilla.svg`                                                              |
 
 **How to change the alternative of these?**
@@ -170,11 +171,9 @@ Not just Suru++ Ubuntu and Suru++ 25, it also affects Antü, Flat Remix, La Capi
 2. Install and use [Stacer](https://github.com/oguzhaninan/Stacer) to clean caches;
 3. Log out and log in.
 
-### Do you support for other distributions, as Arch Linux, Linux Mint, etc.?
+### Do you support non-GNOME distros?
 
-No, because if I will add everything, it will cause a lot of bugs and increase the file size. I would not like to work with bugs and to have headache. I prefer focusing only on Ubuntu distributions. 
-
-Therefore, you must consider my collaborator's alternative icon theme if you want this support: [Suru++ 25](https://github.com/gusbemacbe/suru-plus). It spports more than 11 desktop environment, elementary OS and XFCE with light panel.
+No, I do not. If I will add somehting else to this icons theme, it will increase bugs, ugliness in KDE and archive size. I would not like to work with fixing the bugs and to have headache. You musy consider the alternative icons theme: [@gusbemacbe](https://github.com/gusbemacbe)'s [Suru++ 15](https://github.com/gusbemacbe/suru-plus). 
 
 ## Report
 
