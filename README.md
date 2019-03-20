@@ -8,6 +8,7 @@
 
 ![Screenshot](screenshot.png)
 
+
 <h1>Index</h1>
 - [What is new in the version 17.1?](#what-is-new-in-the-version-171)
 - [Installation](#installation)
@@ -26,6 +27,7 @@
 - [Contributors](#contributors)
 - [Changelog](#changelog)
 - [Credit and Licences](#credit-and-licences)
+
 
 ## What is new in the version 17.1?
 
