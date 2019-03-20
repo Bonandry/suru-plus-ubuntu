@@ -1,5 +1,5 @@
 ﻿<p align="center"> 
-<img src="images/Title.svg" alt="Title">
+<img src="images/logo-nuovo.svg" alt="Logotype">
 </p>
 
 <h3 align="center">A third-party Suru icons for Ubuntu</h3>
