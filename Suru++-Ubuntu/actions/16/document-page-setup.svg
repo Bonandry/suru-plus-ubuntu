@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg8"
-   sodipodi:docname="document-page-setup.svg"
+   sodipodi:docname="document-new-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata14">
@@ -40,32 +40,36 @@
      inkscape:window-height="1009"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="59"
-     inkscape:cx="3.4111343"
-     inkscape:cy="6.9003571"
+     inkscape:zoom="52.1875"
+     inkscape:cx="7.5"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="g6">
     <inkscape:grid
        type="xygrid"
-       id="grid827" />
+       id="grid4094" />
   </sodipodi:namedview>
   <g
      color="#000"
      fill="gray"
      id="g6">
     <path
-       d="M 15,0 V 16 H 1 v -2 h 1 v 1 H 14 V 1 H 2 V 4 H 1 V 0 Z"
+       d="M 15,0 V 16 H 6 1 v -3 h 1 v 2 H 14 V 1 H 2 V 4 H 1 V 0 Z"
        style="overflow:visible;marker:none"
        overflow="visible"
        id="path2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 0,5 v 7 h 12.02 z m 1.9999999,3.0536005 3.1156,1.9775995 h -3.1156 z"
-       style="fill:#808080;fill-opacity:1;enable-background:new"
-       id="path4-3" />
+       sodipodi:nodetypes="cccccccccccccc" />
+    <g
+       id="g4092">
+      <path
+         id="path4"
+         style="fill:#808080;enable-background:new;fill-opacity:1"
+         d="M 0,4.9688003 V 11.9688 H 12.02 Z M 1,7 8,11 H 1 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
   </g>
 </svg>
