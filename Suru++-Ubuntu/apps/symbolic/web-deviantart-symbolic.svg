@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
-   <path d="M 0,512 H 512 V 0 H 0 Z"/>
+  <clipPath id="clipPath16">
+   <path d="m0 512h512v-512h-512z"/>
   </clipPath>
  </defs>
- <g transform="matrix(0.06623833,0,0,-0.06623833,-8.8148581,24.957038)" style="fill:#808080">
+ <g transform="matrix(.06623833 0 0 -.06623833 -8.8148581 24.957038)" style="fill:#808080">
   <g style="fill:#808080">
    <g clip-path="url(#clipPath16)" style="fill:#808080">
     <g transform="translate(323.9554,323.9949)" style="fill:#808080">
-     <path style="fill:#808080" d="M 0,0 H 0.002 L 2.128,4.057 V 45.233 H 2.115 -39.048 l -4.109,-4.145 -19.429,-37.026 -6.11,-4.122 h -69.342 v -56.545 h 38.122 l 3.395,-4.107 -39.39,-75.278 h -0.002 l -2.125,-4.057 v -41.175 h 0.012 41.163 l 4.109,4.144 19.429,37.026 6.11,4.122 H 2.128 v 56.545 h -38.122 l -3.392,4.135 z"/>
+     <path d="m0 0h2e-3l2.126 4.057v41.176h-41.176l-4.109-4.145-19.429-37.026-6.11-4.122h-69.342v-56.545h38.122l3.395-4.107-39.39-75.278h-2e-3l-2.125-4.057v-41.175h41.175l4.109 4.144 19.429 37.026 6.11 4.122h69.343v56.545h-38.122l-3.392 4.135z" style="fill:#808080"/>
     </g>
    </g>
   </g>

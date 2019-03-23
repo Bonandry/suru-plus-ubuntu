@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="image-flip-horizontal-symbolic.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="image-flip-horizontal.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -53,22 +53,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#555753"
-     bordercolor="#666666"
+     pagecolor="#ffffff"
+     bordercolor="#4d4d4d"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="3.5407603"
+     inkscape:cx="-0.82341436"
      inkscape:cy="7.3178724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1134"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      showborder="true"
      fit-margin-top="0"
@@ -84,8 +84,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-31.97559px"
-       originy="-816.00002px" />
+       originx="-31.97559"
+       originy="-816.00002"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -95,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,7 +107,7 @@
      id="layer1"
      transform="translate(-31.97559,-220.36218)">
     <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 37,223.3622 0,10 -5,0 4,-10 z"
        id="path5813"
        inkscape:connector-curvature="0"
@@ -114,31 +116,31 @@
        inkscape:connector-curvature="0"
        id="path6583"
        d="m 42,223.3622 0,10 5,0 -4,-10 z"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
        transform="translate(31.97559,220.36218)"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 7.0244098,1.00002 1,0 0,2 -1,0 z"
        id="rect7190" />
     <path
        transform="translate(31.97559,220.36218)"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 7.0244098,4.00002 1,0 0,2 -1,0 z"
        id="rect7700" />
     <path
        transform="translate(31.97559,220.36218)"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 7.0244098,7.00002 1,0 0,2 -1,0 z"
        id="rect7702" />
     <path
        transform="translate(31.97559,220.36218)"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 7.0244098,10.00002 1,0 0,2 -1,0 z"
        id="rect7704" />
     <path
        transform="translate(31.97559,220.36218)"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 7.0244098,13.00002 1,0 0,2 -1,0 z"
        id="rect7706" />
   </g>
