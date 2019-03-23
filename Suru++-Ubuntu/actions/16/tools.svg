@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tools-symbolic.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="tools.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -53,22 +53,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#555753"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="26.927936"
-     inkscape:cx="5.8126979"
+     inkscape:cx="-1.5216927"
      inkscape:cy="2.0614903"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-grids="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1134"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      showborder="true"
      fit-margin-top="0"
@@ -84,8 +84,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-31.97559px"
-       originy="-816.00002px" />
+       originx="-31.97559"
+       originy="-816.00002"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -95,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,7 +107,7 @@
      id="layer1"
      transform="translate(-31.97559,-220.36218)">
     <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#808080;fill-opacity:1;stroke:none"
        d="m 41.704857,221.43837 c -1.215679,-0.0398 -2.383249,0.43997 -3.23231,1.52265 -0.478053,0.60959 -0.727773,1.2483 -0.828113,1.89665 -0.03775,0.24395 -0.06462,0.47822 -0.05343,0.72126 0.0029,0.0635 -0.0062,0.1237 0,0.18699 0.305846,1.43499 0.400134,2.97278 -0.329052,4.10991 -1.434995,1.81732 -2.786009,3.70175 -4.261952,5.48637 l 4.259953,0 2.815388,-3.71935 c 0.443803,-0.85573 1.656167,-1.14787 3.045317,-1.28224 1.104211,-0.0295 2.137477,-0.50863 2.911751,-1.49595 0.872755,-1.11289 1.057797,-2.36795 0.721259,-3.55287 l -3.045317,2.21721 c -2.014627,-0.28705 -3.352658,-1.11945 -2.617904,-3.84672 l 2.804897,-1.65622 c -0.704348,-0.35757 -1.461083,-0.5638 -2.190487,-0.58769 z"
        id="path3950"
        inkscape:connector-curvature="0"
