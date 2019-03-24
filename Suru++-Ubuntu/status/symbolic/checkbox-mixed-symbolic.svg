@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="16" height="16" version="1.1">
+<svg width="16" height="16" style="enable-background:new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Paper Symbolic Icon Theme</title>
  <g transform="translate(-584.00043,269.00336)">
-  <path d="m 588.0002,-267 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 8,0 c 0.554,0 1,0.446 1,1 l 0,8 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-8 c 0,-0.554 0.446,-1 1,-1 z" style="fill:#5c616c"/>
-  <rect style="fill:#5c616c" width="8" height="2" x="587.97" y="-262.01" rx="0" ry="2"/>
+  <path d="m588.0002-267c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm0 1h8c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z" style="fill:#5c616c"/>
+  <rect x="587.97" y="-262.01" width="8" height="2" rx="0" ry="2" style="fill:#5c616c"/>
  </g>
 </svg>
