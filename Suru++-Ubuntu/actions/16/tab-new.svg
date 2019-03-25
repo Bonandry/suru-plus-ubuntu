@@ -1,6 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <g fill="#808080" font-family="sans-serif" font-weight="400">
-  <path d="M5.994 3c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 0 0-.837.998C2.06 4.82 2 5.343 2 6v7H1v1h2V6c0-.592.063-1.006.16-1.266.098-.26.202-.371.385-.472C3.91 4.06 4.74 4.015 6 4h5c1.259.015 2.087.06 2.453.262.184.1.29.212.387.472.097.26.16.674.16 1.266v8h2v-1h-1V6c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.838-.998c-.752-.416-1.673-.37-2.931-.385H5.998z" overflow="visible"/>
-  <path d="M8 7v2H6v1h2v2h1v-2h2V9H9V7z" overflow="visible"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tab-new.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="770"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     fill="#808080"
+     font-family="sans-serif"
+     font-weight="400"
+     id="g6"
+     style="fill:#4d4d4d;fill-opacity:1">
+    <path
+       d="M5.994 3c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 0 0-.837.998C2.06 4.82 2 5.343 2 6v7H1v1h2V6c0-.592.063-1.006.16-1.266.098-.26.202-.371.385-.472C3.91 4.06 4.74 4.015 6 4h5c1.259.015 2.087.06 2.453.262.184.1.29.212.387.472.097.26.16.674.16 1.266v8h2v-1h-1V6c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.838-.998c-.752-.416-1.673-.37-2.931-.385H5.998z"
+       overflow="visible"
+       id="path2"
+       style="fill:#4d4d4d;fill-opacity:1" />
+    <path
+       d="M8 7v2H6v1h2v2h1v-2h2V9H9V7z"
+       overflow="visible"
+       id="path4"
+       style="fill:#4d4d4d;fill-opacity:1" />
+  </g>
 </svg>
