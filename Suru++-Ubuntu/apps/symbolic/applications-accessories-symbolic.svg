@@ -1,8 +1,51 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-512,-240)">
-  <path d="m515.99414 241c-1.2582 0.0145-2.17889-0.0306-2.93164 0.38477-0.37637 0.20766-0.67323 0.55938-0.83789 0.99804-0.16467 0.43867-0.22461 0.95958-0.22461 1.61719v9c0 0.65761 0.0599 1.17858 0.22461 1.61719 0.16468 0.43861 0.46153 0.78852 0.83789 0.99609 0.75272 0.41514 1.67354 0.37165 2.93164 0.38672h8.01186c1.25819-0.0145 2.17889 0.0306 2.93164-0.38477 0.37637-0.20766 0.67323-0.55938 0.83789-0.99804 0.16453-0.43867 0.22447-0.95958 0.22447-1.61719v-9c0-0.65761-0.0599-1.17858-0.22461-1.61719-0.16468-0.43861-0.46153-0.78852-0.83789-0.99609-0.75272-0.41513-1.67355-0.37165-2.93164-0.38672h-8.00786zm6e-3 1h8c1.25862 0.0152 2.0891 0.0599 2.45508 0.26172 0.18342 0.10116 0.28722 0.21286 0.38476 0.47266 0.09741 0.25979 0.16002 0.67323 0.16002 1.26562v9c0 0.59239-0.0626 1.00572-0.16016 1.26562-0.0976 0.25991-0.20135 0.37147-0.38476 0.47266-0.36596 0.20192-1.19656 0.24701-2.45508 0.26172h-8c-1.25863-0.0152-2.0891-0.0599-2.45508-0.26172-0.18342-0.10116-0.28722-0.21286-0.38476-0.47266-0.09755-0.25979-0.16016-0.67323-0.16016-1.26562v-9c0-0.59239 0.0626-1.00572 0.16016-1.26562 0.0976-0.25991 0.20135-0.37147 0.38476-0.47266 0.36596-0.20192 1.19655-0.24702 2.45508-0.26172z" style="fill:#808080"/>
-  <path d="m515 244v1h10v-1zm0 2v1h10v-1zm0 2v1h10v-1zm0 2v1h2.23713c-0.094-1.68777 0.55345-0.93085 1.25368 0h6.50919v-1zm0 2v1h10v-1z" style="fill:#808080;opacity:.5"/>
-  <rect transform="rotate(90)" x="239.5" y="-511.5" width="16" height="16" style="fill:none"/>
-  <path d="m522.5 244-5.5 5.5-1 3.5 3.5-1 5.5-5.5zm-5 6 1.5 1.5-2 0.5z" style="fill:#808080"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#808080; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#efefe7; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#8f8f8b; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-592.00018,13)">
+  <path d="M 593.0002,-8.0000007 V -1 h 12.02 z m 2,3.0536004 3.1156,1.9776003 h -3.1156 z" style="fill:currentColor" class="ColorScheme-Text"/>
+  <path d="m 606.0002,-12 0,14 -11,0 0,-2 1,0 0,1 9,0 0,-12 -9,0 0,3.6 -1,-0.6 0,-4 z" style="fill:currentColor" class="ColorScheme-Text"/>
  </g>
 </svg>
