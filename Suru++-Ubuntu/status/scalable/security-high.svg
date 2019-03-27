@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg109"
-   sodipodi:docname="security-medium.svg"
+   sodipodi:docname="security-high.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata113">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview111"
      showgrid="false"
      inkscape:zoom="3.2617188"
-     inkscape:cx="73.274252"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -234,7 +234,7 @@
        id="path95" />
     <path
        d="m43.004513 233.61429c19.221622 0 21.968685 2.74019 21.968685 21.94388v15.37891c0 19.20362-2.747063 21.94388-21.968685 21.94388h-19.56263c-19.221622 0-21.968685-2.74026-21.968685-21.94388v-15.37891c0-19.20369 2.7470629-21.94388 21.968685-21.94388z"
-       style="fill:#aea795;fill-opacity:1"
+       style="fill:#ec0000;fill-opacity:1"
        id="path97" />
     <path
        transform="matrix(.13229167 0 0 .13229167 -4.8768016 261.66013)"
