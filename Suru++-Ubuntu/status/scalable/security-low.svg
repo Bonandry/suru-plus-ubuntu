@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg109"
-   sodipodi:docname="security-medium.svg"
+   sodipodi:docname="security-low.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata113">
@@ -38,14 +38,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      id="namedview111"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="3.2617188"
      inkscape:cx="73.274252"
      inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g107" />
+     inkscape:current-layer="g107">
+    <inkscape:grid
+       type="xygrid"
+       id="grid915" />
+  </sodipodi:namedview>
   <defs
      id="defs91">
     <linearGradient
@@ -234,7 +238,7 @@
        id="path95" />
     <path
        d="m43.004513 233.61429c19.221622 0 21.968685 2.74019 21.968685 21.94388v15.37891c0 19.20362-2.747063 21.94388-21.968685 21.94388h-19.56263c-19.221622 0-21.968685-2.74026-21.968685-21.94388v-15.37891c0-19.20369 2.7470629-21.94388 21.968685-21.94388z"
-       style="fill:#aea795;fill-opacity:1"
+       style="fill:#545454;fill-opacity:1"
        id="path97" />
     <path
        transform="matrix(.13229167 0 0 .13229167 -4.8768016 261.66013)"
@@ -264,5 +268,15 @@
          id="path5451"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;enable-background:accumulate" />
     </g>
+    <path
+       style="fill:#fa0000;stroke:none;stroke-width:0.2645703px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 30.425586,254.66541 h 5.291406 l -1.322852,13.22852 h -2.645703 z"
+       id="path917"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fa0000;stroke:none;stroke-width:0.2645703px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 31.748437,269.21678 v 2.6457 h 2.645703 v -2.6457 z"
+       id="path919"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
