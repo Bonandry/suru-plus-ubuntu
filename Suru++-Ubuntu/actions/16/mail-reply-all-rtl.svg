@@ -1,6 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <g fill="#4d4d4d" color="#000">
-  <path d="M5 4v4.5c0 1.25.393 1.759 1.023 2.09.631.33 1.594.41 2.606.41h4.541v1H4.629c-1.052 0-2.153-.044-3.07-.525C.64 10.993 0 10 0 8.5V4h1v4.5c0 1.25.393 1.759 1.023 2.09.631.33 1.594.41 2.606.41h.283C4.354 10.447 4 9.614 4 8.5V4z" font-family="sans-serif" font-weight="400" overflow="visible"/>
-  <path d="M11 9l.002 5c.76-.348 1.535-.737 2.323-1.166.78-.431 1.534-.876 2.259-1.334-.725-.449-1.478-.889-2.26-1.32A43.084 43.084 0 0 0 11.002 9z" overflow="visible"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="mail-reply-all-rtl.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="770"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     transform="matrix(1,0,0,-1,0,18)"
+     style="fill:#4d4d4d;fill-opacity:1"
+     id="g6">
+    <path
+       d="m5 4v4.5c0 1.25 0.393 1.759 1.023 2.09 0.631 0.33 1.594 0.41 2.606 0.41h4.541v1h-8.541c-1.052 0-2.153-0.044-3.07-0.525-0.919-0.482-1.559-1.475-1.559-2.975v-4.5h1v4.5c0 1.25 0.393 1.759 1.023 2.09 0.631 0.33 1.594 0.41 2.606 0.41h0.283c-0.558-0.553-0.912-1.386-0.912-2.5v-4.5z"
+       font-weight="400"
+       overflow="visible"
+       id="path2"
+       style="fill:#4d4d4d;fill-opacity:1" />
+    <path
+       d="m11 9 2e-3 5c0.76-0.348 1.535-0.737 2.323-1.166 0.78-0.431 1.534-0.876 2.259-1.334-0.725-0.449-1.478-0.889-2.26-1.32a43.084 43.084 0 0 0-2.322-1.18z"
+       overflow="visible"
+       id="path4"
+       style="fill:#4d4d4d;fill-opacity:1" />
+  </g>
 </svg>

@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g fill="#4d4d4d" color="#000">
-  <path d="M 15,0 V 16 H 6 1 v -3 h 1 v 2 H 14 V 1 H 2 V 4 H 1 V 0 Z" overflow="visible"/>
-  <g>
-   <path style="fill:#4d4d4d" d="M 0,4.9688003 V 11.9688 H 12.02 Z M 1,7 8,11 H 1 Z"/>
-  </g>
+ <g fill="#4d4d4d">
+  <path d="m15 0v16h-9-5v-3h1v2h12v-14h-12v3h-1v-4z" overflow="visible"/>
+  <path d="m0 4.9688003v6.9999997h12.02zm1 2.0311997 7 4h-7z" style="fill:#4d4d4d"/>
  </g>
 </svg>
