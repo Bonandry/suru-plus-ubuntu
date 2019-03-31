@@ -1,65 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="transform-rotate.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="24"
-   height="24">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1775"
-     inkscape:window-height="838"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-14.169492"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
-  </defs>
-  <path
-     style="color:#232629;fill:#4d4d4d;fill-opacity:1;stroke:none"
-     d="M 4,4.0000003 V 20 h 1 6 V 19 H 5 V 5.0000003 h 8 v 2 1 V 12 h 1 V 8.1386722 C 15.726297,8.5823642 17,10.13145 17,12 v 1 h -5 v 1 6 h 1 7 V 19 14 13 H 18 V 12 C 18,9.5728313 16.287361,7.5606047 14,7.0996097 V 4.0000003 H 5 Z M 13,14 h 6 v 5 h -6 z"
-     class="ColorScheme-Text"
-     id="path4"
-     inkscape:connector-curvature="0" />
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#4d4d4d; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M 4,4.0000003 V 20 h 1 6 V 19 H 5 V 5.0000003 h 8 v 2 1 V 12 h 1 V 8.1386722 C 15.726297,8.5823642 17,10.13145 17,12 v 1 h -5 v 1 6 h 1 7 V 19 14 13 H 18 V 12 C 18,9.5728313 16.287361,7.5606047 14,7.0996097 V 4.0000003 H 5 Z M 13,14 h 6 v 5 h -6 z"/>
 </svg>
