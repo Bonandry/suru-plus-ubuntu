@@ -1,4 +1,37 @@
-# 18.0
+# 25.0 Kyoto (京都)
+
+<details>
+  <summary>English</summary>
+
+* Increased from 1201 to 1720 applications icons!
+* Several icons have been reimagined with a new GNOME 3.32 look.
+* Reduced from 170MB to 30MB! 
+
+From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
+
+</details>
+
+<details>
+  <summary>Italiano</summary>
+
+* Aumentato da 1201 a 1720 icone di applicazioni!
+* Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
+* Ridotto da 170 MB a 30 MB!
+
+Dalle versioni 20 e 25, la versione attuale e quella successiva prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+
+</details>
+
+# 20.0 Osaka (大阪)
+
+* Added new GNOME 3.32 icons;
+* Added support for GNOME 3.32;
+* Biggest upgrade of Suru++ Ubuntu:
+  * Improved hundred icons;
+  * Improved several 16px icons and fixed 16px icons which were bigger;
+  * Added several missed icons.
+
+# 18.0 Roma
 
 * The 3rd alternative of Firefox, added and redesigned by @ChrisP4. You can see how are three icons of Firefox and choose one of them:
 
@@ -26,7 +59,7 @@ With the help of @gusbemacbe,
 
 With all them, I ended the bugs and optimised the size for Ubuntu. 
 
-# 14
+# 14 Venice
 
 * The icon theme package became increasingly minimal and is optimised for Ubuntu distributions. 
 
@@ -107,7 +140,7 @@ Icons designed by @Magog64:
 * The good news is that, you are not any more required to depend on Sam Hewitt's icons and other Suru++ packs, because we have purged the dead symlinks. 
 * WE have switched to GPL3. 
 
-# v13
+# v13 Milano
 
 We have made a biggest update, biggest than v11. :-D We have good news...
 
@@ -301,7 +334,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Xubuntu
   * Zorin
 
-# v12
+# v12 Palermo
 
 <sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
 
@@ -466,7 +499,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 
 * I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
 
-# v11
+# v11 Napoli
 
 * We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
 
@@ -721,7 +754,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Instagram
 
-# v10.0
+# v10.0 Genova
 
 * Added icons:
   - Aqualung
@@ -841,7 +874,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - Wordpress
   - XBMC
 
-# v9.0
+# v9.0 Bologna
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
@@ -892,7 +925,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Adobe Reader 9
   * Adobe Reader 10
 
-# v8.0
+# v8.0 Firenze
 
 * Added icons:
   * Archive Mounter
@@ -912,7 +945,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * We have provided desktop files located in the folder `desktop` for you who have problems with badly displayed icon;
 * We reorganised README to facilitate expert and novice users. 
 
-# v7.0
+# v7.0 Padua
 
 * Added icons:
   * Address Book
@@ -1035,7 +1068,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Archive
   * Jocky
 
-# v6.0
+# v6.0 Modena
 
 * Added missed icons:
   * Arduino
@@ -1084,7 +1117,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   * Opera
 
-# v5.0
+# v5.0 Verona
 
 * Added icons:
   - Git Cola 
@@ -1118,7 +1151,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Gravit Designer
 
-# v4.0
+# v4.0 Trastevere
 
 * Apps:
   - GNOME-Do
@@ -1154,11 +1187,13 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 - Added and fixed status icons
 - Improved Insync status icons
 
-# v3.0
+# v3.0 Arezzo
+
 - Added Wine icons
 - Improved the icons of GNOME Screenshot, Hyper and Mailspring
 
-# v2.0
+# v2.0 Pisa
+
 - Added icons:
   - Atom Beta
   - Citra
@@ -1177,7 +1212,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - VSCode Insiders
   - Wire
 
-# v1.0
+# v1.0 Pontassieve
 
 - Starting the icons pack
 
