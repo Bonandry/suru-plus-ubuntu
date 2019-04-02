@@ -52,7 +52,8 @@
 * `#76c22b`
 * `#46a926`
 
-# Non-GNOME 3.32, non-Suru and non-Yaru colours
+# :uk: Non-GNOME 3.32, non-Suru and non-Yaru colours
+# :it: Colori non-ufficiali del GNOME 3.32, Suru e Yaru
 
 ## bordeaux
 
@@ -60,9 +61,11 @@
 * `#ba5247`
 * `#833635`
 
-# Calculations
+# :uk: Calcul
+# :it: Calcoli
 
-## Same colour with different hue values, based on porpora's values
+## :uk: Same colour with different hue values, based on `porpora`'s values
+## :it: Stesso colore con valori di tonalità differenti, in base ai valori di `porpora` 
 
 * hsl(273.7, 42.4%, 36.1%)
 * hsl(288, 45.4%, 50.3%)
@@ -71,7 +74,8 @@
 * 293.8 - 288 = 5.8
 * 293.8 - 273.7 = 20.1
 
-## Same colour with equal hue values, but with different saturation and light values
+## :uk: Same colour with equal hue values, but with different saturation and light values
+## :it: Stesso colore con valori di tonalità uguali, ma con valori di saturazione e luce differenti 
 
 * hsl(273, 42.4%, 36.1%)
 * hsl(273, 45.4%, 50.3%)

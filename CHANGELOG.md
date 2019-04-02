@@ -3,13 +3,12 @@
 <details>
   <summary>English</summary>
 
+From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
+
 * Increased from 1201 to 1800 applications icons!
 * Several icons have been reimagined with a new GNOME 3.32 look.
 * Reduced from 170MB to 30MB! 
-
-From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
-
-* You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or non-GNOME 3.32/non-Suru/non-Yaru styles, or then, one of your favourite colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
+* You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
 
 ### Backup
 
@@ -52,15 +51,15 @@ From the versions 20 and 25, the current and next version will be named after Ja
 
 #### Alternative colours
 
-<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
-<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
-<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="backup bordeaux"   height="64px">
-<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
-<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
-<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="backup purple"     height="64px">
-<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
-<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
-<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
 
 ### Cards Game
 
@@ -108,11 +107,104 @@ From the versions 20 and 25, the current and next version will be named after Ja
 <details>
   <summary>Italiano</summary>
 
+Dalle versioni 20 e 25, la versione attuale e quella successiva prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+
 * Aumentato da 1201 a 1800 icone di applicazioni!
 * Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
 * Ridotto da 170 MB a 30 MB!
+* Avrai più libertà di scegliere una delle icone alternative preferite - stilei ufficiali del GNOME 3.32, Suru, Yaru o stili non ufficiali, o poi, uno dei tuoi colori ufficiali e non ufficiali preferiti! Se vuoi sapere come cambiare l'icona alternativa, per favore, [visita il tutorial qui](). Per esempio:
 
-Dalle versioni 20 e 25, la versione attuale e quella successiva prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+### Backup
+
+#### Pittogrammi alternativi
+
+<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+#### Colori alternativi
+
+<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+
+### Calendario
+
+#### Pittogrammi alternativi
+
+<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+
+#### Colori alternativi
+
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+
+### Gioco di Carde
+
+<img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
+<img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+
+### Colori
+
+<img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
+<img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+
+### Font
+
+#### Colori alternativi
+
+<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+
+### Visualizzatore di Immagini
+
+<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
+<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+### Partizioni
+
+<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+<img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
+
+### Radio
+
+<img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
+<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
 
 </details>
 
