@@ -9,9 +9,9 @@
 
 ## arancione
 
-#fb7c38
-#f34f17
-#d64310
+* `#fb7c38`
+* `#f34f17`
+* `#d64310`
 
 ## azzuro
 
