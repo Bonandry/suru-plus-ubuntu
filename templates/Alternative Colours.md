@@ -1,4 +1,5 @@
-# GNOME 3.32, Suru and Yaru official colours
+# :uk: GNOME 3.32, Suru and Yaru official colours
+# :it: Colori ufficiali del GNOME 3.32, Suru e Yaru
 
 ## acquamarina
 
@@ -58,7 +59,6 @@
 #cb8561
 #ba5247
 #833635
-
 
 # Calculations
 

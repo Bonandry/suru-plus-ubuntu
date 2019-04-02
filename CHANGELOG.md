@@ -43,20 +43,60 @@ From the versions 20 and 25, the current and next version will be named after Ja
 <img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
 <img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
 
+### Calendar
+
+#### Alternative pictograms
+
+<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+
+#### Alternative colours
+
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="backup bordeaux"   height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="backup purple"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
 ### Cards Game
 
 <img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
 <img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
 
+### Colours
+
+<img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
+<img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+
 ### Fonts
 
-<img src="alternatives/font.svg?sanitize=true"      alt="fonts official"  height="64px">
-<img src="alternatives/font-alt.svg?sanitize=true"  alt="fonts alt"       height="64px">
+#### Alternative colours
+
+<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
 
 ### Image Viewer
 
 <img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
 <img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+### Partitions
+
+<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+<img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
 
 ### Radio
 
