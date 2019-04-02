@@ -107,7 +107,7 @@ From the versions 20 and 25, the current and next version will be named after Ja
 <details>
   <summary>Italiano</summary>
 
-Dalle versioni 20 e 25, la versione attuale e quella successiva prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
 
 * Aumentato da 1201 a 1800 icone di applicazioni!
 * Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
