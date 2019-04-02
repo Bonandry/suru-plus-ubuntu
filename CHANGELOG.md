@@ -3,18 +3,72 @@
 <details>
   <summary>English</summary>
 
-* Increased from 1201 to 1720 applications icons!
+* Increased from 1201 to 1800 applications icons!
 * Several icons have been reimagined with a new GNOME 3.32 look.
 * Reduced from 170MB to 30MB! 
 
 From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
+
+* You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or non-GNOME 3.32/non-Suru/non-Yaru styles, or then, one of your favourite colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
+
+### Backup
+
+#### Alternative pictograms
+
+<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+#### Alternative colours
+
+<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+
+### Cards Game
+
+<img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
+<img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+
+### Fonts
+
+<img src="alternatives/font.svg?sanitize=true"      alt="fonts official"  height="64px">
+<img src="alternatives/font-alt.svg?sanitize=true"  alt="fonts alt"       height="64px">
+
+### Image Viewer
+
+<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
+<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+### Radio
+
+<img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
+<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
 
 </details>
 
 <details>
   <summary>Italiano</summary>
 
-* Aumentato da 1201 a 1720 icone di applicazioni!
+* Aumentato da 1201 a 1800 icone di applicazioni!
 * Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
 * Ridotto da 170 MB a 30 MB!
 
