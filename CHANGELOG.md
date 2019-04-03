@@ -1,4 +1,223 @@
-# 18.0
+# 25.0 Kyoto (京都)
+
+<details>
+  <summary>English</summary>
+
+From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
+
+* Increased from 1201 to 1950 applications icons!
+* Several icons have been reimagined with a new GNOME 3.32 look.
+* Reduced from 170MB to 30MB! 
+* You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
+
+### Backup
+
+#### Alternative pictograms
+
+<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+#### Alternative colours
+
+<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+
+### Calendar
+
+#### Alternative pictograms
+
+<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+
+#### Alternative colours
+
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+
+### Cards Game
+
+<img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
+<img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+
+### Colours
+
+<img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
+<img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+
+### Fonts
+
+#### Alternative colours
+
+<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+
+### Image Viewer
+
+<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
+<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+### Partitions
+
+<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+<img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
+
+### Radio
+
+<img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
+<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
+
+</details>
+
+<details>
+  <summary>Italiano</summary>
+
+Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+
+* Aumentato da 1201 a 1950 icone di applicazioni!
+* Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
+* Ridotto da 170 MB a 30 MB!
+* Avrai più libertà di scegliere una delle icone alternative preferite - stilei ufficiali del GNOME 3.32, Suru, Yaru o stili non ufficiali, o poi, uno dei tuoi colori ufficiali e non ufficiali preferiti! Se vuoi sapere come cambiare l'icona alternativa, per favore, [visita il tutorial qui](). Per esempio:
+
+### Backup
+
+#### Pittogrammi alternativi
+
+<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+#### Colori alternativi
+
+<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+
+### Calendario
+
+#### Pittogrammi alternativi
+
+<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+
+#### Colori alternativi
+
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+
+### Gioco di Carde
+
+<img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
+<img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+
+### Colori
+
+<img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
+<img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+
+### Font
+
+#### Colori alternativi
+
+<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+
+### Visualizzatore di Immagini
+
+<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
+<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+### Partizioni
+
+<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+<img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
+
+### Radio
+
+<img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
+<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
+
+</details>
+
+# 20.0 Osaka (大阪)
+
+* Added new GNOME 3.32 icons;
+* Added support for GNOME 3.32;
+* Biggest upgrade of Suru++ Ubuntu:
+  * Improved hundred icons;
+  * Improved several 16px icons and fixed 16px icons which were bigger;
+  * Added several missed icons.
+
+# 18.0 Roma
 
 * The 3rd alternative of Firefox, added and redesigned by @ChrisP4. You can see how are three icons of Firefox and choose one of them:
 
@@ -26,7 +245,7 @@ With the help of @gusbemacbe,
 
 With all them, I ended the bugs and optimised the size for Ubuntu. 
 
-# 14
+# 14 Venice
 
 * The icon theme package became increasingly minimal and is optimised for Ubuntu distributions. 
 
@@ -107,7 +326,7 @@ Icons designed by @Magog64:
 * The good news is that, you are not any more required to depend on Sam Hewitt's icons and other Suru++ packs, because we have purged the dead symlinks. 
 * WE have switched to GPL3. 
 
-# v13
+# v13 Milano
 
 We have made a biggest update, biggest than v11. :-D We have good news...
 
@@ -301,7 +520,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Xubuntu
   * Zorin
 
-# v12
+# v12 Palermo
 
 <sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
 
@@ -466,7 +685,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 
 * I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
 
-# v11
+# v11 Napoli
 
 * We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
 
@@ -721,7 +940,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Instagram
 
-# v10.0
+# v10.0 Genova
 
 * Added icons:
   - Aqualung
@@ -841,7 +1060,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - Wordpress
   - XBMC
 
-# v9.0
+# v9.0 Bologna
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
@@ -892,7 +1111,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Adobe Reader 9
   * Adobe Reader 10
 
-# v8.0
+# v8.0 Firenze
 
 * Added icons:
   * Archive Mounter
@@ -912,7 +1131,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * We have provided desktop files located in the folder `desktop` for you who have problems with badly displayed icon;
 * We reorganised README to facilitate expert and novice users. 
 
-# v7.0
+# v7.0 Padua
 
 * Added icons:
   * Address Book
@@ -1035,7 +1254,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Archive
   * Jocky
 
-# v6.0
+# v6.0 Modena
 
 * Added missed icons:
   * Arduino
@@ -1084,7 +1303,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   * Opera
 
-# v5.0
+# v5.0 Verona
 
 * Added icons:
   - Git Cola 
@@ -1118,7 +1337,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Gravit Designer
 
-# v4.0
+# v4.0 Trastevere
 
 * Apps:
   - GNOME-Do
@@ -1154,11 +1373,13 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 - Added and fixed status icons
 - Improved Insync status icons
 
-# v3.0
+# v3.0 Arezzo
+
 - Added Wine icons
 - Improved the icons of GNOME Screenshot, Hyper and Mailspring
 
-# v2.0
+# v2.0 Pisa
+
 - Added icons:
   - Atom Beta
   - Citra
@@ -1177,7 +1398,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - VSCode Insiders
   - Wire
 
-# v1.0
+# v1.0 Pontassieve
 
 - Starting the icons pack
 
