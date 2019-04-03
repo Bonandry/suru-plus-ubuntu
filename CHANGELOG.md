@@ -5,7 +5,7 @@
 
 From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
 
-* Increased from 1201 to 1800 applications icons!
+* Increased from 1201 to 1950 applications icons!
 * Several icons have been reimagined with a new GNOME 3.32 look.
 * Reduced from 170MB to 30MB! 
 * You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
@@ -109,7 +109,7 @@ From the versions 20 and 25, the current and next version will be named after Ja
 
 Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
 
-* Aumentato da 1201 a 1800 icone di applicazioni!
+* Aumentato da 1201 a 1950 icone di applicazioni!
 * Diverse icone sono state reimmaginate con un nuovo aspetto di GNOME 3.32.
 * Ridotto da 170 MB a 30 MB!
 * Avrai più libertà di scegliere una delle icone alternative preferite - stilei ufficiali del GNOME 3.32, Suru, Yaru o stili non ufficiali, o poi, uno dei tuoi colori ufficiali e non ufficiali preferiti! Se vuoi sapere come cambiare l'icona alternativa, per favore, [visita il tutorial qui](). Per esempio:
