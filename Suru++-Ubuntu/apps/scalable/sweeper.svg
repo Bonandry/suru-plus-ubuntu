@@ -1071,6 +1071,15 @@
          offset="1"
          id="stop15307" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11647"
+       id="linearGradient1072"
+       x1="-3.7008495"
+       y1="43.910221"
+       x2="8.92519"
+       y2="51.54652"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1080,10 +1089,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5511361"
-     inkscape:cx="75.302386"
+     inkscape:cx="185.78899"
      inkscape:cy="125.56799"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1162"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1330,7 +1339,7 @@
          id="g1162">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#c17d10;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.25347638;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:url(#linearGradient1072);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.25347638;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
            d="M 17.095703,14.990234 C 12.423342,14.829694 7.5288861,17.374937 5.3808594,21.142578 L -8.1015625,51.806641 c -2.8640355,5.023483 -2.0477735,10.892855 1.8300781,13.160156 3.8778517,2.267301 9.3058861,0.04936 12.1699219,-4.974609 L 25.033203,32.978516 c 2.864036,-5.023597 2.032596,-14.088379 -3.449219,-16.871094 -1.398109,-0.709701 -2.930827,-1.063674 -4.488281,-1.117188 z m -0.740234,5.792969 a 4.1927273,4.1927273 0 0 1 4.011719,3.107422 4.1927273,4.1927273 0 0 1 -2.964844,5.134766 4.1927273,4.1927273 0 0 1 -5.134766,-2.964844 4.1927273,4.1927273 0 0 1 2.964844,-5.134766 4.1927273,4.1927273 0 0 1 1.123047,-0.142578 z"
            transform="matrix(0.26458333,0,0,0.26458333,0,229.26666)"
            id="path7966" />
