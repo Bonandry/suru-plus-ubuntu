@@ -1,0 +1,42 @@
+<svg width="256" height="256" style="enable-background:new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter925" x="-.02" y="-.03" width="1.046" height="1.05" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="2.32"/>
+  </filter>
+  <filter id="filter931" x="-.01" y="-.01" width="1.023" height="1.025" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="1.16"/>
+  </filter>
+  <linearGradient id="linearGradient1108" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffffff" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:.09803922" offset=".125"/>
+   <stop style="stop-color:#000000;stop-opacity:.09803922" offset=".925"/>
+   <stop style="stop-color:#000000;stop-opacity:.49803922" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1082-3">
+   <path d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z" style="fill:#8c59d9"/>
+  </clipPath>
+  <clipPath id="clipoutline1">
+   <path id="outline1" d="m54.1 12.5-41.2 42.2c-15.6 15.6 10.1 14.3 19.4 20.2 4.3 2.8-13.8 6.4-10.1 10.1 3.6 3.7 21.7 7.1 25.3 10.7 3.6 3.7-7.3 7.6-3.7 11.3 3.5 3.7 11.9 0.2 13.4 8.6 1.1 6.2 15.4 3.1 21.8-2.2 4-3.4-6.9-3.4-3.3-7.1 9-9.1 17-4.1 20.3-12.5 1.8-4.5-13.6-7.7-9.5-10.6 9.8-6.9 45.8-10.4 29.2-27l-42.7-43.7c-5.3-5-14-5-18.9 0zm-9.9 64.7c0.9 0 30.8 4 19.3 7.1-4.4 1.2-24.6-7.1-19.3-7.1zm57.2 16.6c0 2.1 16.3 3.3 15.4-0.5-1.3-6.4-13.6-5.9-15.4 0.5zm-69.5 11.1c3.7 3.2 9.3-0.7 11.1-5.2-3.6-4.7-16.9 0.3-11.1 5.2zm67.5-6.7c-4.6 4.2 0.8 8.6 5.3 5.7 1.2-0.8-0.1-4.7-5.3-5.7z"/>
+  </clipPath>
+  <linearGradient id="linearGradient915" x1="41.568" x2="221.568" y1="56.864" y2="288.216" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dbdbdb" offset="0"/>
+   <stop style="stop-color:#f5f5f5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0,-44)">
+  <path d="m162.53675 62.431991c72.64865 0 83.03125 10.356615 83.03125 82.937499v58.125c0 72.58059-10.3826 82.9375-83.03125 82.9375h-73.9375c-72.64865 0-83.03125-10.35691-83.03125-82.9375v-58.125c0-72.580884 10.3826-82.937499 83.03125-82.937499z" style="filter:url(#filter925);opacity:.2"/>
+  <path d="m162.53675 61.431991c72.64865 0 83.03125 10.356615 83.03125 82.937499v58.125c0 72.58059-10.3826 82.9375-83.03125 82.9375h-73.9375c-72.64865 0-83.03125-10.35691-83.03125-82.9375v-58.125c0-72.580884 10.3826-82.937499 83.03125-82.937499z" style="filter:url(#filter931);opacity:.1"/>
+  <path d="m162.53675 60.431991c72.64865 0 83.03125 10.356615 83.03125 82.937499v58.125c0 72.58059-10.3826 82.9375-83.03125 82.9375h-73.9375c-72.64865 0-83.03125-10.35691-83.03125-82.9375v-58.125c0-72.580884 10.3826-82.937499 83.03125-82.937499z" style="fill:url(#linearGradient915)"/>
+  <path transform="matrix(.5 0 0 .5 -18.432 166.43199)" d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z" clip-path="url(#clipPath1082-3)" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:url(#linearGradient1108)"/>
+ </g>
+ <path d="m88.59925 240.43199c-72.64866 0-83.03126-10.35258-83.03126-82.90499v-29.05115h240.00002v29.05115c0 72.55241-10.3826 82.90499-83.03126 82.90499z" style="fill:#ffffff;opacity:.25"/>
+ <g transform="matrix(1.4282313,0,0,1.4282313,34.163443,37.181112)">
+  <use class="outline-big" width="128" height="128" style="fill:none;opacity:.1" xlink:href="#outline1"/>
+  <use class="outline-small" width="128" height="128" style="fill:none;opacity:.2" xlink:href="#outline1"/>
+  <use class="black" width="128" height="128" style="fill:#4d4d4d" xlink:href="#outline1"/>
+  <use class="stroke-highlight" width="128" height="128" clip-path="url(#clipoutline1)" style="fill:none;opacity:.2" xlink:href="#outline1"/>
+  <use class="specularity" width="128" height="128" style="fill:#4d4d4d" xlink:href="#outline1"/>
+  <use class="low-specularity" width="128" height="128" style="fill:#4d4d4d" xlink:href="#outline1"/>
+  <path class="full-specularity" d="m70.5 15.5 16.3 16.6c1.5 1.5 1.5 4.6 0.6 5.5l-8.1-6.6-1.6 9.7-6.7-3.6-10.9 6.9-3.6-14.5-5.8 12.6-14.5-0.1c-2.8 0-2.4-2.9 0.5-5.8 5.7-6.3 16.8-17 20.3-20.7 3.6-3.7 9.9-3.6 13.5 0z" style="fill:#ffffff"/>
+ </g>
+</svg>

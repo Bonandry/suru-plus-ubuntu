@@ -1,9 +1,9 @@
-<svg width="256" height="256" style="enable-background:new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.0" style="enable-background:new">
  <defs>
-  <filter id="filter925" x="-.02" y="-.03" width="1.046" height="1.05" style="color-interpolation-filters:sRGB">
+  <filter id="filter925" width="1.046" height="1.05" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
    <feGaussianBlur stdDeviation="2.32"/>
   </filter>
-  <filter id="filter931" x="-.01" y="-.01" width="1.023" height="1.025" style="color-interpolation-filters:sRGB">
+  <filter id="filter931" width="1.023" height="1.025" x="-.01" y="-.01" style="color-interpolation-filters:sRGB">
    <feGaussianBlur stdDeviation="1.16"/>
   </filter>
   <linearGradient id="linearGradient2232" x1="47.791" x2="46.277" y1="235.363" y2="240.935" gradientTransform="matrix(3.8527298,0,0,3.8527298,-3.148019,-883.62074)" gradientUnits="userSpaceOnUse">
@@ -40,9 +40,9 @@
   <g transform="translate(.65678434)">
    <ellipse cx="185.971" cy="86.8" rx="25.847" ry="25.896" style="fill:#353535;stroke-linecap:round;stroke-width:1.0238078;stroke:#2e3436"/>
    <ellipse cx="185.971" cy="86.8" rx="24.299" ry="24.324" style="fill:none;opacity:.5;stroke-linecap:round;stroke-width:1.0564598;stroke:#ffffff"/>
-   <text transform="scale(.99799701 1.002007)" x="172.5" y="103.62" style="fill:#ffffff;font-family:'Bitstream Vera Sans';font-size:28.265224px;font-weight:bold;line-height:0%" xml:space="preserve">
-    <tspan x="172.5" y="103.62" style="font-size:41.857841px;line-height:1.25">5</tspan>
-   </text>
+   <g transform="scale(.99799701 1.002007)" style="font-weight:bold;font-size:28.26522446px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff">
+    <path d="m 176.93513,73.105473 h 19.55955 v 5.784067 h -13.28496 v 4.72127 q 0.89929,-0.245261 1.79858,-0.367891 0.91973,-0.143069 1.90077,-0.143069 5.57968,0 8.68632,2.800061 3.10664,2.779622 3.10664,7.766591 0,4.946093 -3.39278,7.746158 -3.37233,2.80006 -9.38122,2.80006 -2.59568,0 -5.15048,-0.51096 -2.53436,-0.49053 -5.04828,-1.51245 v -6.19283 q 2.49348,1.430688 4.72127,2.146032 2.24822,0.715344 4.23075,0.715344 2.86137,0 4.49644,-1.389811 1.65551,-1.41025 1.65551,-3.801543 0,-2.411731 -1.65551,-3.801542 -1.63507,-1.389811 -4.49644,-1.389811 -1.69639,0 -3.6176,0.449645 -1.92121,0.429206 -4.12856,1.348934 z"/>
+   </g>
    <path d="m186.4012 59.87309 0.079 28.878861 26.66405 0.07886s0.88017-11.597877-7.77779-20.361877c-8.69868-8.805208-18.96515-8.59587-18.96515-8.59587z" style="fill-rule:evenodd;fill:#eeeeec;opacity:.7"/>
    <path d="m185.89876 110.21885v5.00354" style="fill:none;stroke-linecap:round;stroke-width:1.5357116;stroke:#2e3436"/>
    <path d="m185.97065 58.455609v30.750934h28.3834" style="fill:none;stroke-linecap:round;stroke-width:1.5357116;stroke:#2e3436"/>
@@ -51,5 +51,5 @@
  </g>
  <path d="m77.79023 16.636123c-5.847659 0.08239-11.903939 0.113764-16.916167 0.407849-5.544121 0.325417-10.104337 0.992428-14.706565 1.657247l-14.2944 53.34905h31.070335z" style="fill:url(#linearGradient2216)"/>
  <path d="m135.60944 16.432218h-30.46695l-14.89353 55.579801h30.46693z" style="fill:url(#linearGradient2224)"/>
- <path transform="matrix(.5 0 0 .5 -18.432 122.43199)" d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z" clip-path="url(#clipPath1082-3-3-2)" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:url(#linearGradient1003)"/>
+ <path d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z" clip-path="url(#clipPath1082-3-3-2)" transform="matrix(.5 0 0 .5 -18.432 122.43199)" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:url(#linearGradient1003)"/>
 </svg>
