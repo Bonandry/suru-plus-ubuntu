@@ -60,13 +60,13 @@ COLORS=(
 	[blue]="     			#37a6e6 #6dc7f1 #135c9a #1a7fd4 #c6e9f7"
 	[bordeaux]="     	#c2655b #d3918a #7f372f #ad4b41 #edd3d0"
 	[canonical]="     #925475 #ad7f98 #4c1a35 #853e64 #ddcad4"
-	[cyan]="     			#31C6B7 #5BDBC1 #1F6166 #2DAAAA #BAE8D5"
+	[cyan]="     			#31c6b7 #5bdbc1 #1f6166 #2daaaa #bae8d5"
 	[darkblue]="     	#6d95b0 #97b4c7 #3d5c71 #537e9b #d5e1e8"
-	[green]="     		#76C22B #A6D74F #1F6617 #46A926 #DCE6B8"
+	[green]="     		#76c22b #a6d74f #1f6617 #46a926 #dce6b8"
 	[purple]="     		#8f76e4 #a7a7f1 #642f99 #8c59d0 #dcdef5"
 	[red]="     			#f22c42 #f76363 #7f1126 #da1636 #fac3ba"
 	[vermillion]="    #e44739 #eb7b71 #991f15 #d12b1d #f7cac6"
-	[yellow]="     		#FFDA64 #FEE581 #664F02 #FDC92B #403101"
+	[yellow]="     		#ffda64 #fee581 #664f02 #fdc92b #403101"
 )
 
 headline() {
