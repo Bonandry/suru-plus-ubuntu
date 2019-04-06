@@ -37,10 +37,9 @@
 
 - Added three alternatives of Firefox that you can choose:
 
-| <img src="Suru++-Ubuntu/apps/scalable/firefox.svg" alt="Firefox Traditional" height="100px"> | <img src="Suru++-Ubuntu/apps/scalable/firefox-20.svg" alt="Firefox Suru++ 20" height="100px"> | <img src="Suru++-Ubuntu/apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="100px"> |
-| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| Traditional                                                                    | Suru++ 25                                                                       | Mozilla Unofficial                                                                 |
-| `firefox.svg`                                                                  | `firefox-20.svg`                                                                | `firefox-mozilla.svg`                                                              |
+<img src="alternatives/firefox.svg?sanitize=true"          alt="Firefox Traditional" height="65px">
+<img src="alternatives/firefox-20.svg?sanitize=true"       alt="Firefox Suru++ 25"   height="65px">
+<img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla"     height="65px"> |
 
 **How to change the alternative of these?**
 
