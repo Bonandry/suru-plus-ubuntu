@@ -39,10 +39,10 @@ else
 fi
 
 DEFAULT_COLOR="orange"
-SIZES_REGEX="(16|64)"
+SIZES_REGEX="(16|scalable)"
 MONOCHROME_SIZES_REGEX="(scalable)"
 COLOR_SIZES_REGEX="(scalable)"
-FILES_REGEX="(folder|user)-"
+FILES_REGEX="(folder)-"
 
 declare -A COLORS
 
