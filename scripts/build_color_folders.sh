@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script creates colored folder icons for Suru++ Ubuntu icon theme
+# This script creates colored folder icons for Suru+ icon theme
 #
 # Colors of the folder icon:
 #
@@ -55,11 +55,19 @@ COLORS=(
 	#
 	# | name         | [0]   | [1]   | [2]   | [3]   | [4]   |
 	# |--------------|-------|-------|-------|-------|-------|
-	[orange]="  			#fb7c38 #fda463 #903906 #f34f17 #fedbc7"
+	[orange]="        #fb7c38 #fda463 #903906 #f34f17 #fedbc7"
 	[aubergine]="     #a0649a #ad7aa9 #4f1748 #85377d #ddc8db"
+	[blue]="     			#37a6e6 #6dc7f1 #135c9a #1a7fd4 #c6e9f7"
+	[bordeaux]="     	#c2655b #d3918a #7f372f #ad4b41 #edd3d0"
 	[canonical]="     #925475 #ad7f98 #4c1a35 #853e64 #ddcad4"
+	[cyan]="     			#31C6B7 #5BDBC1 #1F6166 #2DAAAA #BAE8D5"
+	[darkblue]="     	#6d95b0 #97b4c7 #3d5c71 #537e9b #d5e1e8"
+	[green]="     		#76C22B #A6D74F #1F6617 #46A926 #DCE6B8"
+	[purple]="     		#8f76e4 #a7a7f1 #642f99 #8c59d0 #dcdef5"
+	[red]="     			#f22c42 #f76363 #7f1126 #da1636 #fac3ba"
+	[vermillion]="    #e44739 #eb7b71 #991f15 #d12b1d #f7cac6"
+	[yellow]="     		#FFDA64 #FEE581 #664F02 #FDC92B #403101"
 )
-
 
 headline() {
 	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*" >&2
@@ -132,8 +140,9 @@ headline "PHASE 4: Create symlinks for Folder Color v0.0.80 and newer ..."
 # -----------------------------------------------------------------------------
 # Icons mapping
 FOLDER_COLOR_MAP=(
-	# Folder Color icon         | Suru++ Ubuntu icon
+	# Folder Color icon         | Suru-plus icon
 	# --------------------------|---------------------------
+	"folder-COLOR-desktop.svg    user-COLOR-desktop.svg"
 	"folder-COLOR-downloads.svg  folder-COLOR-download.svg"
 	"folder-COLOR-public.svg     folder-COLOR-image-people.svg"
 	"folder-COLOR-videos.svg     folder-COLOR-video.svg"
