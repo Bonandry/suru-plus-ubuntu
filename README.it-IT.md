@@ -2,204 +2,218 @@
 <img src="images/logo-nuovo.svg" alt="Logotype">
 </p>
 
-<h3 align="center">Icone Suru di terze parti per Ubuntu</h3>
-<h3 align="center">Ottimizzato per Ubuntu 18.04, 18.10 e 19.04</h3>
-<h3 align="center">Un tema di icone elegante, moderno e dolce basato su <a href="https://snwh.org/suru">Suru Icons</a> di Sam Hewitt</h3></h3>
+<p align="center"> 
+<img src="images/Title - Italian.svg" alt="Title">
+</p>
 
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 
 <h1>Indice</h1>
 
-- [Cosa c'è di nuovo?](#cosa-c%C3%A8-di-nuovo)
-  - [17.1](#171)
-- [Installing with CLI](#installing-with-cli)
-    - [ROOT directory (recommended)](#root-directory-recommended)
-    - [HOME directory for GTK](#home-directory-for-gtk)
-  - [For Lubuntu users](#for-lubuntu-users)
+O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubuntu/wiki).
+
+- [Cosa c'è di nuovo nella versione?](#cosa-c%C3%A8-di-nuovo-nella-versione)
+  - [v17.1](#v171)
+- [Installazione con il CLI](#installazione-con-il-cli)
+  - [Cartella ROOT (raccomandato)](#cartella-root-raccomandato)
+  - [Cartella HOME per GNOME](#cartella-home-per-gnome)
+  - [Per gli utenti non-Ubuntu e non-GNOME](#per-gli-utenti-non-ubuntu-e-non-gnome)
   - [For non-Ubuntu users](#for-non-ubuntu-users)
-  - [Uninstall](#uninstall)
-- [Known bugs](#known-bugs)
-  - [Snap-built apps](#snap-built-apps)
-  - [AppImage-built apps](#appimage-built-apps)
-  - [Hardcoded application icons with ugly name](#hardcoded-application-icons-with-ugly-name)
-  - [Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.](#unattractive-icons-of-bluetooth-manager-gigolo-network-wifi-etc)
-  - [Unrecognised and ugly icons](#unrecognised-and-ugly-icons)
-    - [Okular icon and other icons](#okular-icon-and-other-icons)
-  - [Do you support non-GNOME distros?](#do-you-support-non-gnome-distros)
-- [Report](#report)
-- [Contribution](#contribution)
-- [Authors and Contributors](#authors-and-contributors)
-- [Changelog](#changelog)
-- [Credits and Licences](#credits-and-licences)
+  - [Dinsinstallazione](#dinsinstallazione)
+- [Modifica delle icone alternative e del colore delle icone](#modifica-delle-icone-alternative-e-del-colore-delle-icone)
+  - [Firefox](#firefox)
+    - [Per cambiare il percorso dell'icona nel file desktop (raccomandato)](#per-cambiare-il-percorso-dellicona-nel-file-desktop-raccomandato)
+    - [Per creare il collegamento](#per-creare-il-collegamento)
+  - [Icona alternativa](#icona-alternativa)
+  - [Colore alternativo](#colore-alternativo)
+- [Bug consociuti](#bug-consociuti)
+  - [App create tramite Snap](#app-create-tramite-snap)
+  - [App create tramite AppImage](#app-create-tramite-appimage)
+  - [Icone predefinite delle applicazioni con un nome brutto](#icone-predefinite-delle-applicazioni-con-un-nome-brutto)
+  - [Icone non attraenti di Bluetooth Manager, Gigolo, Network Wifi, ecc.](#icone-non-attraenti-di-bluetooth-manager-gigolo-network-wifi-ecc)
+  - [Icone non riconosciute e brutte (Okular, ecc.))](#icone-non-riconosciute-e-brutte-okular-ecc)
+  - [Supporti distribuzioni non-GNOME?](#supporti-distribuzioni-non-gnome)
+- [Rapporto](#rapporto)
+- [Contributo](#contributo)
+  - [Linee Guida di Progettazione](#linee-guida-di-progettazione)
+  - [Kit di Strumenti](#kit-di-strumenti)
+- [Autori e Collaboratori](#autori-e-collaboratori)
+  - [Sviluppatori centrali (in ordine di apparizione):](#sviluppatori-centrali-in-ordine-di-apparizione)
+  - [Collaboratori:](#collaboratori)
+- [Registro delle modifiche](#registro-delle-modifiche)
+- [Crediti e Licenze](#crediti-e-licenze)
 
+## Cosa c'è di nuovo nella versione?
 
-## Cosa c'è di nuovo?
-
-### 17.1
+### v17.1
 
 Aggiunte tre alternative di Firefox che puoi selezionare:
 
-<img src="Suru++-Ubuntu/apps/scalable/firefox.svg" alt="Firefox Traditional" height="64px">
-<img src="Suru++-Ubuntu/apps/scalable/firefox-20.svg" alt="Firefox Suru++ 20" height="64px">
-<img src="Suru++-Ubuntu/apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="64px">
+<img src="alternatives/firefox.svg?sanitize=true"          alt="Firefox Traditional" height="65px">
+<img src="alternatives/firefox-20.svg?sanitize=true"       alt="Firefox Suru++ 25"   height="65px">
+<img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla"     height="65px">
 
-** Per sapere come cambiare le alternative di queste, vedi le Wiki. 
-**How to change the alternative of these?**
+## Installazione con il CLI
 
-1. Go to `/usr/share/applications/`;
-2. Go to the desktop file `Firefox`;
-3. Open the file with your favourite text editor;
-4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-20` or `Icon=firefox-mozilla`. Save it.
+Utilizza gli script per installare la versione più recente direttamente da questo repository (indipendentemente dalla tua distribuzione):
 
-## Installing with CLI
+**NOTA:** Utilizza lo stesso comando per aggiornare il tema di icone.
 
-Use the scripts to install the latest version directly from this repository (independently of your distribution):
-
-**NOTE:** Use the same command to update the icon theme.
-
-#### ROOT directory (recommended)
+### Cartella ROOT (raccomandato)
 
 ```
 wget -qO- https://raw.githubusercontent.com/Bonandry/suru-plus-ubuntu/master/install.sh | sh
 ```
 
-#### HOME directory for GTK
+### Cartella HOME per GNOME
 
 ```
 wget -qO- https://raw.githubusercontent.com/Bonandry/suru-plus-ubuntu/master/install.sh | env DESTDIR="$HOME/.icons" sh
 ```
 
-### For Lubuntu users
+### Per gli utenti non-Ubuntu e non-GNOME
 
-As you want 24px and 26px icons to be colourful in the panel, and want the dark theme, please visit:
-
-* [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/)
+Se vuoi che le icone di 24px e 26px siano colorate nel pannello, visita [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/).
 
 ### For non-Ubuntu users
 
-This repository is designed only for Ubuntu, from 18.04 to 19.04. If you want the support for non-GNOME and non-Ubuntu, please visit [@gusbemacbe](https://github.com/gusbemacbe)’s [Suru++ 25](https://github.com/gusbemacbe/suru-plus).
+Questo repository è progettato solo per Ubuntu, dal 18.04 al 19.04 e distribuzioni **con GNOME 3.32**. Se vuoi il supporto per le distribuzioni non-GNOME e non-Ubuntu, visita il [Suru++ 25](https://github.com/gusbemacbe/suru-plus) di [@gusbemacbe](https://github.com/gusbemacbe).
 
-### Uninstall
+### Dinsinstallazione
 
 ```
 wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-ubuntu/master/install.sh | env uninstall=true sh
 ```
 
-## Known bugs
+## Modifica delle icone alternative e del colore delle icone
 
-### Snap-built apps
+### Firefox
 
-Unfortunately the snap-built apps are not supported almost by any icons themes, because the icons are hardcoded and the desktop files are not hosted in the folder `~/.local/share/applications` or `/usr/share/applications`.
+Ci sono due opzioni che puoi scegliere:
 
-To solve it, please follow the instructions:
+#### Per cambiare il percorso dell'icona nel file desktop (raccomandato)
 
-1. Do:
+1. Vai alla `/usr/share/applications/`;
+2. Trova il file di configurazione di *desktop* `Firefox`;
+3. Apri il file con il tuo editore di testo favorito;
+4. Trova l'opzione `Icon=...` e modificala con una di tre alternative: `Icon=firefox` o `Icon=firefox-20` o `Icon=firefox-mozilla`. Salvalo.
 
-```bash
-# Copy all desktop files of all snap-built apps to "~/.local/share/applications"
-sudo cp /var/lib/snapd/desktop/applications/*.desktop ~/.local/share/applications
-# To de-sudo the files
-sudo chmod -R 777 ~/.local/share/applications
-# To remove the duplicates
-sudo rm /var/lib/snapd/desktop/applications/*.desktop
-```
+#### Per creare il collegamento
 
-2. Go to the directory  `~/.local/share/applications`;
-3. Open each desktop file of snap app with your favourite text editor and modify the encoded path of `Icon` to the simple path with no extension. For example, if you use Insomnia:
-
-```bash
-Icon=snap/icons/icon.png
-Icon=insomnia
-```
-
-4. Run `update-desktop-database` in the terminal.
-
-### AppImage-built apps
-
-With AppImageLauncher installed, you click an AppImage, it is automatically integrated to `~/Applications`, and desktop files are automatically created into `~/local/share/applications`. But if you modify one of the AppImage-built app desktop file to correct the icon path, AppImageLauncher reverts automatically the desktop file to the original and keeps again the icon path hardcoded. It also removes the option `StartupWMClass`. We recommend you to ban `AppImageLauncher`. 
-
-1. Remove `appimagelauncher` via terminal;
-2. Create `~/Applications/AppImages/`, move all AppImages to this folder. Make all AppImages executable and trusted:
-
-```bash
-chmod a+x *.AppImage
-```
-
-3. Reboot;
-4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWNClass` or the icon will be unrecognised or ugly. The desktop file, for example, `ColourPicker.desktop`, should be like:
+Esegui i comandi:
 
 ```
-[Desktop Entry]
-Categories = Graphics;
-Comment = A mininal but complete color picker
-Comment[en_GB] = A mininal but complete colour picker
-Exec = $HOME/Applications/AppImages/ColorPicker.AppImages
-GenericName = Color Picker
-GenericName[en_GB] = Colour Picker
-Icon = colorpicker
-Name = Color Picker
-Name[en_GB] = Colour Picker
-StartupNotify = true
-StartupWMClass = ColorPicker
-Terminal = false
-Type = Application
-Version = 1.0
+# Dipende da dove hai installato il tema di icone Suru++ Ubuntu
+cd ~/.icons/Suru++-Ubuntu/apps/scalable`
+cd /usr/share/icons/Suru++-Ubuntu/apps/scalable`
+
+# Scegli una delle alternative:
+ln -sfnr firefox-20.svg firefox.svg
+ln -sfnr firefox-mozilla.svg firefox.svg
 ```
 
-And run `update-desktop-database`.
+Per ritornare all'originale, hai bisogno di copiare l'icona originale `firefox.svg` dalla cartella `alternatives` sul repositorio, per la cartella `Suru++-Ubuntu/apps/scalable`. 
 
-**Tips**
+### Icona alternativa
 
-* To know which `StartupWNClass` name, it is the original same AppImage, for example, see in bold: <b><code>ColorPicker</b>.AppImage</code>. If it does not work, you need to extract the AppImage to figure the `bin` shell name. 
-* If you are foreigner and want comment and name in your native language, you can add, for example, `Comment[en_GB]`, `GenericName[en_GB]` and `Name[en_GB]`. If to Spanish, it would  be`[es]`, and to Spanish from Mexico, `[es_MX]`. 
-* The AppImage names should remain original, but if you want to rename, you are free, but for the `StartupWNClass` name, you need to put the original name of that AppImage.
+1. Vai alla cartella `alternatives` sul repositorio;
+2. Scegli una delle tue icone preferite e copiala per la `Suru++-Ubuntu/apps/scalable`.
+3. Esegui i comandi:
 
-### Hardcoded application icons with ugly name
+```
+cd ~/.icons/Suru++-Ubuntu/apps/scalable
+# A esempio, crea il collegamento alternativo per l'icona senza suffisso: ln -sfnr backup-alt1.svg backup.svg
+ln -sfnr nuovo.svg vecchio.svg
+```
 
-We have already icons, but it is wrong or ugly name, or because the icon is hardcoded. For example, the application GitHub Desktop used `Icon=desktop.png` and other apps, like Insomnia, use `Icon=icon.png`, or worse, `Icon=stupid/path/icon.png`. 
+Per ritornare all'originale, hai bisogno di copiare l'icona originale senza suffisso dalla cartella from the folder `alternatives` sul repositorio, per la cartella `Suru++-Ubuntu/apps/scalable`. 
 
-To deal with hardcoded application icons we recommend to install [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer). Suru++ supports most of the applications in the list. If [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favourite app yet, please open an [issue here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
+### Colore alternativo
 
-### Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.
+1. Vai alla cartella `alternatives` sul repositorio;
+2. Scegli uno dei colori preferiti delle icone e copialo per la `Suru++-Ubuntu/apps/scalable`.
+3. Esegui i comandi:
 
-Because the desktop files use the 16px icons of `actions`, `mimetypes`, `panel` and `places` and not the icons of `apps` and `categories`. Therefore, you need to change manually the icon names in the desktop files to catch the icons of `apps`.
+```
+cd ~/.icons/Suru++-Ubuntu/apps/scalable
+# A esempio, crea il collegamento alternativo per l'icona senza suffisso: ln -sfnr backup-azzuro.svg backup.svg
+ln -sfnr nuovo.svg vecchio.svg
+```
 
-### Unrecognised and ugly icons
+Per ritornare all'originale, hai bisogno di copiare l'icona originale senza suffisso dalla cartella from the folder `alternatives` sul repositorio, per la cartella `Suru++-Ubuntu/apps/scalable`. 
 
-#### Okular icon and other icons
+## Bug consociuti
 
-Not just Suru++ Ubuntu and Suru++ 25, it also affects Antü, Flat Remix, La Capitaine, Numix, Papirus, and Zafiro icons theme. It is a missed `StartupWMClass` option in the desktop files in KDE and an icon cache bug in GNOME and KDE. 
+Per favore fa un clic per visitare sul Wiki:
 
-1. Install and use [StartupWMClassFixer](https://github.com/bilelmoussaoui/StartupWMClassFixer);
-2. Install and use [Stacer](https://github.com/oguzhaninan/Stacer) to clean caches;
-3. Log out and log in.
+### [App create tramite Snap](https://github.com/Bonandry/suru-plus-ubuntu/wiki/App-create-tramite-Snap)
+### [App create tramite AppImage](https://github.com/Bonandry/suru-plus-ubuntu/wiki/App-create-tramite-AppImage)
+### [Icone predefinite delle applicazioni con un nome brutto](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-predefinite-delle-app-con-un-nome-brutto)
+### [Icone non attraenti di Bluetooth Manager, Gigolo, Network Wifi, ecc.](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-non-attraenti-di-Bluetooth-Manager,-Gigolo,-Network-Wifi,-ecc.)
+### [Icone non riconosciute e brutte (Okular, ecc.)](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-non-riconosciute-e-brutte-(Okular,-ecc.))
+### [Supporti distribuzioni non-GNOME?](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Supporti-distribuzioni-non-GNOME%3F)
 
-### Do you support non-GNOME distros?
+## Rapporto
 
-No, I do not. If I will add somehting else to this icons theme, it will increase bugs, ugliness in KDE and archive size. I would not like to work with fixing the bugs and to have headache. You musy consider the alternative icons theme: [@gusbemacbe](https://github.com/gusbemacbe)'s [Suru++ 15](https://github.com/gusbemacbe/suru-plus). 
+Segnala, ma per favore fornisci informazioni ben dettagliate. Tu devi scrivere in inglese o italiano.
 
-## Report
+Prima di creare un nuovo *issue*, assicurati che:
 
-* Do you find the missed icons?
-* Do you find the misused icons?
-* Did you find the errors?
+- La richiesta di icona non è un duplicato;
+- Il titolo contiene l'applicazione o il nome dell'icona (per esempio: `[Richiesta di Icona] Boostnote`).
 
-Report, but please provide well-detailed informations.
+**OSSERVAZIONE**
 
-## Contribution
+You'll find most of necessary entries for the icon request in a app's desktop file, usually placed in the `/usr/share/applications/` or `~/.local/share/applications` folder (for example: `/usr/share/applications/firefox.desktop`).
 
-See the file [CONTRIBUTING.md](CONTRIBUTING.md)
+Troverai la maggior parte delle entrate necessarie per la richiesta di icona nel file di configurazione di *desktop* di un'app, di solito nella cartella `/usr/share/applications/` o `~/.local/share/applications` (ad esempio: `/usr/share/applications/firefox.desktop`).
 
-## Authors and Contributors
+- Nome dell'app
+- Nome dell'icona
+- Descrizione
+- Pagina *web* (opzionale)
+- Icona originale
 
-The contributors is on the file [AUTHORS](Suru++-Ubuntu/AUTHORS).
+Carica (o semplicemente trascina e rilascia) l'icona dell'app originale sotto. 
 
-## Changelog
+## Contributo
 
-Please visit the [CHANGELOG](CHANGELOG).
+### Linee Guida di Progettazione
 
-## Credits and Licences
+Le istruzioni e line guida di progettazione sono state mosse per la pagina del sito [Suru++ Site – Design Guidelines](https://gusbemacbe.github.io/suru-plus-site/guidelines.html) (in inglese).
 
-* CC-BYSA/GPL3 © Suru Icons by Sam Hewitt.
-* GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
+### Kit di Strumenti
+
+Puoi trovare i file e le palette nella cartella esterna [templates sul Suru++ 25](https://github.com/gusbemacbe/suru-plus/tree/master/templates)  e anche nella cartella `templates` di questo repositorio. 
+
+## Autori e Collaboratori
+
+Il set di icone di FreeDesktop Suru è progettato e sviluppato da:
+
+- Sam Hewitt: <sam@snwh.org>
+
+Il set e il concept originali di icone Suru sono stati creati da:
+
+- Matthieu James
+- Canonical Design Team
+
+### Sviluppatori centrali (in ordine di apparizione):
+
+- Andrea Bonanni (original author): <bonandry@gmail.com>
+- Gustavo Costa (co-author and collaborator): <gusbemacbe@gmail.com>
+
+### Collaboratori:
+
+- Chris Escarra: [@ChrisP4](https://github.com/ChrisP4)
+
+## Registro delle modifiche
+
+Per favore visita la lista di [rilasci](https://github.com/Bonandry/suru-plus-ubuntu/releases) per vedere i registri delle modifiche. 
+
+O vedere il [registro delle modifiche pieno](CHANGELOG.md). 
+
+## Crediti e Licenze
+
+* CC-BYSA/GPL3 © Suru Icons di Sam Hewitt.
+* GPL3 © 2018 Suru++ Ubuntu di Andrea Bonanni e Gustavo Costa. 
