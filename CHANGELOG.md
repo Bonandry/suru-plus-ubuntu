@@ -61,6 +61,21 @@ From the versions 20 and 25, the current and next version will be named after Ja
 <img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
 <img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
 
+### Calculator
+
+#### Alternative colours
+
+<img src="alternatives/calculator.svg?sanitize=true"              alt="calculator official"   height="64px">
+<img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="calculator aquamarine" height="64px">
+<img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="calculator sky blue"   height="64px">
+<img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="calculator bordeaux"   height="64px">
+<img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="calculator yellow"     height="64px">
+<img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="calculator grey"       height="64px">
+<img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="calculator purple"     height="64px">
+<img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="calculator pink"       height="64px">
+<img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="calculator red"        height="64px">
+<img src="alternatives/calculator-verde.svg?sanitize=true"        alt="calculator green"      height="64px">
+
 ### Cards Game
 
 <img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
@@ -118,93 +133,110 @@ Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno i
 
 #### Pittogrammi alternativi
 
-<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
-<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
-<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
-<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
-<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+<img src="alternatives/backup.svg?sanitize=true"      alt="backup uffiziale"  height="64px">
+<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"      height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"      height="64px">
+<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"      height="64px">
+<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"      height="64px">
 
 #### Colori alternativi
 
-<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
-<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
-<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
-<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
-<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
-<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
-<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
-<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup acquamarina" height="64px">
+<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup arancione"   height="64px">
+<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup azzuro"      height="64px">
+<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup giallo"      height="64px">
+<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grigio"      height="64px">
+<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup rosa"        height="64px">
+<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup rosso"       height="64px">
+<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup verde"       height="64px">
 
 <br/>
 
-<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
-<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
-<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
-<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
-<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
-<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
-<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
-<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+<img src="alternatives/backup-alt2.svg?sanitize=true"             alt="backup alt 2 uffiziale"   height="64px">
+<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 acquamarina" height="64px">
+<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 arancione"   height="64px">
+<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 azzuro"      height="64px">
+<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 giallo"      height="64px">
+<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grigio"      height="64px">
+<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 rosa"        height="64px">
+<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 rosso"       height="64px">
+<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 verde"       height="64px">
 
 ### Calendario
 
 #### Pittogrammi alternativi
 
-<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
-<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+<img src="alternatives/calendario.svg?sanitize=true"      alt="calendario uffiziale" height="64px">
+<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendario alt 1"     height="64px">
 
 #### Colori alternativi
 
-<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
-<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
-<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
-<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
-<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
-<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
-<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
-<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
-<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+<img src="alternatives/calendario.svg?sanitize=true"              alt="calendario ufficizale"  height="64px">
+<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendario acquamarina" height="64px">
+<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendario arancione"   height="64px">
+<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendario bordeaux"    height="64px">
+<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendario giallo"      height="64px">
+<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendario grigio"      height="64px">
+<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendario porpora"     height="64px">
+<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendario rosa"        height="64px">
+<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendario rosso"       height="64px">
+<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendario verde"       height="64px">
 
 ### Gioco di Carde
 
-<img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
-<img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+<img src="alternatives/carde.svg?sanitize=true"     alt="carde uffiziale" height="64px">
+<img src="alternatives/carde-alt.svg?sanitize=true" alt="carde alt"       height="64px">
 
 ### Colori
 
-<img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
-<img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+<img src="alternatives/colori.svg?sanitize=true"     alt="colori uffizial" height="64px">
+<img src="alternatives/colori-alt.svg?sanitize=true" alt="colori alt"      height="64px">
 
 ### Font
 
 #### Colori alternativi
 
-<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
-<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
-<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
-<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
-<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
-<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
-<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
-<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
-<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
-<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
-<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+<img src="alternatives/font.svg?sanitize=true"              alt="font uffiziale"   height="64px">
+<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="font acquamarina" height="64px">
+<img src="alternatives/font-arancione.svg?sanitize=true"    alt="font arancione"   height="64px">
+<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="font azzuro"      height="64px">
+<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="font bordeaux"    height="64px">
+<img src="alternatives/font-giallo.svg?sanitize=true"       alt="font giallo"      height="64px">
+<img src="alternatives/font-grigio.svg?sanitize=true"       alt="font grigio"      height="64px">
+<img src="alternatives/font-porpora.svg?sanitize=true"      alt="font porpora"     height="64px">
+<img src="alternatives/font-rosa.svg?sanitize=true"         alt="font rosa"        height="64px">
+<img src="alternatives/font-rosso.svg?sanitize=true"        alt="font rosso"       height="64px">
+<img src="alternatives/font-verde.svg?sanitize=true"        alt="font verde"       height="64px">
 
-### Visualizzatore di Immagini
+### Macchina Calcotarice
 
-<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
-<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+#### Colori alternativi
+
+<img src="alternatives/calculator.svg?sanitize=true"              alt="calculator uffiziale"   height="64px">
+<img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="calculator acquamarina" height="64px">
+<img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="calculator azzuro"      height="64px">
+<img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="calculator bordeaux"    height="64px">
+<img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="calculator giallo"      height="64px">
+<img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="calculator grigio"      height="64px">
+<img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="calculator porpora"     height="64px">
+<img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="calculator rosa"        height="64px">
+<img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="calculator rosso"       height="64px">
+<img src="alternatives/calculator-verde.svg?sanitize=true"        alt="calculator verde"       height="64px">
 
 ### Partizioni
 
-<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+<img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions uffiziale" height="64px">
 <img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
 
 ### Radio
 
-<img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
-<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
+<img src="alternatives/radio.svg?sanitize=true"     alt="radio uffiziale"  height="64px">
+<img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"        height="64px">
+
+### Visualizzatore di Immagini
+
+<img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="visualizzatore d’immagini uffiziale" height="64px">
+<img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="visualizzatore d’immagini alt"       height="64px">
 
 </details>
 
