@@ -18,8 +18,8 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
 - [Installazione con il CLI](#installazione-con-il-cli)
   - [Cartella ROOT (raccomandato)](#cartella-root-raccomandato)
   - [Cartella HOME per GNOME](#cartella-home-per-gnome)
+  - [Per gli utenti di Lubuntu](#per-gli-utenti-di-lubuntu)
   - [Per gli utenti non-Ubuntu e non-GNOME](#per-gli-utenti-non-ubuntu-e-non-gnome)
-  - [For non-Ubuntu users](#for-non-ubuntu-users)
   - [Dinsinstallazione](#dinsinstallazione)
 - [Modifica delle icone alternative e del colore delle icone](#modifica-delle-icone-alternative-e-del-colore-delle-icone)
   - [Firefox](#firefox)
@@ -39,8 +39,8 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
   - [Linee Guida di Progettazione](#linee-guida-di-progettazione)
   - [Kit di Strumenti](#kit-di-strumenti)
 - [Autori e Collaboratori](#autori-e-collaboratori)
-  - [Sviluppatori centrali (in ordine di apparizione):](#sviluppatori-centrali-in-ordine-di-apparizione)
-  - [Collaboratori:](#collaboratori)
+  - [Sviluppatori centrali (in ordine di apparizione)](#sviluppatori-centrali-in-ordine-di-apparizione)
+  - [Collaboratori](#collaboratori)
 - [Registro delle modifiche](#registro-delle-modifiche)
 - [Crediti e Licenze](#crediti-e-licenze)
 
@@ -70,11 +70,11 @@ wget -qO- https://raw.githubusercontent.com/Bonandry/suru-plus-ubuntu/master/ins
 wget -qO- https://raw.githubusercontent.com/Bonandry/suru-plus-ubuntu/master/install.sh | env DESTDIR="$HOME/.icons" sh
 ```
 
-### Per gli utenti non-Ubuntu e non-GNOME
+###  Per gli utenti di Lubuntu
 
 Se vuoi che le icone di 24px e 26px siano colorate nel pannello, visita [Suru++ Lubuntu](https://github.com/gusbemacbe/suru-plus-lubuntu/).
 
-### For non-Ubuntu users
+### Per gli utenti non-Ubuntu e non-GNOME
 
 Questo repository è progettato solo per Ubuntu, dal 18.04 al 19.04 e distribuzioni **con GNOME 3.32**. Se vuoi il supporto per le distribuzioni non-GNOME e non-Ubuntu, visita il [Suru++ 25](https://github.com/gusbemacbe/suru-plus) di [@gusbemacbe](https://github.com/gusbemacbe).
 
@@ -196,12 +196,12 @@ Il set e il concept originali di icone Suru sono stati creati da:
 - Matthieu James
 - Canonical Design Team
 
-### Sviluppatori centrali (in ordine di apparizione):
+### Sviluppatori centrali (in ordine di apparizione)
 
 - Andrea Bonanni (original author): <bonandry@gmail.com>
 - Gustavo Costa (co-author and collaborator): <gusbemacbe@gmail.com>
 
-### Collaboratori:
+### Collaboratori
 
 - Chris Escarra: [@ChrisP4](https://github.com/ChrisP4)
 
