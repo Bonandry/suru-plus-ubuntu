@@ -27,6 +27,7 @@ Or you can visit quickly the [Wiki](https://github.com/Bonandry/suru-plus-ubuntu
     - [To create the symlink](#to-create-the-symlink)
   - [Alternative Icon](#alternative-icon)
   - [Alternative Colour](#alternative-colour)
+- [Changing the folders colour](#changing-the-folders-colour)
 - [Known and unknown bugs](#known-and-unknown-bugs)
   - [Snap-built apps](#snap-built-apps)
   - [AppImage-built apps](#appimage-built-apps)
@@ -138,6 +139,25 @@ ln -sfnr new.svg old.svg
 ```
 
 To revert to the original, you need to copy the original icon without suffix from the folder `alternatives` at the repository, to the folder `Suru++-Ubuntu/apps/scalable`. 
+
+## Changing the folders colour
+
+The available colours in Suru++ Ubuntu:
+
+<img src="images/folders/folder-aubergine.svg?sanitize=true"      alt="folder aubergine"    height="64px">
+<img src="images/folders/folder-blue.svg?sanitize=true"           alt="folder blue"         height="64px">
+<img src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="folder bordeaux"     height="64px">
+<img src="images/folders/folder-canonical.svg?sanitize=true"      alt="folder canonical"    height="64px">
+<img src="images/folders/folder-cyan.svg?sanitize=true"           alt="folder cyan"         height="64px">
+<img src="images/folders/folder-darkblue.svg?sanitize=true"       alt="folder darkblue"     height="64px">
+<img src="images/folders/folder-green.svg?sanitize=true"          alt="folder green"        height="64px">
+<img src="images/folders/folder-orange.svg?sanitize=true"         alt="folder orange"       height="64px">
+<img src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
+<img src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
+<img src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
+<img src="images/folders/folder-yellow.svg?sanitize=true"         alt="folder yellow"       height="64px">
+
+To change the colour of folders, you need to install [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders).
 
 ## Known and unknown bugs
 
