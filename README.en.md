@@ -48,9 +48,7 @@ Or you can visit quickly the [WIki](https://github.com/Bonandry/suru-plus-ubuntu
 
 Added three alternatives of Firefox that you can choose:
 
-<img src="alternatives/firefox.svg?sanitize=true"          alt="Firefox Traditional" height="65px">
-<img src="alternatives/firefox-20.svg?sanitize=true"       alt="Firefox Suru++ 25"   height="65px">
-<img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla"     height="65px">
+<img src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> <img src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> <img src="alternatives/firefox-mozilla.svg?sanitize=true" alt="Firefox Mozilla" height="65px">
 
 ## Installing with CLI
 
@@ -150,7 +148,7 @@ Please click to visit at the wiki:
 ### [Snap-built apps](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Snap-built-apps)
 ### [AppImage-built apps](https://github.com/Bonandry/suru-plus-ubuntu/wiki/AppImage-built-apps)
 ### [Hardcoded application icons with ugly name](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Hardcoded-application-icons-with-ugly-name)
-### [Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Unattractive-icons-of-Bluetooth-Manager,### -Gigolo,-Network-Wifi,-etc.)
+### [Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Unattractive-icons-of-Bluetooth-Manager,-Gigolo,-Network-Wifi,-etc.)
 ### [Unrecognised and ugly icons (Okular, etc.)](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Unrecognised-and-ugly-icons-(Okular,-etc.))
 ### [Do you support non-GNOME distros?](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Do-you-support-non-GNOME-distros%3F)
 

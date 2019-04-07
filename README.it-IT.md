@@ -50,9 +50,7 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
 
 Aggiunte tre alternative di Firefox che puoi selezionare:
 
-<img src="alternatives/firefox.svg?sanitize=true"          alt="Firefox Traditional" height="65px">
-<img src="alternatives/firefox-20.svg?sanitize=true"       alt="Firefox Suru++ 25"   height="65px">
-<img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla"     height="65px">
+<img src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> <img src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> <img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla" height="65px">
 
 ## Installazione con il CLI
 
