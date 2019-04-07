@@ -32,8 +32,8 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
   - [App create tramite AppImage](#app-create-tramite-appimage)
   - [Icone predefinite delle applicazioni con un nome brutto](#icone-predefinite-delle-applicazioni-con-un-nome-brutto)
   - [Icone non attraenti di Bluetooth Manager, Gigolo, Network Wifi, ecc.](#icone-non-attraenti-di-bluetooth-manager-gigolo-network-wifi-ecc)
-  - [Icone non riconosciute e brutte (Okular, ecc.))](#icone-non-riconosciute-e-brutte-okular-ecc)
-  - [Supporti distribuzioni non-GNOME?](#supporti-distribuzioni-non-gnome)
+  - [Icone non riconosciute e brutte (Okular, ecc.)](#icone-non-riconosciute-e-brutte-okular-ecc)
+  - [Supporti distribuzioni non-Ubuntu e non-GNOME?](#supporti-distribuzioni-non-ubuntu-e-non-gnome)
 - [Rapporto](#rapporto)
 - [Contributo](#contributo)
   - [Linee Guida di Progettazione](#linee-guida-di-progettazione)
@@ -143,14 +143,108 @@ Per ritornare all'originale, hai bisogno di copiare l'icona originale senza suff
 
 ## Bug consociuti
 
-Per favore fa un clic per visitare sul Wiki:
+### App create tramite Snap
 
-### [App create tramite Snap](https://github.com/Bonandry/suru-plus-ubuntu/wiki/App-create-tramite-Snap)
-### [App create tramite AppImage](https://github.com/Bonandry/suru-plus-ubuntu/wiki/App-create-tramite-AppImage)
-### [Icone predefinite delle applicazioni con un nome brutto](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-predefinite-delle-app-con-un-nome-brutto)
-### [Icone non attraenti di Bluetooth Manager, Gigolo, Network Wifi, ecc.](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-non-attraenti-di-Bluetooth-Manager,-Gigolo,-Network-Wifi,-ecc.)
-### [Icone non riconosciute e brutte (Okular, ecc.)](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Icone-non-riconosciute-e-brutte-(Okular,-ecc.))
-### [Supporti distribuzioni non-GNOME?](https://github.com/Bonandry/suru-plus-ubuntu/wiki/Supporti-distribuzioni-non-GNOME%3F)
+Purtroppo le app create tramite Snap non sono supportate quasi da alcun tema di icone, perché le icone sono predefinite e i file di configurazione di *desktop* non sono ospitati nella cartella `~/.local/share/applications` o `/usr/share/applications`.
+
+Per risolverlo, segui le istruzioni:
+
+1. Fai:
+
+```bash
+# Copia tutti i file di configurazione di desktop di tutte le app create tramite Snap per la "~/.local/share/applications"
+sudo cp /var/lib/snapd/desktop/applications/*.desktop ~/.local/share/applications
+# Per rendere pubblicamente accessibili i file
+sudo chmod -R 777 ~/.local/share/applications
+# Per rimuovere i duplicati
+sudo rm /var/lib/snapd/desktop/applications/*.desktop
+```
+
+2. Vai alla cartella  `~/.local/share/applications`;
+3. Apri ciascun file desktop dell'app Snap con il tuo editor di testo favorito e sostituisci il percorso codificato di `Icon` per il percorso semplice senza estensione. Ad esempio, se utilizzi Insonnia:
+
+```bash
+# Sostituisci...
+Icon=snap/icons/icon.png
+# per
+Icon=insomnia
+```
+
+4. Esegui il commando `update-desktop-database` nel terminale.
+
+### App create tramite AppImage
+
+Con AppImageLauncher installato, quando fai clic su un'AppImage, esso viene automaticamente integrato nella cartella `~/Applicazioni` e i file di configurazione di *desktop* sono automaticamente creati nella cartella `~/local/share/applications`. Ma, se modifichi uno dei file di configurazione di *desktop* dell'app creata tramite AppImage per correggere il percorso dell'icona, AppImageLauncher ripristina automaticamente il file di configurazione di *desktop* per il percorso originale e mantiene nuovamente il percorso dell'icona predefinito. Rimuove anche l'opzione `StartupWMClass`. Ti consigliamo di rimuovere `AppImageLauncher`.
+
+1. Rimuovi `appimagelauncher` nel terminale;
+2. Crea la cartella `~/Applications/AppImages/`, muovi tutti gli AppImage per questa cartella. 
+3. Rendi tutti gli AppImage eseguibili e affidabili nel terminale:
+
+```bash
+chmod a+x *.AppImage
+```
+
+3. Riavvia;
+4. Crea i file di configurazione di *desktop* manualmente nella cartella `~/.local/share/applications`. Non dimenticare di aggiungere l'opzione `StartupWNClass` o l'icona sarà sconosciuta o brutta. Il file di configurazione di *desktop*, per esempio, `ColourPicker.desktop`, dovrebbe essere come:
+
+```
+[Desktop Entry]
+Categories = Graphics;
+Comment = A mininal but complete color picker
+Comment[en_GB] = A mininal but complete colour picker
+Exec = $HOME/Applications/AppImages/ColorPicker.AppImages
+GenericName = Color Picker
+GenericName[en_GB] = Colour Picker
+Icon = colorpicker
+Keywords = colorpicker; color-picker
+Keywords[en_GB] = colourpicker; colour-picker
+# MimeType = application/illustrator; application/pdf;
+Name = Color Picker
+Name[en_GB] = Colour Picker
+StartupNotify = true
+StartupWMClass = ColorPicker
+Terminal = false
+Type = Application
+Version = 1.0
+# X-AppImage-Version = 9.0
+X-Ayatana-Desktop-Shortcuts = Color Picker
+X-GNOME-FullName = Minimal Color Picker
+X-GNOME-FullName[en_GB] = Minimal Colour Picker
+X-DBUS-ServiceName = ColorPicker
+```
+
+Ed esegui il commando `update-desktop-database` nel terminale.
+
+**Suggerimenti**
+
+1. Per sapere quale il nome dell'opzione `StartupWNClass`, per esempio, 
+  * Vedi in grassetto: <b><code>ColorPicker</b>.AppImage</code>;
+  * Se non funziona, hai bisogno di estrarre l'AppImage per scoprire il nome della shell `bin`;
+  * Se non funziona ancora, controlla e scopri il nome del titolo nel pannello quando apri l'applicazione AppImage.
+2. Se sei italofono nativo o non-nativo e vuoi commentario e nome in tua lingua, puoi aggiungere, per esempio, `Comment[en_GB]`, `GenericName[en_GB]`, `Keywords[en_GB]`, `Name[en_GB]` e `X-GNOME-FullName[en_GB]`. Se per in italiano, sarebbe `[it]`, e per in italiano svizzero, `[it_CH]`. 
+3. Il nome degli AppImage dovrebbe rimanere originale, ma se vuoi rinominare, sei libero, ma per il nome dell'opzione `StartupWNClass`, hai bisogno di mantenere il nome original di quell'AppImage, come vedi nell'elemento 1 sopra.
+
+### Icone predefinite delle applicazioni con un nome brutto
+
+Abbiamo già delle icone, ma è un nome sbagliato o brutto o perché l'icona è predefinita. Per esempio, la vecchia versione dell'applicazione GitHub Desktop utilizzava `Icon=desktop.png` e altre app, come Insomnia, utilizzano `Icon=icon.png`, o peggio, `Icon=stupido/percorsa/icona.png`. 
+
+Per trattare le icone predefinite dell'applicazione, raccomandiamo di installare il *plugin* [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer). Suru++ supporta la maggior parte delle applicazioni in questa lista. Se [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) non supporta ancora la tua applicazione favorita, per favore, apri un [*issue* qui](https://github.com/Foggalong/hardcode-fixer/issues) o modifica il tuo file `.desktop` manualmente. 
+
+### Icone non attraenti di Bluetooth Manager, Gigolo, Network Wifi, ecc.
+
+Perché i file di configurazione di *desktop* utilizzano le icone di 16px delle cartelle `actions`, `mimetypes`, `panel` e `places` e non le icone di `apps` e `categories`. Perciò, hai bisogno di modificare manualmente i **nomi generici di icona** sui file di configurazione di *desktop* per prendere le icone di `apps`. 
+
+### Icone non riconosciute e brutte (Okular, ecc.)
+
+Non solo Suru++ Ubuntu e Suru++ 25, ma anche i temi di icone Antü, Flat Remix, La Capitaine, Newaita, Numix, Papirus e Zafiro. È un'opzione `StartupWMClass` assente nei file di configurazione di *desktop* in KDE e un *bug* di *cache* delle icone in GNOME e KDE.
+
+1. Installa e utilizza [StartupWMClassFixer](https://github.com/bilelmoussaoui/StartupWMClassFixer) per correggere l'opzione assente `StartupWMClass`;
+2. Installa e utilizza [Stacer](https://github.com/oguzhaninan/Stacer) per pulire *cache*;
+3. Esci dalla scrivania e accedi alla scrivania.
+
+### Supporti distribuzioni non-Ubuntu e non-GNOME?
+
+No, non sopporterò. Se aggiungo qualcos'altra a questo tema di icone, aumenterà i *bug*, la bruttezza in KDE e la dimensione dell'archivio. Non mi piacerebbe lavorare con i *bugs* e avere mal di testa. Devi considerare l'alternativo tema di icone: [Suru++ 25](https://github.com/gusbemacbe/suru-plus) di [@gusbemacbe](https://github.com/gusbemacbe).
 
 ## Rapporto
 
