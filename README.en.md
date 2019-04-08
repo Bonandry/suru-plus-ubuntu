@@ -206,7 +206,7 @@ The available colours in Suru++ Ubuntu:
 <img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
 <img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
 <img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
-<img src="images/folders/folder-yellow.svg?sanitize=true"         alt="folder yellow"       height="64px">
+<img src="images/folders/folder-yellow.svg?sanitize=true"                      alt="folder yellow"       height="64px">
 
 To change the colour of folders, you need to install [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders).
 

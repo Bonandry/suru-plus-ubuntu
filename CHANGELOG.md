@@ -26,8 +26,6 @@ From the versions 20 and 25, the current and next version will be named after Ja
   <img align="left" alt="vault"         title="vault"         height="48px" src="images/gnome-3.32/caveau.png"> 
   <img              alt="video"         title="video"         height="48px" src="images/gnome-3.32/totem.png"> 
 
-<br/>
-
 * Reduced from 170MB to 30MB! 
 * You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
 
@@ -163,7 +161,21 @@ From the versions 20 and 25, the current and next version will be named after Ja
     <img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
     
   </details>
+* New folders colours – colours of Canonical and Ubuntu, and some colours of GNOME 3.32, Suru and Yaru! The available colours in Suru++ Ubuntu:
 
+  <img align="left" src="images/folders/folder-aubergine.svg?sanitize=true"      alt="folder aubergine"    height="64px">
+  <img align="left" src="images/folders/folder-blue.svg?sanitize=true"           alt="folder blue"         height="64px">
+  <img align="left" src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="folder bordeaux"     height="64px">
+  <img align="left" src="images/folders/folder-canonical.svg?sanitize=true"      alt="folder canonical"    height="64px">
+  <img align="left" src="images/folders/folder-cyan.svg?sanitize=true"           alt="folder cyan"         height="64px">
+  <img align="left" src="images/folders/folder-darkblue.svg?sanitize=true"       alt="folder darkblue"     height="64px">
+  <img align="left" src="images/folders/folder-green.svg?sanitize=true"          alt="folder green"        height="64px">
+  <img align="left" src="images/folders/folder-orange.svg?sanitize=true"         alt="folder orange"       height="64px">
+  <img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
+  <img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
+  <img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
+  <img src="images/folders/folder-yellow.svg?sanitize=true"                      alt="folder yellow"       height="64px">
+  
 </details>
 
 <details>
