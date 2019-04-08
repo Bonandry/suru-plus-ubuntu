@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,13 +40,14 @@
      inkscape:window-height="1009"
      id="namedview69"
      showgrid="false"
-     inkscape:zoom="3.2617188"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="3.5501702"
+     inkscape:cx="126.288"
+     inkscape:cy="149.22215"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g61" />
+     inkscape:current-layer="g49"
+     showguides="false" />
   <defs
      id="defs21">
     <filter
@@ -159,30 +160,35 @@
            transform="translate(249.50871,44.141063)"
            style="fill:#f6f5f4"
            id="g49">
-          <path
-             d="m 25.98137,239.99227 h 75.99998 c 1.06158,0 2,0.93566 2,2 H 23.98137 c 0,-1.10839 0.98258,-2 2,-2 z"
-             style="fill:#f6f5f4"
-             id="path41" />
-          <rect
-             width="14"
-             height="2"
-             x="227.99"
-             y="-47.98"
-             transform="rotate(90)"
-             style="fill:#f6f5f4"
-             id="rect43" />
-          <rect
-             style="fill:#f6f5f4"
-             width="14"
-             height="2"
-             x="227.99"
-             y="-81.98"
-             transform="rotate(90)"
-             id="rect45" />
-          <path
-             d="m 23.98137,257.99227 h 79.99998 c 0,1.05413 -0.91287,2 -2,2 H 25.98137 c -0.98549,0 -2,-1.03075 -2,-2 z"
-             style="fill:#f6f5f4"
-             id="path47" />
+          <g
+             id="g959"
+             style="fill:#ffffff;fill-opacity:1">
+            <path
+               id="path41"
+               transform="matrix(0.46666667,0,0,0.46666667,5.3829609,172.21722)"
+               d="M 44.138672 145.23242 C 41.958486 145.23242 39.853516 147.14246 39.853516 149.51758 L 211.2832 149.51758 C 211.2832 147.23685 209.27091 145.23242 206.99609 145.23242 L 44.138672 145.23242 z M 39.853516 183.80273 C 39.853516 185.8797 42.026908 188.08984 44.138672 188.08984 L 206.99609 188.08984 C 209.32566 188.08984 211.2832 186.06158 211.2832 183.80273 L 39.853516 183.80273 z "
+               style="fill:#ffffff;stroke-width:2.14285707;fill-opacity:1" />
+            <g
+               id="g953"
+               style="fill:#ffffff;fill-opacity:1">
+              <rect
+                 width="14"
+                 height="2"
+                 x="227.99"
+                 y="-47.98"
+                 transform="rotate(90)"
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="rect43" />
+              <rect
+                 style="fill:#ffffff;fill-opacity:1"
+                 width="14"
+                 height="2"
+                 x="227.99"
+                 y="-81.98"
+                 transform="rotate(90)"
+                 id="rect45" />
+            </g>
+          </g>
         </g>
         <g
            transform="translate(5.7121166)"
@@ -206,9 +212,10 @@
              inkscape:connector-curvature="0" />
         </g>
         <path
-           style="fill:#f1f1f1;fill-rule:evenodd;opacity:0.1"
-           d="m 279.11682,252.63149 21.7564,31.64736 -21.7564,33.67276 21.90553,-0.25283 12.76584,-20.76095 12.56705,20.50814 21.50809,0.50564 -21.45839,-34.93869 21.25977,-30.38143 -20.316,-0.31643 -13.3619,19.17812 -12.56702,-19.17812 z"
-           id="path59" />
+           style="opacity:0.1;fill:#f1f1f1;fill-rule:evenodd;stroke-width:2.59772372"
+           d="M 39.601562 236.39844 C 41.345269 236.84993 43.055299 237.31825 44.976562 237.67969 C 47.773959 238.20595 50.763802 238.64134 53.958984 238.99805 C 57.154166 239.35475 60.555527 239.63323 64.173828 239.8457 C 66.446764 239.97918 69.397663 239.9446 71.845703 240.0293 L 93.900391 239.77539 L 127.0625 185.84375 L 159.70898 239.11914 L 187.77344 239.7793 C 191.07283 239.574 194.23416 239.32644 197.17578 238.99805 C 200.37096 238.64134 203.36081 238.20595 206.1582 237.67969 C 208.56827 237.22629 210.77003 236.66901 212.90234 236.07227 L 159.83789 149.67188 L 215.28125 69.990234 L 162.28906 69.925781 L 127.57812 119.74609 L 94.933594 69.925781 L 36.345703 69.990234 L 93.513672 152.95898 L 39.601562 236.39844 z "
+           id="path59"
+           transform="matrix(0.46666667,0,0,0.46666667,254.89167,216.35828)" />
       </g>
     </g>
   </g>
