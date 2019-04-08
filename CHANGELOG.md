@@ -24,7 +24,7 @@ From the versions 20 and 25, the current and next version will be named after Ja
 <img align="left" alt="notepad"       title="notepad"       height="48px" src="images/gnome-3.32/bloc-notes.png"> 
 <img align="left" alt="smartcard"     title="smartcard"     height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
 <img align="left" alt="vault"         title="vault"         height="48px" src="images/gnome-3.32/caveau.png"> 
-<img align="none" alt="video"         title="video"         height="48px" src="images/gnome-3.32/totem.png"> 
+<img              alt="video"         title="video"         height="48px" src="images/gnome-3.32/totem.png"> 
 
 * Reduced from 170MB to 30MB! 
 * You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
@@ -63,77 +63,85 @@ From the versions 20 and 25, the current and next version will be named after Ja
     <img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
 </details>
 
-### Calendar
+<detials>
+  <summary>Calendar</summary>
 
-#### Alternative pictograms
+  * Alternative pictograms
 
-<img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
-<img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+  <img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+  <img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
 
-#### Alternative colours
+  * Alternative colours
 
-<img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
-<img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
-<img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
-<img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
-<img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
-<img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
-<img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
-<img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
-<img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+  <img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+  <img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+  <img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+  <img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+  <img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+  <img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+  <img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+  <img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+  <img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+</detials>
 
-### Calculator
+<details>
+  <summary>Calculator</summary>
 
-#### Alternative colours
+  * Alternative colours
 
-<img src="alternatives/calculator.svg?sanitize=true"              alt="calculator official"   height="64px">
-<img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="calculator aquamarine" height="64px">
-<img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="calculator sky blue"   height="64px">
-<img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="calculator bordeaux"   height="64px">
-<img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="calculator yellow"     height="64px">
-<img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="calculator grey"       height="64px">
-<img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="calculator purple"     height="64px">
-<img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="calculator pink"       height="64px">
-<img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="calculator red"        height="64px">
-<img src="alternatives/calculator-verde.svg?sanitize=true"        alt="calculator green"      height="64px">
+  <img src="alternatives/calculator.svg?sanitize=true"              alt="calculator official"   height="64px">
+  <img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="calculator aquamarine" height="64px">
+  <img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="calculator sky blue"   height="64px">
+  <img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="calculator bordeaux"   height="64px">
+  <img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="calculator yellow"     height="64px">
+  <img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="calculator grey"       height="64px">
+  <img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="calculator purple"     height="64px">
+  <img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="calculator pink"       height="64px">
+  <img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="calculator red"        height="64px">
+  <img src="alternatives/calculator-verde.svg?sanitize=true"        alt="calculator green"      height="64px">
 
-### Cards Game
+</details>
+
+* Cards Game
 
 <img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
 <img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
 
-### Colours
+* Colours
 
 <img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
 <img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
 
-### Fonts
+<details>
+  <summary>Fonts</summary>
 
-#### Alternative colours
+  * Alternative colours
 
-<img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
-<img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
-<img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
-<img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
-<img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
-<img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
-<img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
-<img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
-<img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
-<img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
-<img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+  <img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+  <img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+  <img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+  <img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+  <img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+  <img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+  <img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+  <img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+  <img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+  <img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+  <img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
 
-### Image Viewer
+</details>
+
+* Image Viewer
 
 <img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
 <img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
 
-### Partitions
+* Partitions
 
 <img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
 <img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
 
-### Radio
+* Radio
 
 <img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
 <img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">

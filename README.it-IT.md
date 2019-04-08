@@ -77,7 +77,7 @@ Aggiunte tre alternative di Firefox che puoi selezionare:
 <img align="left" alt="telecamera"                  title="telecamera"                  height="65px" src="images/gnome-3.32/telecamera.png"> 
 <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/gthumb.png"> 
 <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
-<img align="none" alt="video"                       title="video"                       height="65px" src="images/gnome-3.32/totem.png"> 
+<img              alt="video"                       title="video"                       height="65px" src="images/gnome-3.32/totem.png"> 
 
 * Hai più opzioni per scegliere una delle icone alternative o uno dei colori di icone che preferisci di più, ad esempio, l'icona di *backup*:
   * Backup

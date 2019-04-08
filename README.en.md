@@ -75,7 +75,7 @@ Added three alternatives of Firefox that you can choose:
 <img align="left" alt="notepad"       title="notepad"       height="65px" src="images/gnome-3.32/bloc-notes.png"> 
 <img align="left" alt="smartcard"     title="smartcard"     height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
 <img align="left" alt="vault"         title="vault"         height="65px" src="images/gnome-3.32/caveau.png"> 
-<img align="none" alt="video"         title="video"         height="65px" src="images/gnome-3.32/totem.png"> 
+<img              alt="video"         title="video"         height="65px" src="images/gnome-3.32/totem.png"> 
 
 * You have more options to choose one of alternative icons or icons colours you prefer more, for example, the backup icon:
   * Backup
