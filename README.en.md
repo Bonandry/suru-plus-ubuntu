@@ -15,6 +15,7 @@ Or you can visit quickly the [Wiki](https://github.com/Bonandry/suru-plus-ubuntu
 
 - [What is new in the version?](#what-is-new-in-the-version)
   - [v17.1](#v171)
+  - [v25.0](#v250)
 - [Installing with CLI](#installing-with-cli)
   - [ROOT directory (recommended)](#root-directory-recommended)
   - [HOME directory for GTK](#home-directory-for-gtk)
@@ -52,6 +53,54 @@ Added three alternatives of Firefox that you can choose:
 <img align="left" src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> 
 <img align="left" src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> 
 <img src="alternatives/firefox-mozilla.svg?sanitize=true" alt="Firefox Mozilla" height="65px">
+
+### v25.0
+
+* Upstreamed from Suru++ 25;
+* Several icons have been reimagined with a new GNOME 3.32 look, just click one of them to preview what it is:
+
+<img align="left" alt="agenda"        title="agenda"        height="65px" src="images/gnome-3.32/rubrica.png"> 
+<img align="left" alt="calendar"      title="calendar"      height="65px" src="images/gnome-3.32/calendario.png"> 
+<img align="left" alt="camera"        title="camera"        height="65px" src="images/gnome-3.32/telecamera.png"> 
+<img align="left" alt="cryptography"  title="cryptography"  height="65px" src="images/gnome-3.32/crittografia.png"> 
+<img align="left" alt="dictionary"    title="dictionary"    height="65px" src="images/gnome-3.32/dizionario.png"> 
+<img align="left" alt="effects"       title="effects"       height="65px" src="images/gnome-3.32/display.im6.png"> 
+<img align="left" alt="fonts book"    title="fonts book"    height="65px" src="images/gnome-3.32/font.png"> 
+<img align="left" alt="icon preview"  title="icon preview"  height="65px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+<img align="left" alt="image viewer"  title="image viewer"  height="65px" src="images/gnome-3.32/gthumb.png"> 
+<img align="left" alt="image viewer"  title="image viewer"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+<img align="left" alt="log history"   title="log history"   height="65px" src="images/gnome-3.32/cronologia.png"> 
+<img align="left" alt="mines"         title="mines"         height="65px" src="images/gnome-3.32/mine.png"> 
+<img align="left" alt="MPV"           title="MPV"           height="65px" src="images/gnome-3.32/mpv.png"> 
+<img align="left" alt="notepad"       title="notepad"       height="65px" src="images/gnome-3.32/bloc-notes.png"> 
+<img align="left" alt="smartcard"     title="smartcard"     height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
+<img align="left" alt="vault"         title="vault"         height="65px" src="images/gnome-3.32/caveau.png"> 
+<img align="none" alt="video"         title="video"         height="65px" src="images/gnome-3.32/totem.png"> 
+
+* You have more options to choose one of alternative icons or icons colours you prefer more, for example, the backup icon:
+  * Backup
+    * Alternative pictograms
+
+      <img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px" align="left">
+      <img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px" align="left">
+      <img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px" align="left">
+      <img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px" align="left">
+      <img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+    * Alternative colours
+
+      <img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px" align="left">
+      <img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px" align="left">
+      <img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px" align="left">
+      <img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px" align="left">
+      <img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px" align="left">
+      <img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px" align="left">
+      <img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px" align="left">
+      <img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+* New folders colours. Check the available colours in the item [Changing the folders colour](#changing-the-folders-colour). 
 
 ## Installing with CLI
 

@@ -15,6 +15,7 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
 
 - [Cosa c'è di nuovo nella versione?](#cosa-c%C3%A8-di-nuovo-nella-versione)
   - [v17.1](#v171)
+  - [v25.0](#v250)
 - [Installazione con il CLI](#installazione-con-il-cli)
   - [Cartella ROOT (raccomandato)](#cartella-root-raccomandato)
   - [Cartella HOME per GNOME](#cartella-home-per-gnome)
@@ -51,7 +52,57 @@ O puoi visitare rapidamente il [WIki](https://github.com/Bonandry/suru-plus-ubun
 
 Aggiunte tre alternative di Firefox che puoi selezionare:
 
-<img src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> <img src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> <img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla" height="65px">
+<img align="left" src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> 
+<img align="left" src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> 
+<img src="alternatives/firefox-mozilla.svg?sanitize=true"  alt="Firefox Mozilla" height="65px">
+
+### v25.0
+
+* Aggiornata dal Suru++ 25;
+* Molte icone sono state reimmaginate con un'apparenza di GNOME 3.32, basta fare un clic su una di esse per visualizzare l'anteprima di ciò che è:
+
+<img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="65px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+<img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="65px" src="images/gnome-3.32/bloc-notes.png"> 
+<img align="left" alt="calendario"                  title="calendario"                  height="65px" src="images/gnome-3.32/calendario.png"> 
+<img align="left" alt="caveau"                      title="caveau"                      height="65px" src="images/gnome-3.32/caveau.png"> 
+<img align="left" alt="crittografia"                title="crittografia"                height="65px" src="images/gnome-3.32/crittografia.png"> 
+<img align="left" alt="cronologia"                  title="cronologia"                  height="65px" src="images/gnome-3.32/cronologia.png"> 
+<img align="left" alt="dizionario"                  title="dizionario"                  height="65px" src="images/gnome-3.32/dizionario.png"> 
+<img align="left" alt="effeti"                      title="effeti"                      height="65px" src="images/gnome-3.32/display.im6.png"> 
+<img align="left" alt="libro di font"               title="libro di font"               height="65px" src="images/gnome-3.32/font.png"> 
+<img align="left" alt="mine"                        title="mine"                        height="65px" src="images/gnome-3.32/mine.png"> 
+<img align="left" alt="MPV"                         title="MPV"                         height="65px" src="images/gnome-3.32/mpv.png"> 
+<img align="left" alt="rubrica"                     title="rubrica"                     height="65px" src="images/gnome-3.32/rubrica.png"> 
+<img align="left" alt="smartcard"                   title="smartcard"                   height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
+<img align="left" alt="telecamera"                  title="telecamera"                  height="65px" src="images/gnome-3.32/telecamera.png"> 
+<img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/gthumb.png"> 
+<img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+<img align="none" alt="video"                       title="video"                       height="65px" src="images/gnome-3.32/totem.png"> 
+
+* Hai più opzioni per scegliere una delle icone alternative o uno dei colori di icone che preferisci di più, ad esempio, l'icona di *backup*:
+  * Backup
+    * Pittogrammi alternativi
+
+      <img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px" align="left">
+      <img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px" align="left">
+      <img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px" align="left">
+      <img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px" align="left">
+      <img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+
+    * Colori alternativi
+
+      <img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px" align="left">
+      <img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px" align="left">
+      <img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px" align="left">
+      <img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px" align="left">
+      <img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px" align="left">
+      <img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px" align="left">
+      <img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px" align="left">
+      <img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+<br/>
+
+* Nuovi colori delle cartelle. Controlla i colori disponibili nell'articolo [Modifica del colore delle cartelle](#modifica-del-colore-delle-cartelle).
 
 ## Installazione con il CLI
 
@@ -146,17 +197,17 @@ Per ritornare all'originale, hai bisogno di copiare l'icona originale senza suff
 
 I colori disponibili in Suru++ Ubuntu:
 
-<img src="images/folders/folder-aubergine.svg?sanitize=true"      alt="cartella melanzia"       height="64px">
-<img src="images/folders/folder-blue.svg?sanitize=true"           alt="cartella azzura"         height="64px">
-<img src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="cartella bordeaux"       height="64px">
-<img src="images/folders/folder-canonical.svg?sanitize=true"      alt="cartella canonical"      height="64px">
-<img src="images/folders/folder-cyan.svg?sanitize=true"           alt="cartella ciana"          height="64px">
-<img src="images/folders/folder-darkblue.svg?sanitize=true"       alt="cartella azzura scura"   height="64px">
-<img src="images/folders/folder-green.svg?sanitize=true"          alt="cartella verde"          height="64px">
-<img src="images/folders/folder-orange.svg?sanitize=true"         alt="cartella arancione"      height="64px">
-<img src="images/folders/folder-purple.svg?sanitize=true"         alt="cartella porpora"        height="64px">
-<img src="images/folders/folder-red.svg?sanitize=true"            alt="cartella rossa"          height="64px">
-<img src="images/folders/folder-vermillion.svg?sanitize=true"     alt="cartella vermiglione"    height="64px">
+<img align="left" src="images/folders/folder-aubergine.svg?sanitize=true"      alt="cartella melanzia"       height="64px">
+<img align="left" src="images/folders/folder-blue.svg?sanitize=true"           alt="cartella azzura"         height="64px">
+<img align="left" src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="cartella bordeaux"       height="64px">
+<img align="left" src="images/folders/folder-canonical.svg?sanitize=true"      alt="cartella canonical"      height="64px">
+<img align="left" src="images/folders/folder-cyan.svg?sanitize=true"           alt="cartella ciana"          height="64px">
+<img align="left" src="images/folders/folder-darkblue.svg?sanitize=true"       alt="cartella azzura scura"   height="64px">
+<img align="left" src="images/folders/folder-green.svg?sanitize=true"          alt="cartella verde"          height="64px">
+<img align="left" src="images/folders/folder-orange.svg?sanitize=true"         alt="cartella arancione"      height="64px">
+<img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="cartella porpora"        height="64px">
+<img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="cartella rossa"          height="64px">
+<img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="cartella vermiglione"    height="64px">
 <img src="images/folders/folder-yellow.svg?sanitize=true"         alt="cartella gialla"         height="64px">
 
 Per modificare il colore delle cartelle, devi installare il [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders).

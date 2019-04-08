@@ -6,41 +6,62 @@
 From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
 
 * Increased from 1201 to 1950 applications icons!
-* Several icons have been reimagined with a new GNOME 3.32 look.
+* Several icons have been reimagined with a new GNOME 3.32 look:
+
+<img align="left" alt="agenda"        title="agenda"        height="48px" src="images/gnome-3.32/rubrica.png"> 
+<img align="left" alt="calendar"      title="calendar"      height="48px" src="images/gnome-3.32/calendario.png"> 
+<img align="left" alt="camera"        title="camera"        height="48px" src="images/gnome-3.32/telecamera.png"> 
+<img align="left" alt="cryptography"  title="cryptography"  height="48px" src="images/gnome-3.32/crittografia.png"> 
+<img align="left" alt="dictionary"    title="dictionary"    height="48px" src="images/gnome-3.32/dizionario.png"> 
+<img align="left" alt="effects"       title="effects"       height="48px" src="images/gnome-3.32/display.im6.png"> 
+<img align="left" alt="fonts book"    title="fonts book"    height="48px" src="images/gnome-3.32/font.png"> 
+<img align="left" alt="icon preview"  title="icon preview"  height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+<img align="left" alt="image viewer"  title="image viewer"  height="48px" src="images/gnome-3.32/gthumb.png"> 
+<img align="left" alt="image viewer"  title="image viewer"  height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+<img align="left" alt="log history"   title="log history"   height="48px" src="images/gnome-3.32/cronologia.png"> 
+<img align="left" alt="mines"         title="mines"         height="48px" src="images/gnome-3.32/mine.png"> 
+<img align="left" alt="MPV"           title="MPV"           height="48px" src="images/gnome-3.32/mpv.png"> 
+<img align="left" alt="notepad"       title="notepad"       height="48px" src="images/gnome-3.32/bloc-notes.png"> 
+<img align="left" alt="smartcard"     title="smartcard"     height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
+<img align="left" alt="vault"         title="vault"         height="48px" src="images/gnome-3.32/caveau.png"> 
+<img align="none" alt="video"         title="video"         height="48px" src="images/gnome-3.32/totem.png"> 
+
 * Reduced from 170MB to 30MB! 
 * You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
 
-### Backup
+<details>
+  <summary>Backup</summary>
 
-#### Alternative pictograms
+  * Alternative pictograms
 
-<img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
-<img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
-<img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
-<img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
-<img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+    <img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+    <img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+    <img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+    <img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+    <img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+  
+  * Alternative colours
 
-#### Alternative colours
+    <img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+    <img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+    <img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+    <img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+    <img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+    <img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+    <img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+    <img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
 
-<img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
-<img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
-<img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
-<img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
-<img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
-<img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
-<img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
-<img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+    <br/>
 
-<br/>
-
-<img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
-<img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
-<img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
-<img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
-<img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
-<img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
-<img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
-<img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+    <img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+    <img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+    <img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+    <img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+    <img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+    <img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+    <img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+    <img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+</details>
 
 ### Calendar
 
