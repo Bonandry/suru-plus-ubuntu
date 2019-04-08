@@ -208,7 +208,7 @@ I colori disponibili in Suru++ Ubuntu:
 <img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="cartella porpora"        height="64px">
 <img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="cartella rossa"          height="64px">
 <img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="cartella vermiglione"    height="64px">
-<img src="images/folders/folder-yellow.svg?sanitize=true"         alt="cartella gialla"         height="64px">
+<img              src="images/folders/folder-yellow.svg?sanitize=true"         alt="cartella gialla"         height="64px">
 
 Per modificare il colore delle cartelle, devi installare il [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders).
 
