@@ -49,7 +49,9 @@ Or you can visit quickly the [Wiki](https://github.com/Bonandry/suru-plus-ubuntu
 
 Added three alternatives of Firefox that you can choose:
 
-<img src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> <img src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> <img src="alternatives/firefox-mozilla.svg?sanitize=true" alt="Firefox Mozilla" height="65px">
+<img align="left" src="alternatives/firefox.svg?sanitize=true" alt="Firefox Traditional" height="65px"> 
+<img align="left" src="alternatives/firefox-20.svg?sanitize=true" alt="Firefox Suru++ 25" height="65px"> 
+<img src="alternatives/firefox-mozilla.svg?sanitize=true" alt="Firefox Mozilla" height="65px">
 
 ## Installing with CLI
 
@@ -144,17 +146,17 @@ To revert to the original, you need to copy the original icon without suffix fro
 
 The available colours in Suru++ Ubuntu:
 
-<img src="images/folders/folder-aubergine.svg?sanitize=true"      alt="folder aubergine"    height="64px">
-<img src="images/folders/folder-blue.svg?sanitize=true"           alt="folder blue"         height="64px">
-<img src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="folder bordeaux"     height="64px">
-<img src="images/folders/folder-canonical.svg?sanitize=true"      alt="folder canonical"    height="64px">
-<img src="images/folders/folder-cyan.svg?sanitize=true"           alt="folder cyan"         height="64px">
-<img src="images/folders/folder-darkblue.svg?sanitize=true"       alt="folder darkblue"     height="64px">
-<img src="images/folders/folder-green.svg?sanitize=true"          alt="folder green"        height="64px">
-<img src="images/folders/folder-orange.svg?sanitize=true"         alt="folder orange"       height="64px">
-<img src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
-<img src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
-<img src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
+<img align="left" src="images/folders/folder-aubergine.svg?sanitize=true"      alt="folder aubergine"    height="64px">
+<img align="left" src="images/folders/folder-blue.svg?sanitize=true"           alt="folder blue"         height="64px">
+<img align="left" src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="folder bordeaux"     height="64px">
+<img align="left" src="images/folders/folder-canonical.svg?sanitize=true"      alt="folder canonical"    height="64px">
+<img align="left" src="images/folders/folder-cyan.svg?sanitize=true"           alt="folder cyan"         height="64px">
+<img align="left" src="images/folders/folder-darkblue.svg?sanitize=true"       alt="folder darkblue"     height="64px">
+<img align="left" src="images/folders/folder-green.svg?sanitize=true"          alt="folder green"        height="64px">
+<img align="left" src="images/folders/folder-orange.svg?sanitize=true"         alt="folder orange"       height="64px">
+<img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
+<img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
+<img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
 <img src="images/folders/folder-yellow.svg?sanitize=true"         alt="folder yellow"       height="64px">
 
 To change the colour of folders, you need to install [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders).
