@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg47"
-   sodipodi:docname="org.gnome.Calculator.svg"
+   sodipodi:docname="calculator.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata51">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="770"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      id="namedview49"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="3.5499954"
+     inkscape:cx="126.29421"
+     inkscape:cy="126.68164"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg47" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g45" />
   <defs
      id="defs23">
     <linearGradient
@@ -140,6 +140,11 @@
        style="fill:#ff7800"
        id="path33" />
     <path
+       inkscape:connector-curvature="0"
+       id="path1086"
+       d="M 1.4731984,263.24763 H 33.223197"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#5e5c64;stroke-width:0.80412543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
        d="m1.4731984 263.24763v7.68945c0 19.20362 2.7470629 21.94388 21.968685 21.94388h9.781314v-29.63333z"
        style="fill:#ffffff;opacity:.1"
        id="path35" />
@@ -150,16 +155,34 @@
        style="fill:none;opacity:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:url(#linearGradient1108)"
        id="path37" />
     <path
-       d="m18.406532 244.19763v6.35h-6.35v2.11666h6.35v6.35h2.116666v-6.35h6.349999v-2.11666h-6.349999v-6.35z"
-       style="fill:#f2f2f2"
-       id="path39" />
+       inkscape:connector-curvature="0"
+       id="path862"
+       style="fill:#000000;fill-opacity:1;opacity:0.2"
+       d="m 41.689864,274.2805 v 2.11667 h 14.816667 v -2.11667 z m 0,6.35001 v 2.11666 h 14.816667 v -2.11666 z" />
     <path
-       d="m26.873197 275.94763v-2.11667h-14.816661v2.11667z"
-       style="fill:#f2f2f2"
-       id="path41" />
-    <path
-       d="m39.573197 259.01429v2.11667h14.816667v-2.11667zm0 6.35001v2.11666h14.816667v-2.11666z"
+       d="m 41.689864,273.75136 v 2.11667 h 14.816667 v -2.11667 z m 0,6.35001 v 2.11666 h 14.816667 v -2.11666 z"
        style="fill:#ffffff"
-       id="path43" />
+       id="path43"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path858"
+       style="fill:#000000;fill-opacity:1;opacity:0.2"
+       d="m 24.756528,250.0185 v -2.11667 H 9.9398668 v 2.11667 z" />
+    <path
+       d="m 24.756528,249.4893 v -2.11667 H 9.9398668 v 2.11667 z"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path41"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path860"
+       style="fill:#000000;stroke-width:1;fill-opacity:1;opacity:0.2"
+       d="m 16.289866,271.18499 v 6.35 H 9.9398649 v 2.11666 h 6.3500011 v 6.35 h 2.116666 v -6.35 h 6.349999 v -2.11666 h -6.349999 v -6.35 z" />
+    <path
+       d="m 16.289866,270.65596 v 6.35 H 9.9398649 v 2.11666 h 6.3500011 v 6.35 h 2.116666 v -6.35 h 6.349999 v -2.11666 h -6.349999 v -6.35 z"
+       style="fill:#ffffff;stroke-width:1;fill-opacity:1"
+       id="path39"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
