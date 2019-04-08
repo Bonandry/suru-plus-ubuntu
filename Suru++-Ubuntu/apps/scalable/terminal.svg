@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +41,7 @@
      id="namedview49"
      showgrid="false"
      inkscape:zoom="3.5499954"
-     inkscape:cx="126.29421"
+     inkscape:cx="76.012455"
      inkscape:cy="126.68164"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -215,6 +216,27 @@
          id="stop1946-5"
          style="stop-color:#282433"
          offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient866"
+       cx="66.542"
+       cy="240.261"
+       r="120"
+       fx="66.542"
+       fy="240.261"
+       gradientTransform="matrix(0.26457031,0,0,0.24693229,0.00211574,220.66714)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient864" />
+    <linearGradient
+       id="linearGradient864">
+      <stop
+         style="stop-color:#ffffff"
+         offset="0"
+         id="stop2-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4-6" />
     </linearGradient>
   </defs>
   <g
@@ -630,6 +652,11 @@
        d="M 5.7265625 164.07227 C 5.7688534 167.89707 5.8632079 171.52433 5.9902344 174.98047 L 16.476562 174.98047 L 16.476562 164.07227 L 5.7265625 164.07227 z "
        id="rect1059-2"
        transform="matrix(0.26457031,0,0,0.26457031,0,229.26666)" />
+    <path
+       d="m 43.004515,233.61429 c 19.220676,0 21.967604,2.74005 21.967604,21.9428 v 15.37815 c 0,19.20267 -2.746928,21.9428 -21.967604,21.9428 H 23.442848 c -19.2206771,0 -21.9676048,-2.74013 -21.9676048,-21.9428 v -15.37815 c 0,-19.20275 2.7469277,-21.9428 21.9676048,-21.9428 z"
+       style="opacity:0.1;fill:url(#radialGradient866);stroke-width:0.26457033;enable-background:new"
+       id="path42"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      style="enable-background:new"

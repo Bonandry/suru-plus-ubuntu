@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -12,7 +13,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg47"
-   sodipodi:docname="terminal.svg"
+   sodipodi:docname="xterm.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata51">
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +41,12 @@
      id="namedview49"
      showgrid="false"
      inkscape:zoom="3.5499954"
-     inkscape:cx="126.29421"
+     inkscape:cx="76.012455"
      inkscape:cy="126.68164"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g45" />
+     inkscape:current-layer="svg47" />
   <defs
      id="defs25">
     <linearGradient
@@ -215,6 +216,27 @@
          id="stop1946-5"
          style="stop-color:#282433"
          offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient866"
+       cx="66.542"
+       cy="240.261"
+       r="120"
+       fx="66.542"
+       fy="240.261"
+       gradientTransform="matrix(0.26457031,0,0,0.24693229,0.00211551,-8.5995164)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient864" />
+    <linearGradient
+       id="linearGradient864">
+      <stop
+         style="stop-color:#ffffff"
+         offset="0"
+         id="stop2-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4-6" />
     </linearGradient>
   </defs>
   <g
@@ -658,4 +680,9 @@
       </g>
     </g>
   </g>
+  <path
+     d="m 43.004514,4.347636 c 19.220676,0 21.967604,2.7400529 21.967604,21.9428 v 15.37815 c 0,19.202669 -2.746928,21.9428 -21.967604,21.9428 H 23.442847 c -19.2206767,0 -21.967604,-2.740131 -21.967604,-21.9428 v -15.37815 c 0,-19.2027471 2.7469273,-21.9428 21.967604,-21.9428 z"
+     style="opacity:0.1;fill:url(#radialGradient866);stroke-width:0.26457033;enable-background:new"
+     id="path42"
+     inkscape:connector-curvature="0" />
 </svg>
