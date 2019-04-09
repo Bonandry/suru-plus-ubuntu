@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <g fill="#808080" font-weight="400">
-  <path d="M11 16l-.479-.922a19.554 19.554 0 0 1-1.126-2.666 14.225 14.225 0 0 1-.383-1.271L9 11.084V1s0-1 1-1h2s1 0 1 1v10.084l-.012.057c-.028.122-.136.547-.383 1.271a19.588 19.588 0 0 1-1.126 2.666zm-.209-3.043h.416c.14-.315.294-.65.377-.893.225-.66.417-1.07.416-1.064h-2c-.002-.009.189.403.414 1.064.083.244.238.578.377.893zM10 3h2V1h-2z" font-family="Ubuntu" font-size="15" letter-spacing="0" text-anchor="middle" word-spacing="0"/>
-  <path d="M3 0v15h5V0zm1 1h3v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H4z" color="#000" font-family="sans-serif" overflow="visible"/>
+ <g transform="translate(-512 -32)">
+  <path fill="#4d4d4d" d="M526 37v-2h-2.002z" color="#000" overflow="visible"/>
+  <path fill="#4d4d4d" d="M514 39v8h9v-1h-8v-7.667zm11.002-1L525 47h1v-8z" font-family="Ubuntu" font-size="15" font-weight="400" letter-spacing="0" text-anchor="middle" word-spacing="0"/>
+  <path fill="#4d4d4d" d="M520 40.986a8.47 8.47 0 0 1 .607-.122c.253-.043.543-.064.872-.064.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V46.2h-3z" font-family="Ubuntu" font-weight="400" letter-spacing="0" text-anchor="end" word-spacing="0"/>
+  <path fill="#4d4d4d" fill-rule="evenodd" d="M520 32.293l-7.854 7.853.708.708L520 33.707l7.146 7.147.708-.708z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
  </g>
 </svg>

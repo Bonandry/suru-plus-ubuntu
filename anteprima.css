@@ -1,0 +1,66 @@
+body
+{
+  background-color: whitesmoke;
+  color: #4d4d4d;
+  font-family: Ubuntu;
+}
+
+a
+{
+  color: #f34f17;
+}
+
+a:hover
+{
+  color: #fb7c38;
+  text-decoration: none;
+}
+
+cursor
+{
+  color: aquamarine;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-weight: bold;
+}
+
+h1, h2
+{
+  border-bottom: 1px solid #808080 !important;
+  color: #3b3b3b;
+  padding-bottom: .3em;
+}
+
+code, pre
+{
+  font-family: Sarasa Mono J, monospace;
+}
+
+.d-inline-block 
+{
+    display: inline-block !important;
+}
+
+.ml-1 
+{
+    margin-left: 4px !important;
+}
+
+.v-align-middle 
+{
+    vertical-align: middle !important;
+}
+
+.border-black-fade 
+{
+    border-color: rgba(27,31,35,.15) !important;
+}
+
+.Box 
+{
+    background-color: #fff;
+    border: 1px solid #d1d5da;
+    border-radius: 3px;
+}

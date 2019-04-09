@@ -1,4 +1,382 @@
-# 18.0
+# 25.0 Kyoto (京都)
+
+<details>
+  <summary>English</summary>
+
+From the versions 20 and 25, the current and next version will be named after Japan cities, in *romaji* and *kanji*, due to the fact of Suru being a Japanese word. 
+
+* Increased from 1201 to 2200 applications icons!
+* Several icons have been reimagined with a new GNOME 3.32 look:
+
+  <img align="left" alt="agenda"          title="agenda"          height="48px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="calculator"      title="calculator"      height="48px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="calendar"        title="calendar"        height="48px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="camera"          title="camera"          height="48px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="cryptography"    title="cryptography"    height="48px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="dictionary"      title="dictionary"      height="48px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effects"         title="effects"         height="48px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="fonts book"      title="fonts book"      height="48px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="Geary"           title="Geary"           height="48px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="icon preview"    title="icon preview"    height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="48px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img align="left" alt="log history"     title="log history"     height="48px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="mines"           title="mines"           height="48px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="system monitor"  title="system monitor"  height="48px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"             title="MPV"             height="48px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="notepad"         title="notepad"         height="48px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="smartcard"       title="smartcard"       height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="terminal"        title="terminal"        height="48px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"           title="tilix"           height="48px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"         title="torrent"         height="48px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="vault"           title="vault"           height="48px" src="images/gnome-3.32/caveau.png"> 
+  <img              alt="video"           title="video"           height="48px" src="images/gnome-3.32/totem.png"> 
+
+* Reduced from 170MB to 30MB! 
+* You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
+
+  <details>
+    <summary>Backup</summary>
+
+    * Alternative pictograms
+
+      <img src="alternatives/backup.svg?sanitize=true"      alt="backup official" height="64px">
+      <img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+      <img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+      <img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+      <img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+    
+    * Alternative colours
+
+      <img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup aquamarine" height="64px">
+      <img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup orange"     height="64px">
+      <img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup sky blue"   height="64px">
+      <img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup yellow"     height="64px">
+      <img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grey"       height="64px">
+      <img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup pink"       height="64px">
+      <img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup red"        height="64px">
+      <img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup green"      height="64px">
+
+      <br/>
+
+      <img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 aquamarine" height="64px">
+      <img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 orange"     height="64px">
+      <img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 sky blue"   height="64px">
+      <img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 yellow"     height="64px">
+      <img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grey"       height="64px">
+      <img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 pink"       height="64px">
+      <img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 red"        height="64px">
+      <img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 green"      height="64px">
+  </details>
+
+  <details>
+    <summary>Calendar</summary>
+
+    * Alternative pictograms
+
+      <img src="alternatives/calendario.svg?sanitize=true"      alt="calendar official" height="64px">
+      <img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendar alt 1"    height="64px">
+
+    * Alternative colours
+
+      <img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendar aquamarine" height="64px">
+      <img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendar orange"     height="64px">
+      <img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendar bordeaux"   height="64px">
+      <img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendar yellow"     height="64px">
+      <img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendar grey"       height="64px">
+      <img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendar purple"     height="64px">
+      <img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendar pink"       height="64px">
+      <img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendar red"        height="64px">
+      <img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendar green"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Calculator</summary>
+
+    * Alternative colours
+
+      <img src="alternatives/calculator.svg?sanitize=true"              alt="calculator official"   height="64px">
+      <img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="calculator aquamarine" height="64px">
+      <img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="calculator sky blue"   height="64px">
+      <img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="calculator bordeaux"   height="64px">
+      <img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="calculator yellow"     height="64px">
+      <img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="calculator grey"       height="64px">
+      <img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="calculator purple"     height="64px">
+      <img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="calculator pink"       height="64px">
+      <img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="calculator red"        height="64px">
+      <img src="alternatives/calculator-verde.svg?sanitize=true"        alt="calculator green"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Cards Game</summary>
+
+    <img src="alternatives/carde.svg?sanitize=true"     alt="cards official" height="64px">
+    <img src="alternatives/carde-alt.svg?sanitize=true" alt="cards alt"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Colours</summary>
+
+    <img src="alternatives/colori.svg?sanitize=true"     alt="colours official" height="64px">
+    <img src="alternatives/colori-alt.svg?sanitize=true" alt="colours alt"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Fonts</summary>
+
+    * Alternative colours
+
+      <img src="alternatives/font.svg?sanitize=true"              alt="fonts official"   height="64px">
+      <img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="fonts aquamarine" height="64px">
+      <img src="alternatives/font-arancione.svg?sanitize=true"    alt="fonts sky blue"   height="64px">
+      <img src="alternatives/font-azzuro.svg?sanitize=true"       alt="fonts orange"     height="64px">
+      <img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="fonts bordeaux"   height="64px">
+      <img src="alternatives/font-giallo.svg?sanitize=true"       alt="fonts yellow"     height="64px">
+      <img src="alternatives/font-grigio.svg?sanitize=true"       alt="fonts grey"       height="64px">
+      <img src="alternatives/font-porpora.svg?sanitize=true"      alt="fonts purple"     height="64px">
+      <img src="alternatives/font-rosa.svg?sanitize=true"         alt="fonts pink"       height="64px">
+      <img src="alternatives/font-rosso.svg?sanitize=true"        alt="fonts red"        height="64px">
+      <img src="alternatives/font-verde.svg?sanitize=true"        alt="fonts green"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Image Viewer</summary>
+
+    <img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="image viewer official" height="64px">
+    <img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="image viewer alt"      height="64px">
+
+  </details>
+
+  <details>
+    <summary>Partitions</summary>
+
+    <img src="alternatives/partizioni.svg?sanitize=true"     alt="partitions official"  height="64px">
+    <img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partitions alt"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>Radio</summary>
+
+    <img src="alternatives/radio.svg?sanitize=true"     alt="radio official"  height="64px">
+    <img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"       height="64px">
+    
+  </details>
+* New folders colours – colours of Canonical and Ubuntu, and some colours of GNOME 3.32, Suru and Yaru! The available colours in Suru++ Ubuntu:
+
+  <img align="left" src="images/folders/folder-aubergine.svg?sanitize=true"      alt="folder aubergine"    height="64px">
+  <img align="left" src="images/folders/folder-blue.svg?sanitize=true"           alt="folder blue"         height="64px">
+  <img align="left" src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="folder bordeaux"     height="64px">
+  <img align="left" src="images/folders/folder-canonical.svg?sanitize=true"      alt="folder canonical"    height="64px">
+  <img align="left" src="images/folders/folder-cyan.svg?sanitize=true"           alt="folder cyan"         height="64px">
+  <img align="left" src="images/folders/folder-darkblue.svg?sanitize=true"       alt="folder darkblue"     height="64px">
+  <img align="left" src="images/folders/folder-green.svg?sanitize=true"          alt="folder green"        height="64px">
+  <img align="left" src="images/folders/folder-orange.svg?sanitize=true"         alt="folder orange"       height="64px">
+  <img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="folder purple"       height="64px">
+  <img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="folder red"          height="64px">
+  <img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="folder vermillion"   height="64px">
+  <img              src="images/folders/folder-yellow.svg?sanitize=true"         alt="folder yellow"       height="64px">
+  
+</details>
+
+<details>
+  <summary>Italiano</summary>
+
+Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno il nome delle città del Giappone, in *romaji* e in *kanji*, a causa del fatto che Suru è una parola giapponese.
+
+* Aumentato da 1201 a 2200 icone di applicazioni!
+* Diverse icone sono state reimmaginate con una nova apparenza di GNOME 3.32:
+
+  <img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="48px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="calendario"                  title="calendario"                  height="48px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="caveau"                      title="caveau"                      height="48px" src="images/gnome-3.32/caveau.png"> 
+  <img align="left" alt="crittografia"                title="crittografia"                height="48px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="cronologia"                  title="cronologia"                  height="48px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="dizionario"                  title="dizionario"                  height="48px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effeti"                      title="effeti"                      height="48px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="Geary"                       title="Geary"                       height="48px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="libro di font"               title="libro di font"               height="48px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="macchina calcotarice"        title="macchina calcotarice"        height="48px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="mine"                        title="mine"                        height="48px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="monitor di sistema"          title="monitor di sistema"          height="48px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"                         title="MPV"                         height="48px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="rubrica"                     title="rubrica"                     height="48px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="smartcard"                   title="smartcard"                   height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="telecamera"                  title="telecamera"                  height="48px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="terminale"                   title="terminale"                   height="48px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"                       title="tilix"                       height="48px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"                     title="torrent"                     height="48px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="48px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img              alt="video"                       title="video"                       height="48px" src="images/gnome-3.32/totem.png">
+
+* Ridotto da 170 MB a 30 MB!
+* Avrai più libertà di scegliere una delle icone alternative preferite - stilei ufficiali del GNOME 3.32, Suru, Yaru o stili non ufficiali, o poi, uno dei tuoi colori ufficiali e non ufficiali preferiti! Se vuoi sapere come cambiare l'icona alternativa, per favore, [visita il tutorial qui](). Per esempio:
+  <details>
+    <summary>Backup</summary>
+
+    * Pittogrammi alternativi
+
+      <img src="alternatives/backup.svg?sanitize=true"      alt="backup uffiziale" height="64px">
+      <img src="alternatives/backup-alt1.svg?sanitize=true" alt="backup alt 1"    height="64px">
+      <img src="alternatives/backup-alt2.svg?sanitize=true" alt="backup alt 2"    height="64px">
+      <img src="alternatives/backup-alt3.svg?sanitize=true" alt="backup alt 3"    height="64px">
+      <img src="alternatives/backup-alt4.svg?sanitize=true" alt="backup alt 4"    height="64px">
+    
+    * Colori alternativi
+
+      <img src="alternatives/backup-acquamarina.svg?sanitize=true"  alt="backup acquamarina"   height="64px">
+      <img src="alternatives/backup-arancione.svg?sanitize=true"    alt="backup arancione"     height="64px">
+      <img src="alternatives/backup-azzuro.svg?sanitize=true"       alt="backup azzuro"        height="64px">
+      <img src="alternatives/backup-giallo.svg?sanitize=true"       alt="backup giallo"        height="64px">
+      <img src="alternatives/backup-grigio.svg?sanitize=true"       alt="backup grigio"        height="64px">
+      <img src="alternatives/backup-rosa.svg?sanitize=true"         alt="backup rosa"          height="64px">
+      <img src="alternatives/backup-rosso.svg?sanitize=true"        alt="backup rosso"         height="64px">
+      <img src="alternatives/backup-verde.svg?sanitize=true"        alt="backup verde"         height="64px">
+
+      <br/>
+
+      <img src="alternatives/backup-alt2-acquamarina.svg?sanitize=true" alt="backup alt 2 acquamarina"   height="64px">
+      <img src="alternatives/backup-alt2-arancione.svg?sanitize=true"   alt="backup alt 2 arancione"     height="64px">
+      <img src="alternatives/backup-alt2-azzuro.svg?sanitize=true"      alt="backup alt 2 azzuro"        height="64px">
+      <img src="alternatives/backup-alt2-giallo.svg?sanitize=true"      alt="backup alt 2 giallo"        height="64px">
+      <img src="alternatives/backup-alt2-grigio.svg?sanitize=true"      alt="backup alt 2 grigio"        height="64px">
+      <img src="alternatives/backup-alt2-rosa.svg?sanitize=true"        alt="backup alt 2 rosa"          height="64px">
+      <img src="alternatives/backup-alt2-rosso.svg?sanitize=true"       alt="backup alt 2 rosso"         height="64px">
+      <img src="alternatives/backup-alt2-verde.svg?sanitize=true"       alt="backup alt 2 verde"         height="64px">
+  </details>
+
+  <details>
+    <summary>Calendario</summary>
+
+    * Pittogrammi alternativi
+
+      <img src="alternatives/calendario.svg?sanitize=true"      alt="calendario uffiziale"  height="64px">
+      <img src="alternatives/calendario-alt.svg?sanitize=true"  alt="calendario alt 1"      height="64px">
+
+    * Colori alternativi
+
+      <img src="alternatives/calendario-acquamarina.svg?sanitize=true"  alt="calendario acquamarina"  height="64px">
+      <img src="alternatives/calendario-arancione.svg?sanitize=true"    alt="calendario arancione"    height="64px">
+      <img src="alternatives/calendario-bordeaux.svg?sanitize=true"     alt="calendario bordeaux"     height="64px">
+      <img src="alternatives/calendario-giallo.svg?sanitize=true"       alt="calendario giallo"       height="64px">
+      <img src="alternatives/calendario-grigio.svg?sanitize=true"       alt="calendario grigio"       height="64px">
+      <img src="alternatives/calendario-porpora.svg?sanitize=true"      alt="calendario porpora"      height="64px">
+      <img src="alternatives/calendario-rosa.svg?sanitize=true"         alt="calendario rosa"         height="64px">
+      <img src="alternatives/calendario-rosso.svg?sanitize=true"        alt="calendario rosso"        height="64px">
+      <img src="alternatives/calendario-verde.svg?sanitize=true"        alt="calendario verde"        height="64px">
+
+  </details>
+
+  <details>
+    <summary>Macchina calcolatrice</summary>
+
+    * Colori alternativi
+
+      <img src="alternatives/calculator.svg?sanitize=true"              alt="macchina calcolatrice uffiziale"   height="64px">
+      <img src="alternatives/calculator-acquamarina.svg?sanitize=true"  alt="macchina calcolatrice acquamarina" height="64px">
+      <img src="alternatives/calculator-azzuro.svg?sanitize=true"       alt="macchina calcolatrice azzuro"      height="64px">
+      <img src="alternatives/calculator-bordeaux.svg?sanitize=true"     alt="macchina calcolatrice bordeaux"    height="64px">
+      <img src="alternatives/calculator-giallo.svg?sanitize=true"       alt="macchina calcolatrice giallo"      height="64px">
+      <img src="alternatives/calculator-grigio.svg?sanitize=true"       alt="macchina calcolatrice grigio"      height="64px">
+      <img src="alternatives/calculator-porpora.svg?sanitize=true"      alt="macchina calcolatrice porpora"     height="64px">
+      <img src="alternatives/calculator-rosa.svg?sanitize=true"         alt="macchina calcolatrice rosa"        height="64px">
+      <img src="alternatives/calculator-rosso.svg?sanitize=true"        alt="macchina calcolatrice rosso"       height="64px">
+      <img src="alternatives/calculator-verde.svg?sanitize=true"        alt="macchina calcolatrice verde"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>Gioco di carde</summary>
+
+    <img src="alternatives/carde.svg?sanitize=true"     alt="gioco di carde uffiziale" height="64px">
+    <img src="alternatives/carde-alt.svg?sanitize=true" alt="gioco di carde alt"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>Colori</summary>
+
+    <img src="alternatives/colori.svg?sanitize=true"     alt="colori uffiziale" height="64px">
+    <img src="alternatives/colori-alt.svg?sanitize=true" alt="colori alt"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>LIbro di Font</summary>
+
+    * Colori alternativi
+
+      <img src="alternatives/font.svg?sanitize=true"              alt="libro di font uffiziale"   height="64px">
+      <img src="alternatives/font-acquamarina.svg?sanitize=true"  alt="libro di font acquamarina" height="64px">
+      <img src="alternatives/font-arancione.svg?sanitize=true"    alt="libro di font arancione"   height="64px">
+      <img src="alternatives/font-azzuro.svg?sanitize=true"       alt="libro di font azzuro"      height="64px">
+      <img src="alternatives/font-bordeaux.svg?sanitize=true"     alt="libro di font bordeaux"    height="64px">
+      <img src="alternatives/font-giallo.svg?sanitize=true"       alt="libro di font giallo"      height="64px">
+      <img src="alternatives/font-grigio.svg?sanitize=true"       alt="libro di font grigio"      height="64px">
+      <img src="alternatives/font-porpora.svg?sanitize=true"      alt="libro di font porpora"     height="64px">
+      <img src="alternatives/font-rosa.svg?sanitize=true"         alt="libro di font rosa"        height="64px">
+      <img src="alternatives/font-rosso.svg?sanitize=true"        alt="libro di font rosso"       height="64px">
+      <img src="alternatives/font-verde.svg?sanitize=true"        alt="libro di font verde"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>Visualizzatore di Immagine</summary>
+
+    <img src="alternatives/visualizzatore-d-immagini.svg?sanitize=true"     alt="visualizzatore di immagine uffiziale" height="64px">
+    <img src="alternatives/visualizzatore-d-immagini-alt.svg?sanitize=true" alt="visualizzatore di immagine alt"       height="64px">
+
+  </details>
+
+  <details>
+    <summary>Partizioni</summary>
+
+    <img src="alternatives/partizioni.svg?sanitize=true"     alt="partizioni uffiziale"  height="64px">
+    <img src="alternatives/partizioni-alt.svg?sanitize=true" alt="partizioni alt"        height="64px">
+
+  </details>
+
+  <details>
+    <summary>Radio</summary>
+
+    <img src="alternatives/radio.svg?sanitize=true"     alt="radio uffiziale"  height="64px">
+    <img src="alternatives/radio-alt.svg?sanitize=true" alt="radio alt"        height="64px">
+    
+  </details>
+* Nuovi colori delle cartelle – colori di Canonical e Ubuntu e alcuni colori di GNOME 3.32, Suru e Yaru! I colori disponibili in Suru ++ Ubuntu:
+
+  <img align="left" src="images/folders/folder-aubergine.svg?sanitize=true"      alt="cartella melanzia"       height="64px">
+  <img align="left" src="images/folders/folder-blue.svg?sanitize=true"           alt="cartella azzura"         height="64px">
+  <img align="left" src="images/folders/folder-bordeaux.svg?sanitize=true"       alt="cartella bordeaux"       height="64px">
+  <img align="left" src="images/folders/folder-canonical.svg?sanitize=true"      alt="cartella canonical"      height="64px">
+  <img align="left" src="images/folders/folder-cyan.svg?sanitize=true"           alt="cartella ciana"          height="64px">
+  <img align="left" src="images/folders/folder-darkblue.svg?sanitize=true"       alt="cartella azzura scura"   height="64px">
+  <img align="left" src="images/folders/folder-green.svg?sanitize=true"          alt="cartella verde"          height="64px">
+  <img align="left" src="images/folders/folder-orange.svg?sanitize=true"         alt="cartella arancione"      height="64px">
+  <img align="left" src="images/folders/folder-purple.svg?sanitize=true"         alt="cartella porpora"        height="64px">
+  <img align="left" src="images/folders/folder-red.svg?sanitize=true"            alt="cartella rossa"          height="64px">
+  <img align="left" src="images/folders/folder-vermillion.svg?sanitize=true"     alt="cartella vermiglione"    height="64px">
+  <img              src="images/folders/folder-yellow.svg?sanitize=true"         alt="cartella gialla"         height="64px">
+
+</details>
+
+# 20.0 Osaka (大阪)
+
+* Added new GNOME 3.32 icons;
+* Added support for GNOME 3.32;
+* Biggest upgrade of Suru++ Ubuntu:
+  * Improved hundred icons;
+  * Improved several 16px icons and fixed 16px icons which were bigger;
+  * Added several missed icons.
+
+# 18.0 Roma
 
 * The 3rd alternative of Firefox, added and redesigned by @ChrisP4. You can see how are three icons of Firefox and choose one of them:
 
@@ -26,7 +404,7 @@ With the help of @gusbemacbe,
 
 With all them, I ended the bugs and optimised the size for Ubuntu. 
 
-# 14
+# 14 Venice
 
 * The icon theme package became increasingly minimal and is optimised for Ubuntu distributions. 
 
@@ -107,7 +485,7 @@ Icons designed by @Magog64:
 * The good news is that, you are not any more required to depend on Sam Hewitt's icons and other Suru++ packs, because we have purged the dead symlinks. 
 * WE have switched to GPL3. 
 
-# v13
+# v13 Milano
 
 We have made a biggest update, biggest than v11. :-D We have good news...
 
@@ -301,7 +679,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Xubuntu
   * Zorin
 
-# v12
+# v12 Palermo
 
 <sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
 
@@ -466,7 +844,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 
 * I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
 
-# v11
+# v11 Napoli
 
 * We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
 
@@ -721,7 +1099,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Instagram
 
-# v10.0
+# v10.0 Genova
 
 * Added icons:
   - Aqualung
@@ -841,7 +1219,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - Wordpress
   - XBMC
 
-# v9.0
+# v9.0 Bologna
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
@@ -892,7 +1270,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Adobe Reader 9
   * Adobe Reader 10
 
-# v8.0
+# v8.0 Firenze
 
 * Added icons:
   * Archive Mounter
@@ -912,7 +1290,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * We have provided desktop files located in the folder `desktop` for you who have problems with badly displayed icon;
 * We reorganised README to facilitate expert and novice users. 
 
-# v7.0
+# v7.0 Padua
 
 * Added icons:
   * Address Book
@@ -1035,7 +1413,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Archive
   * Jocky
 
-# v6.0
+# v6.0 Modena
 
 * Added missed icons:
   * Arduino
@@ -1084,7 +1462,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   * Opera
 
-# v5.0
+# v5.0 Verona
 
 * Added icons:
   - Git Cola 
@@ -1118,7 +1496,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Gravit Designer
 
-# v4.0
+# v4.0 Trastevere
 
 * Apps:
   - GNOME-Do
@@ -1154,11 +1532,13 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 - Added and fixed status icons
 - Improved Insync status icons
 
-# v3.0
+# v3.0 Arezzo
+
 - Added Wine icons
 - Improved the icons of GNOME Screenshot, Hyper and Mailspring
 
-# v2.0
+# v2.0 Pisa
+
 - Added icons:
   - Atom Beta
   - Citra
@@ -1177,7 +1557,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - VSCode Insiders
   - Wire
 
-# v1.0
+# v1.0 Pontassieve
 
 - Starting the icons pack
 
