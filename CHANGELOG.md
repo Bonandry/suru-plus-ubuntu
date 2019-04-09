@@ -8,23 +8,29 @@ From the versions 20 and 25, the current and next version will be named after Ja
 * Increased from 1201 to 2200 applications icons!
 * Several icons have been reimagined with a new GNOME 3.32 look:
 
-  <img align="left" alt="agenda"        title="agenda"        height="48px" src="images/gnome-3.32/rubrica.png"> 
-  <img align="left" alt="calendar"      title="calendar"      height="48px" src="images/gnome-3.32/calendario.png"> 
-  <img align="left" alt="camera"        title="camera"        height="48px" src="images/gnome-3.32/telecamera.png"> 
-  <img align="left" alt="cryptography"  title="cryptography"  height="48px" src="images/gnome-3.32/crittografia.png"> 
-  <img align="left" alt="dictionary"    title="dictionary"    height="48px" src="images/gnome-3.32/dizionario.png"> 
-  <img align="left" alt="effects"       title="effects"       height="48px" src="images/gnome-3.32/display.im6.png"> 
-  <img align="left" alt="fonts book"    title="fonts book"    height="48px" src="images/gnome-3.32/font.png"> 
-  <img align="left" alt="icon preview"  title="icon preview"  height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
-  <img align="left" alt="image viewer"  title="image viewer"  height="48px" src="images/gnome-3.32/gthumb.png"> 
-  <img align="left" alt="image viewer"  title="image viewer"  height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
-  <img align="left" alt="log history"   title="log history"   height="48px" src="images/gnome-3.32/cronologia.png"> 
-  <img align="left" alt="mines"         title="mines"         height="48px" src="images/gnome-3.32/mine.png"> 
-  <img align="left" alt="MPV"           title="MPV"           height="48px" src="images/gnome-3.32/mpv.png"> 
-  <img align="left" alt="notepad"       title="notepad"       height="48px" src="images/gnome-3.32/bloc-notes.png"> 
-  <img align="left" alt="smartcard"     title="smartcard"     height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
-  <img align="left" alt="vault"         title="vault"         height="48px" src="images/gnome-3.32/caveau.png"> 
-  <img              alt="video"         title="video"         height="48px" src="images/gnome-3.32/totem.png"> 
+  <img align="left" alt="agenda"          title="agenda"          height="48px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="calculator"      title="calculator"      height="48px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="calendar"        title="calendar"        height="48px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="camera"          title="camera"          height="48px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="cryptography"    title="cryptography"    height="48px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="dictionary"      title="dictionary"      height="48px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effects"         title="effects"         height="48px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="fonts book"      title="fonts book"      height="48px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="Geary"           title="Geary"           height="48px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="icon preview"    title="icon preview"    height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="48px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img align="left" alt="log history"     title="log history"     height="48px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="mines"           title="mines"           height="48px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="system monitor"  title="system monitor"  height="48px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"             title="MPV"             height="48px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="notepad"         title="notepad"         height="48px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="smartcard"       title="smartcard"       height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="terminal"        title="terminal"        height="48px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"           title="tilix"           height="48px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"         title="torrent"         height="48px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="vault"           title="vault"           height="48px" src="images/gnome-3.32/caveau.png"> 
+  <img              alt="video"           title="video"           height="48px" src="images/gnome-3.32/totem.png"> 
 
 * Reduced from 170MB to 30MB! 
 * You will have more freedom to choose one favourite of alternatives icons – GNOME 3.32, Suru, Yaru or unofficial styles, or then, one of your favourite official and unofficial colours! If you want to know how to change the alternative icon, please [visit the tutorial here](). For example:
@@ -186,23 +192,29 @@ Dalle versioni 20 e 25, la versione attuale e le prossime versioni prenderanno i
 * Aumentato da 1201 a 2200 icone di applicazioni!
 * Diverse icone sono state reimmaginate con una nova apparenza di GNOME 3.32:
 
-  <img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="65px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
-  <img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="65px" src="images/gnome-3.32/bloc-notes.png"> 
-  <img align="left" alt="calendario"                  title="calendario"                  height="65px" src="images/gnome-3.32/calendario.png"> 
-  <img align="left" alt="caveau"                      title="caveau"                      height="65px" src="images/gnome-3.32/caveau.png"> 
-  <img align="left" alt="crittografia"                title="crittografia"                height="65px" src="images/gnome-3.32/crittografia.png"> 
-  <img align="left" alt="cronologia"                  title="cronologia"                  height="65px" src="images/gnome-3.32/cronologia.png"> 
-  <img align="left" alt="dizionario"                  title="dizionario"                  height="65px" src="images/gnome-3.32/dizionario.png"> 
-  <img align="left" alt="effeti"                      title="effeti"                      height="65px" src="images/gnome-3.32/display.im6.png"> 
-  <img align="left" alt="libro di font"               title="libro di font"               height="65px" src="images/gnome-3.32/font.png"> 
-  <img align="left" alt="mine"                        title="mine"                        height="65px" src="images/gnome-3.32/mine.png"> 
-  <img align="left" alt="MPV"                         title="MPV"                         height="65px" src="images/gnome-3.32/mpv.png"> 
-  <img align="left" alt="rubrica"                     title="rubrica"                     height="65px" src="images/gnome-3.32/rubrica.png"> 
-  <img align="left" alt="smartcard"                   title="smartcard"                   height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
-  <img align="left" alt="telecamera"                  title="telecamera"                  height="65px" src="images/gnome-3.32/telecamera.png"> 
-  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/gthumb.png"> 
-  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
-  <img              alt="video"                       title="video"                       height="65px" src="images/gnome-3.32/totem.png"> 
+  <img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="48px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="48px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="calendario"                  title="calendario"                  height="48px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="caveau"                      title="caveau"                      height="48px" src="images/gnome-3.32/caveau.png"> 
+  <img align="left" alt="crittografia"                title="crittografia"                height="48px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="cronologia"                  title="cronologia"                  height="48px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="dizionario"                  title="dizionario"                  height="48px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effeti"                      title="effeti"                      height="48px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="Geary"                       title="Geary"                       height="48px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="libro di font"               title="libro di font"               height="48px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="macchina calcotarice"        title="macchina calcotarice"        height="48px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="mine"                        title="mine"                        height="48px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="monitor di sistema"          title="monitor di sistema"          height="48px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"                         title="MPV"                         height="48px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="rubrica"                     title="rubrica"                     height="48px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="smartcard"                   title="smartcard"                   height="48px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="telecamera"                  title="telecamera"                  height="48px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="terminale"                   title="terminale"                   height="48px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"                       title="tilix"                       height="48px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"                     title="torrent"                     height="48px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="48px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="48px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img              alt="video"                       title="video"                       height="48px" src="images/gnome-3.32/totem.png">
 
 * Ridotto da 170 MB a 30 MB!
 * Avrai più libertà di scegliere una delle icone alternative preferite - stilei ufficiali del GNOME 3.32, Suru, Yaru o stili non ufficiali, o poi, uno dei tuoi colori ufficiali e non ufficiali preferiti! Se vuoi sapere come cambiare l'icona alternativa, per favore, [visita il tutorial qui](). Per esempio:

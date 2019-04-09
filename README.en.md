@@ -59,24 +59,30 @@ Added three alternatives of Firefox that you can choose:
 * Upstreamed from Suru++ 25;
 * Several icons have been reimagined with a new GNOME 3.32 look, just click one of them to preview what it is:
 
-<img align="left" alt="agenda"        title="agenda"        height="65px" src="images/gnome-3.32/rubrica.png"> 
-<img align="left" alt="calendar"      title="calendar"      height="65px" src="images/gnome-3.32/calendario.png"> 
-<img align="left" alt="camera"        title="camera"        height="65px" src="images/gnome-3.32/telecamera.png"> 
-<img align="left" alt="cryptography"  title="cryptography"  height="65px" src="images/gnome-3.32/crittografia.png"> 
-<img align="left" alt="dictionary"    title="dictionary"    height="65px" src="images/gnome-3.32/dizionario.png"> 
-<img align="left" alt="effects"       title="effects"       height="65px" src="images/gnome-3.32/display.im6.png"> 
-<img align="left" alt="fonts book"    title="fonts book"    height="65px" src="images/gnome-3.32/font.png"> 
-<img align="left" alt="icon preview"  title="icon preview"  height="65px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
-<img align="left" alt="image viewer"  title="image viewer"  height="65px" src="images/gnome-3.32/gthumb.png"> 
-<img align="left" alt="image viewer"  title="image viewer"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
-<img align="left" alt="log history"   title="log history"   height="65px" src="images/gnome-3.32/cronologia.png"> 
-<img align="left" alt="mines"         title="mines"         height="65px" src="images/gnome-3.32/mine.png"> 
-<img align="left" alt="MPV"           title="MPV"           height="65px" src="images/gnome-3.32/mpv.png"> 
-<img align="left" alt="notepad"       title="notepad"       height="65px" src="images/gnome-3.32/bloc-notes.png"> 
-<img align="left" alt="smartcard"     title="smartcard"     height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
-<img align="left" alt="vault"         title="vault"         height="65px" src="images/gnome-3.32/caveau.png"> 
-<img              alt="video"         title="video"         height="65px" src="images/gnome-3.32/totem.png"> 
-
+  <img align="left" alt="agenda"          title="agenda"          height="64px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="calculator"      title="calculator"      height="64px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="calendar"        title="calendar"        height="64px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="camera"          title="camera"          height="64px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="cryptography"    title="cryptography"    height="64px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="dictionary"      title="dictionary"      height="64px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effects"         title="effects"         height="64px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="fonts book"      title="fonts book"      height="64px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="Geary"           title="Geary"           height="64px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="icon preview"    title="icon preview"    height="64px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="64px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="image viewer"    title="image viewer"    height="64px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img align="left" alt="log history"     title="log history"     height="64px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="mines"           title="mines"           height="64px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="system monitor"  title="system monitor"  height="64px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"             title="MPV"             height="64px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="notepad"         title="notepad"         height="64px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="smartcard"       title="smartcard"       height="64px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="terminal"        title="terminal"        height="64px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"           title="tilix"           height="64px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"         title="torrent"         height="64px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="vault"           title="vault"           height="64px" src="images/gnome-3.32/caveau.png"> 
+  <img              alt="video"           title="video"           height="64px" src="images/gnome-3.32/totem.png"> 
+  
 * You have more options to choose one of alternative icons or icons colours you prefer more, for example, the backup icon:
   * Backup
     * Alternative pictograms

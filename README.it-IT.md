@@ -61,23 +61,29 @@ Aggiunte tre alternative di Firefox che puoi selezionare:
 * Aggiornata dal Suru++ 25;
 * Molte icone sono state reimmaginate con un'apparenza di GNOME 3.32, basta fare un clic su una di esse per visualizzare l'anteprima di ciò che è:
 
-<img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="65px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
-<img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="65px" src="images/gnome-3.32/bloc-notes.png"> 
-<img align="left" alt="calendario"                  title="calendario"                  height="65px" src="images/gnome-3.32/calendario.png"> 
-<img align="left" alt="caveau"                      title="caveau"                      height="65px" src="images/gnome-3.32/caveau.png"> 
-<img align="left" alt="crittografia"                title="crittografia"                height="65px" src="images/gnome-3.32/crittografia.png"> 
-<img align="left" alt="cronologia"                  title="cronologia"                  height="65px" src="images/gnome-3.32/cronologia.png"> 
-<img align="left" alt="dizionario"                  title="dizionario"                  height="65px" src="images/gnome-3.32/dizionario.png"> 
-<img align="left" alt="effeti"                      title="effeti"                      height="65px" src="images/gnome-3.32/display.im6.png"> 
-<img align="left" alt="libro di font"               title="libro di font"               height="65px" src="images/gnome-3.32/font.png"> 
-<img align="left" alt="mine"                        title="mine"                        height="65px" src="images/gnome-3.32/mine.png"> 
-<img align="left" alt="MPV"                         title="MPV"                         height="65px" src="images/gnome-3.32/mpv.png"> 
-<img align="left" alt="rubrica"                     title="rubrica"                     height="65px" src="images/gnome-3.32/rubrica.png"> 
-<img align="left" alt="smartcard"                   title="smartcard"                   height="65px" src="images/gnome-3.32/gcr-smart-card.png"> 
-<img align="left" alt="telecamera"                  title="telecamera"                  height="65px" src="images/gnome-3.32/telecamera.png"> 
-<img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/gthumb.png"> 
-<img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="65px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
-<img              alt="video"                       title="video"                       height="65px" src="images/gnome-3.32/totem.png"> 
+  <img align="left" alt="anteprima di icone"          title="anteprima di icone"          height="64px" src="images/gnome-3.32/org.gnome.IconPreview.png"> 
+  <img align="left" alt="bloc-notes"                  title="bloc-notes"                  height="64px" src="images/gnome-3.32/bloc-notes.png"> 
+  <img align="left" alt="calendario"                  title="calendario"                  height="64px" src="images/gnome-3.32/calendario.png"> 
+  <img align="left" alt="caveau"                      title="caveau"                      height="64px" src="images/gnome-3.32/caveau.png"> 
+  <img align="left" alt="crittografia"                title="crittografia"                height="64px" src="images/gnome-3.32/crittografia.png"> 
+  <img align="left" alt="cronologia"                  title="cronologia"                  height="64px" src="images/gnome-3.32/cronologia.png"> 
+  <img align="left" alt="dizionario"                  title="dizionario"                  height="64px" src="images/gnome-3.32/dizionario.png"> 
+  <img align="left" alt="effeti"                      title="effeti"                      height="64px" src="images/gnome-3.32/display.im6.png"> 
+  <img align="left" alt="Geary"                       title="Geary"                       height="64px" src="images/gnome-3.32/geary.png"> 
+  <img align="left" alt="libro di font"               title="libro di font"               height="64px" src="images/gnome-3.32/font.png"> 
+  <img align="left" alt="macchina calcotarice"        title="macchina calcotarice"        height="64px" src="images/gnome-3.32/calculator.png"> 
+  <img align="left" alt="mine"                        title="mine"                        height="64px" src="images/gnome-3.32/mine.png"> 
+  <img align="left" alt="monitor di sistema"          title="monitor di sistema"          height="64px" src="images/gnome-3.32/monitor-di-sistema.png"> 
+  <img align="left" alt="MPV"                         title="MPV"                         height="64px" src="images/gnome-3.32/mpv.png"> 
+  <img align="left" alt="rubrica"                     title="rubrica"                     height="64px" src="images/gnome-3.32/rubrica.png"> 
+  <img align="left" alt="smartcard"                   title="smartcard"                   height="64px" src="images/gnome-3.32/gcr-smart-card.png"> 
+  <img align="left" alt="telecamera"                  title="telecamera"                  height="64px" src="images/gnome-3.32/telecamera.png"> 
+  <img align="left" alt="terminale"                   title="terminale"                   height="64px" src="images/gnome-3.32/terminal.png"> 
+  <img align="left" alt="tilix"                       title="tilix"                       height="64px" src="images/gnome-3.32/tilix.png"> 
+  <img align="left" alt="torrent"                     title="torrent"                     height="64px" src="images/gnome-3.32/torrent.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="64px" src="images/gnome-3.32/gthumb.png"> 
+  <img align="left" alt="visualizzatore di immagine"  title="visualizzatore di immagine"  height="64px" src="images/gnome-3.32/visualizzatore-di-immagini.png"> 
+  <img              alt="video"                       title="video"                       height="64px" src="images/gnome-3.32/totem.png">
 
 * Hai più opzioni per scegliere una delle icone alternative o uno dei colori di icone che preferisci di più, ad esempio, l'icona di *backup*:
   * Backup
