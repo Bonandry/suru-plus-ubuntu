@@ -2,6 +2,7 @@ body
 {
   background-color: whitesmoke;
   color: #4d4d4d;
+  font-family: Ubuntu;
 }
 
 a
@@ -18,6 +19,11 @@ a:hover
 cursor
 {
   color: aquamarine;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-weight: bold;
 }
 
 h1, h2
